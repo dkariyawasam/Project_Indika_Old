@@ -1,8 +1,10 @@
 # Project_Advance_Green
  
-Purpose
+Objective
 
 - Gym leaders 1-7 can be challenged in any order.
+
+----
 - Each gym leader has 7 versions of their gym challenge depending on the order in which they're challenged.
 - Gym leaders ace need to be fully evolved and reflect their typing therefore some changes will need to be made to their line up.
 - Gym leader aces can only be battled during their gym 7 challenge.
