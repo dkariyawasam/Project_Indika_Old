@@ -1,5 +1,8 @@
 # Project_Advance_Green
- 
+
+To do list
+- [x] Remove cuttable plants roadblock
+
 Objective
 
 - Gym leaders 1-7 can be challenged in any order.
