@@ -2,6 +2,7 @@
 
 To do list
 - [x] Remove cuttable plants roadblock
+- [x] Updated wild encounters in Route 01, 02, 02-Ext, Viridian Forest
 
 Objective
 
