@@ -1,0 +1,42 @@
+(EAccessViolation) Access violation
+Stacktrace:
+  $00453EBE
+  $00453C9B
+  $00456137
+  $004782A0
+  $0046AAA8
+  $0046BA74
+  $0046A393
+  $00470641
+  $00523F21
+  $005244D8
+  $0040AFFA
+  $76D6137B
+  $76D5833A
+  $76D5609A
+  $76D55E60
+  $005324F8
+  $0041F049
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: Z:\Project_Advance_Green\1636 - Pokemon Fire Red (U)(Squirrels).gba
+Romname: POKEMON FIREBPRE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 0
+MapIndex: 
+OldMapIndex: 
+LoadingMapIndex: 
+isMapFile: true
+MapFileName: Z:\Project_Advance_Green\3.20_ROUTE 2.map
+OriginalRomType: BPRE
+MapFileAMVersion: 195
+MapHeaderData of Mapfile: 300000005000000000000000020000000202C300
+MapHeaderData: 0000000000000000000000000000000023015A006600020301060000
+MapFooterData: 30000000500000000000000000000000944A2D08C44A2D0802020000
+EventHeaderData: 020A000200000000000000000000000000000000
+Connections (ConDataOffset/ConnectionAmount): $000000 / 3
+WildPokemonHeader: FFFF000000000000000000000000000000000000
