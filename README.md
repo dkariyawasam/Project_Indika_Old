@@ -5,6 +5,12 @@ To do list
 - [x] Expanded Route 02
 - [x] Added Route 02-Ext connecting Route 02 and Route 16 
 - [x] Updated wild encounters in Route 01, 02, 02-Ext, Viridian Forest
+- [ ] Add fast travel from Pallet Town to Cinebar Island
+- [ ] Expand Route 25
+- [ ] Connect Route 25 and Route 10
+- [ ] Remove tea requirement for Saffron City Guards
+- [ ] Remove old man's pokemon catching tutorial
+- [ ] Remove Viridian City pokemart parcel delivery 
 
 Objective
 
