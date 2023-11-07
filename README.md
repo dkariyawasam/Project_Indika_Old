@@ -1,7 +1,9 @@
 # Project_Advance_Green
 
 To do list
-- [x] Remove cuttable plants roadblock
+- [x] Removed cuttable plants roadblock
+- [x] Expanded Route 02
+- [x] Added Route 02-Ext connecting Route 02 and Route 16 
 - [x] Updated wild encounters in Route 01, 02, 02-Ext, Viridian Forest
 
 Objective
