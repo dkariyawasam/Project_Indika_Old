@@ -10,7 +10,8 @@ To do list
 - [ ] Connect Route 25 and Route 10
 - [ ] Remove tea requirement for Saffron City Guards
 - [ ] Remove old man's pokemon catching tutorial
-- [ ] Remove Viridian City pokemart parcel delivery 
+- [ ] Remove Viridian City pokemart parcel delivery
+- [ ] Connect Route 05-06 Underground Path to Route 07-08 Underground Path
 
 Objective
 
