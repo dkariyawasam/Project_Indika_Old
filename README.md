@@ -9,7 +9,7 @@ To do list
 - [ ] Expand Route 25
 - [ ] Connect Route 25 and Route 10
 - [ ] Remove tea requirement for Saffron City Guards
-- [ ] Remove old man's pokemon catching tutorial
+- [x] Remove old man's pokemon catching tutorial
 - [ ] Remove Viridian City pokemart parcel delivery
 - [ ] Connect Route 05-06 Underground Path to Route 07-08 Underground Path
 - [ ] Add Brock Gym Leader Challenge 1-7
