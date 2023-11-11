@@ -12,7 +12,8 @@ To do list
 - [x] Remove old man's pokemon catching tutorial
 - [ ] Remove Viridian City pokemart parcel delivery
 - [ ] Connect Route 05-06 Underground Path to Route 07-08 Underground Path
-- [ ] Add Brock Gym Leader Challenge 1-7
+- [x] Add Brock Gym Leader Challenge 1-7
+- [x] Add Misty Gym Leader Challenge 1-7
 
 Objective
 
