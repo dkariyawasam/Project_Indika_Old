@@ -1,4 +1,4 @@
-## Erika
+## Koga
 Erika is a kimono girl, she likes to tend to her garden. 
 Erika's ace is Roselia and not Victribel anymore since it's more akin to her flowery theme.
 
@@ -12,6 +12,6 @@ challenge 4 - 2/4 evolved: lv 26 skiploom, lv 30 gloom, lv 30 gloom, lv 34 tange
 
 challenge 5 - 2/5 evolved: lv 31 jumpluff, lv 34 tangela, lv 36 gloom, lv 36 gloom, lv 38 sunkern
 
-challenge 6 - 4/5 evolved: lv 38 sunkern, lv 40 vileplume, lv 40 bellossom, lv 40 jumpluff, lv 42 tangela
+challenge 6 - 4/5 evolved: lv 38 sunkern, lv 40 vileplume, lv 40 bellossom, lv 40 jumpluff, lv 42 ariados
 
-challenge 7 - 6/6 evolved: lv 42 tangela, lv 45 sunflora, lv 45 vileplume, lv 45 bellossom, lv 45 jumpluff, lv 48 roselia
+challenge 7 - 6/6 evolved: lv 42 ariados, lv 45 arbok, lv 45 seviper, lv 45 muk, lv 45 weezing, lv 48 crobat
