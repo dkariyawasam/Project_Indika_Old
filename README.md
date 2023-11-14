@@ -15,6 +15,7 @@ To do list
 - [x] Add Brock Gym Leader Challenge 1-7
 - [x] Add Misty Gym Leader Challenge 1-7
 - [x] Add Lt. Surge Gym Leader Challenge 1-7
+- [ ] Add Erika Gym Leader Challenge 1-7
 
 Objective
 
