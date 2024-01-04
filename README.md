@@ -15,7 +15,11 @@ To do list
 - [x] Add Misty Gym Leader Challenge 1-7
 - [x] Add Lt. Surge Gym Leader Challenge 1-7
 - [x] Add Erika Gym Leader Challenge 1-7
-- [ ] Add Koga Gym Leader Challenge 1-7
+- [x] Add Koga Gym Leader Challenge 1-7
+- [ ] Add Blaine Gym Leader Challenge 1-7
+- [ ] Add Sabrina Gym Leader Challenge 1-7
+
+
 Objective
 
 - Gym leaders 1-7 can be challenged in any order.
