@@ -12,3 +12,5 @@ PKMN 7-8>>5%
 PKMN 9-10>>4%
 
 PKMN 11-12>>1% 
+
+special 0x17B - Plays the Seagull animation
