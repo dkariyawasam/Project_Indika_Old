@@ -15,5 +15,7 @@ PKMN 11-12>>1%
 
 ## PKSV
 \n - next line
+
 \p - next paragraph
+
 special 0x17B - Plays the Seagull animation
