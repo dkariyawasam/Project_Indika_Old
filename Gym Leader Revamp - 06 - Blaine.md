@@ -1,5 +1,5 @@
-## Koga
-Koga is a ninja from Johto.
+## Blaine
+Blaine is a researcher and good friends with Mr Fuji.
 
 challenge 1 - 0/2 evolved: lv 13 ekans, lv 17 grimer
 
