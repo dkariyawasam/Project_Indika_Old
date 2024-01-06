@@ -1,15 +1,15 @@
-//---------------
+'-----------------------------------
 #dyn 0x740000
-#org @koga
-setvar 0x8004 0x6
+#org @blaine
+setvar 0x8004 0x8
 setvar 0x8005 0x2
 special FAME_CHECKER_NEW
 
-checkflag 0x259 ' check if TM06 acquired
+checkflag 0x24E ' check if TM acquired
 if 0x0 goto @battlesorter
 
 //default message
-msgbox @msgbeaten ' When afflicted by TO...
+msgbox @msgbeaten ' TM38 contains FIRE B...
 callstd MSG_NOCLOSE ' Non-closing message
 release
 end
@@ -38,69 +38,72 @@ compare 0x4011 0x6
 if 0x1 goto @battle7
 return
 
-//koga gym challenge 1
+//blaine gym challenge 1
 #org @battle1
-trainerbattle 0x1 0x18 0x0 @msggreeting @msgdefeated @afterbattle
+trainerbattle 0x1 0x1E 0x0 @msggreeting @msgdefeated @afterbattle
 return
 
-//koga gym challenge 2
+//blaine gym challenge 2
 #org @battle2
-trainerbattle 0x1 0x19 0x0 @msggreeting @msgdefeated @afterbattle
+trainerbattle 0x1 0x1F 0x0 @msggreeting @msgdefeated @afterbattle
 return
 
-//koga gym challenge 3
+//blaine gym challenge 3
 #org @battle3
-trainerbattle 0x1 0x1A 0x0 @msggreeting @msgdefeated @afterbattle
+trainerbattle 0x1 0x20 0x0 @msggreeting @msgdefeated @afterbattle
 return
 
-//koga gym challenge 4
+//blaine gym challenge 4
 #org @battle4
-trainerbattle 0x1 0x1B 0x0 @msggreeting @msgdefeated @afterbattle
+trainerbattle 0x1 0x21 0x0 @msggreeting @msgdefeated @afterbattle
 return
 
-//koga gym challenge 5
+//blaine gym challenge 5
 #org @battle5
-trainerbattle 0x1 0x1A2 0x0 @msggreeting @msgdefeated @afterbattle
+trainerbattle 0x1 0x22 0x0 @msggreeting @msgdefeated @afterbattle
 return
 
-//koga gym challenge 6
+//blaine gym challenge 6
 #org @battle6
-trainerbattle 0x1 0x1C 0x0 @msggreeting @msgdefeated @afterbattle
+trainerbattle 0x1 0x1A3 0x0 @msggreeting @msgdefeated @afterbattle
 return
 
-//koga gym challenge 7
+//blaine gym challenge 7
 #org @battle7
-trainerbattle 0x1 0x1D 0x0 @msggreeting @msgdefeated @afterbattle
+trainerbattle 0x1 0x23 0x0 @msggreeting @msgdefeated @afterbattle
 return
 
 //after battle
 #org @afterbattle
-setvar 0x8004 0x6
+'-----------------------------------
+setvar 0x8004 0x8
 setvar 0x8005 0x1
 special FAME_CHECKER
-clearflag 0x9F
-setflag 0x4B4
-setflag FR_BADGE_5
-setvar 0x8008 0x5
+setflag 0x4B6
+setflag FR_BADGE_7
+sethealingplace 0x9
+setvar 0x4071 0x1
+clearflag 0x62
+setvar 0x8008 0x7
 call 0x81A6B18
-msgbox @msgtm ' Now that you have th...
+msgbox @msgtm ' Hah!\pThe VOLCANOBAD...
 callstd MSG_NOCLOSE ' Non-closing message
-checkitemspaceinbag TM06 1
+checkitemspaceinbag TM38 1
 compare LASTRESULT 0x0
-if == jump 0x816D5E7 ' Equal To
-additem TM06 1
-msgbox @msgtm2 ' \v\h01 received TM06...
-copyvarifnotzero 0x8000 TM06
+if == jump 0x816DA75 ' Equal To
+additem TM38 1
+msgbox @msgtm2 ' \v\h01 received TM38...
+copyvarifnotzero 0x8000 TM38
 copyvarifnotzero 0x8001 0x1
 copyvarifnotzero 0x8002 0x101
 callstd MSG_ITEM ' Shows a message, then... 'Player put the yyy in the zzz!'
-setflag 0x259
-msgbox @msgtm3 ' Sealed within that T...
+setflag 0x24E
+msgbox @msgtm3 ' FIRE BLAST is the ul...
 callstd MSG_NOCLOSE ' Non-closing message
 release
 end
 
-#org 0x816D5E7
+#org 0x816DA75
 '-----------------------------------
 msgbox @msgnospace ' Make space for this,...
 callstd MSG_NOCLOSE ' Non-closing message
@@ -203,22 +206,22 @@ return
 
 
 #org @msggreeting
-= KOGA: Fwahahaha!\pA mere child like you dares to\nchallenge me?\pThe very idea makes me shiver\nwith mirth!\pVery well, I shall show you true\nterror as a ninja master.\pPoison brings steady doom.\nSleep renders foes helpless.\pDespair to the creeping horror of\nPOISON-type POK\eMON!\c\h0B\h56\h01
+= Hah!\pI am BLAINE, the red-hot LEADER\nof CINNABAR GYM!\pMy fiery POK\eMON are all rough\nand ready with intense heat!\pThey incinerate all challengers!\pHah!\nYou better have BURN HEAL!\c\h0B\h56\h01
 
 #org @msgdefeated
-= Humph!\nYou have proven your worth!\pHere!\nTake the SOULBADGE!
+= I have burned down to nothing!\nNot even ashes remain!\pYou have earned the VOLCANOBADGE.
 
 #org @msgbeaten
-= When afflicted by TOXIC, a POK\eMON\nsuffers more and more.\pIt suffers worsening damage as the\nbattle wears on!\pIt will surely terrorize foes!
+= TM38 contains FIRE BLAST.\nTeach it to FIRE-type POK\eMON.\pVULPIX or CHARMELEON would be\nideal for that move.
 
 #org @msgtm
-= Now that you have the SOULBADGE,\nthe DEFENSE of your POK\eMON rises.\pIt also lets you SURF outside of\nbattle.\pAh!\nTake this, too!
+= Hah!\pThe VOLCANOBADGE heightens the\nSPECIAL stats of your POK\eMON.\pHere, you can have this, too!
 
 #org @msgtm2
-= \v\h01 received TM06\nfrom KOGA.
+= \v\h01 received TM38\nfrom BLAINE.
 
 #org @msgtm3
-= Sealed within that TM06 lies\nTOXIC!\pIt is a secret technique dating\nback some four hundred years.
+= FIRE BLAST is the ultimate fire\ntechnique.\pDon't waste it on WATER POK\eMON.
 
 #org @msgnospace
 = Make space for this, child!
