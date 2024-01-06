@@ -14,8 +14,8 @@
 ## Forest
 #### Route 02
 - Caterpie (30%), Metapod (20%), Butterfree (10%) - Kanto, Johto, Kalos, Alola, Galar
-- Pichu (4%), Pikachu (15%), Raichu (2%) - Kanto, Kalos, Alola, Galar
-- Hoothoot (14%), Noctowl (5%) - Kanto, Johto, Sinnoh, Alola, Galar
+- Pichu (4%), Pikachu (15%), Raichu (1%) - Kanto, Kalos, Alola, Galar
+- Hoothoot (14%), Noctowl (6%) - Kanto, Johto, Sinnoh, Alola, Galar
 #### Viridian Forest
 - Bellsprout (20%), Weepinbell (5%), Victreebel (1%) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola
 - Venonat (10%), Venomoth (4%) - Kanto, Johto, Sinnoh, Unova
