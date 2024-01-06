@@ -27,6 +27,7 @@ end
 '-----------------------------------
 closemsg
 fadescreen FADEOUT_BLACK
+setvar 0x8006 0x8
 special 0x17B
 waitspecial
 end
@@ -38,5 +39,5 @@ end
 = Okay, everything's in order.\pWe'll be departing immediately.
 
 #org @msgnogo
-= Alright, do come talk to me\n when you do.
+= Alright, do come talk to me\nwhen you do.
 
