@@ -33,6 +33,6 @@ special 0x17B - Plays the Seagull animation
 |5|24 02 08 05|n/a|
 |6|25 02 08 05|n/a|
 |7|1F 06 08 05|n/a|
-|8|03 08 15 07|03 28 0C 2D|
+|8|03 08 15 07(Cinnabar Island)|03 28 0C 2D (Route 21)|
 |9|02 3B 08 05|n/a|
 |10|02 3A 08 05|n/a|
