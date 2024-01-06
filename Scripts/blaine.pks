@@ -98,6 +98,7 @@ copyvarifnotzero 0x8001 0x1
 copyvarifnotzero 0x8002 0x101
 callstd MSG_ITEM ' Shows a message, then... 'Player put the yyy in the zzz!'
 setflag 0x24E
+addvar 0x4011 0x1
 msgbox @msgtm3 ' FIRE BLAST is the ul...
 callstd MSG_NOCLOSE ' Non-closing message
 release
