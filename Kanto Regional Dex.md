@@ -101,12 +101,12 @@ Water's Edge - ROUTE 06, 10, 12, 19, 20, 21, 24
 #### Power Plant
 - Voltorb, Electrode - Kanto, Hoenn, Sinnoh
 - Magnemite, Magneton, Magnezone - Kanto, Johto, Hoenn, Sinnoh, Unova, Alola, Galar
-- Koffing, Weezing - Kanto, Johto, Hoenn, Unova, Galar
+- Grimer, Muk - Kanto, Hoenn, Sinnoh, Unova, Alola
 #### Pokemon Tower
 - Gastly, Haunter, Gengar - Kanto, Johto, Sinnoh, Unova, Alola, Galar
 #### Pokemon Mansion
 - Ditto - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
-- Grimer, Muk - Kanto, Hoenn, Sinnoh, Unova, Alola
+- Koffing, Weezing - Kanto, Johto, Hoenn, Unova, Galar
 ----
 ## Extinct
 - Omanyte, Omastar - Kanto, Sinnoh, Unova, Kalos, Alola, Galar
