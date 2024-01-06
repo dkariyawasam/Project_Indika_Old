@@ -18,7 +18,7 @@ To do list
 - [x] Add Lt. Surge Gym Leader Challenge 1-7
 - [x] Add Erika Gym Leader Challenge 1-7
 - [x] Add Koga Gym Leader Challenge 1-7
-- [ ] Add Blaine Gym Leader Challenge 1-7
+- [x] Add Blaine Gym Leader Challenge 1-7
 - [ ] Add Sabrina Gym Leader Challenge 1-7
 
 
