@@ -62,7 +62,7 @@ Water's Edge - ROUTE 06, 10, 12, 19, 20, 21, 24
 ----
 ## Mountain
 #### Route 03
-- Mankey, Primeape - Kanto, Johto, Sinnoh, Unova, Alola
+- Mankey (80%), Primeape (20%) - Kanto, Johto, Sinnoh, Unova, Alola
 #### Route 04
 - Cubone, Marowak - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
 #### Route 09
