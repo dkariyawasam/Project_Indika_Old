@@ -82,7 +82,7 @@ Water's Edge - ROUTE 06, 10, 12, 19, 20, 21, 24
 #### Route  14
 - Sandshrew, Sandslash - Kanto, Johto, Hoenn, Unova, Alola, Galar
 #### Route 15
-- Ponyta, Rapidash - Kanto, Sinnoh, Galar
+- Ponyta (80%), Rapidash (20%) - Kanto, Sinnoh, Galar
 #### Route 22
 - Kangaskhan - Kanto, Johto, Unova, Kalos, Alola, Galar
 - Igglybuff, Jigglypuff, Wigglytuff - Kanto, Johto, Hoenn, Unova, Kalos, Alola, Galar
