@@ -7,9 +7,9 @@
 - Hoppip (25%), Skiploom (20%), Jumpluff (8%) - Kanto, Johto, Sinnoh, Unova, Kalos
 - Vulpix (20%), Ninetales (1%) - Kanto, Johto, Hoenn, Unova, Alola, Galar
 #### Route 11
-- Nidoran (15%), Nidorina (4%), Nidoqueen (1%), Nidorino (4%), Nidoking (1%) - Kanto, Johto, Sinnoh, Unova, Kalos, Galar
-- Drowsee, Hypno - Kanto, Johto, Sinnoh, Alola
-- Elekid, Electabuzz, Electivire - Kanto, Sinnoh, Unova, Alola, Galar
+- Nidoranf (10%), Nidoranm (10%), Nidorina (14%), Nidoqueen (1%), Nidorino (14%), Nidoking (1%) - Kanto, Johto, Sinnoh, Unova, Kalos, Galar
+- Drowsee (20%), Hypno (10%) - Kanto, Johto, Sinnoh, Alola
+- Elekid (20%), Electabuzz (8%), Electivire (0%) - Kanto, Sinnoh, Unova, Alola, Galar
 ----
 ## Forest
 #### Route 02
