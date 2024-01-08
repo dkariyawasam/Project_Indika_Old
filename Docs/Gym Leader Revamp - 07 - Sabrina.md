@@ -1,5 +1,5 @@
-## Blaine
-Blaine is a researcher and good friends with Mr Fuji.
+## Sabrina
+Sabrina is a psychic.
 
 challenge 1 - 0/2 evolved: lv 13 growlithe, lv 17 houndour
 
