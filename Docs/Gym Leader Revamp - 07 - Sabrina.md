@@ -1,16 +1,16 @@
 ## Sabrina
 Sabrina is a psychic.
 
-challenge 1 - 0/2 evolved: lv 13 growlithe, lv 17 houndour
+challenge 1 - 0/2 evolved: lv 13 smoochum, lv 17 ralts
 
-challenge 2 - 1/3 evolved: lv 17 houndour, lv 20 arcanine, lv 23 vulpix 
+challenge 2 - 1/3 evolved: lv 17 ralts, lv 20 smoochum, lv 23 smoochum 
 
-challenge 3 - 2/3 evolved: lv 23 vulpix , lv 25 arcanine, lv 27 houndoom
+challenge 3 - 2/3 evolved: lv 23 smoochum , lv 25 kirilia, lv 27 chingling
 
-challenge 4 - 2/4 evolved: lv 27 houndoom, lv 30 arcanine, lv 30 vulpix, lv 32 slugma
+challenge 4 - 2/4 evolved: lv 27 chingling, lv 30 baltoy, lv 30 jynx, lv 32 gardevoir
 
-challenge 5 - 2/5 evolved: lv 32 slugma, lv 35 vulpix, lv 35 arcanine, lv 35 houndoom, lv 38 ponyta
+challenge 5 - 2/5 evolved: lv 32 gardevoir, lv 35 jynx, lv 35 baltoy, lv 35 slowpoke, lv 38 chingling
 
-challenge 6 - 4/5 evolved: lv 38 ponyta, lv 40 houndoom, lv 40 ninetales, lv 40 arcanine, lv 42 magcargo
+challenge 6 - 4/5 evolved: lv 38 chingling , lv 40 slowking, lv 40 claydol, lv 40 gardevoir, lv 43 jynx
 
-challenge 7 - 6/6 evolved: lv 42 magcargo, lv 45 houndoom, lv 45 ninetales, lv 45 arcanine, lv 45 rapidash, lv 48 magmortar
+challenge 7 - 6/6 evolved: lv 43 jynx, lv 45 gardevoir, lv 45 chimecho, lv 45 claydol, lv 45 slowking, lv 47 alakazam
