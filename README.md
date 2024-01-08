@@ -50,5 +50,4 @@ Objective
 - Unevolved pokemon can be found in the wild from lvl 5 up to the lvl they evolve at.
 - Baby pookemon can only be found in the wild at lvl 5.
 - Pokemon that evolve through items can be found in the wild at 1% encounter rate between lvl 5 and 25. (as long as that item is placed somewhere around the area).
-- Pokemon that evolve through friendship cannot be found in the wild.
-- 
+- Pokemon that evolve through friendship and when traded cannot be found in the wild.
