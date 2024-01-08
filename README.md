@@ -19,7 +19,7 @@ To do list
 - [x] Add Erika Gym Leader Challenge 1-7
 - [x] Add Koga Gym Leader Challenge 1-7
 - [x] Add Blaine Gym Leader Challenge 1-7
-- [ ] Add Sabrina Gym Leader Challenge 1-7
+- [x] Add Sabrina Gym Leader Challenge 1-7
 
 
 Objective
