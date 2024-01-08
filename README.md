@@ -2,8 +2,8 @@
 To do list
 - [x] Removed cuttable plants roadblock
 - [x] Expanded Route 02
-- [x] Added Route 02-Ext connecting Route 02 and Route 16 
-- [x] Updated wild encounters in Route 01, 02, 02-Ext, Viridian Forest
+- [x] Added Route 02-Ext, connecting Route 02 and Route 16 
+- [x] Updated wild encounters in Route 01, 02, 02-Ext, Viridian Forest, 08
 - [x] Add fast travel from Pallet Town to Cinnabar Island
 - [x] Add fast travel from Cinnabar Island to Pallet Town and Fuschia City
 - [ ] Add fast travel from Fuschia City to Cinnabar Island
