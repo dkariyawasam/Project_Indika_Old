@@ -1,4 +1,4 @@
-# Project Advance Blue
+# Pokemon Re:Kanto 
 To do list
 - [x] Removed cuttable plants roadblock
 - [x] Expanded Route 02
