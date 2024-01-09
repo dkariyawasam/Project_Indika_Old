@@ -1,4 +1,4 @@
-# Project_Advance_Blue
+# Project Advance Blue
 To do list
 - [x] Removed cuttable plants roadblock
 - [x] Expanded Route 02
@@ -25,7 +25,7 @@ To do list
 Objective
 
 - Gym leaders 1-7 can be challenged in any order.
-- Most pokemon are found through wild ecounters 
+- The wild encounter pool is from classic Kanto + HGSS
 
 ----
 ### Gym Leaders
