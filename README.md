@@ -12,7 +12,7 @@ To do list
 - [x] Remove tea requirement for Saffron City Guards
 - [x] Remove old man's pokemon catching tutorial
 - [x] Remove Viridian City pokemart parcel delivery
-- [ ] Connect Route 05-06 Underground Path to Route 07-08 Underground Path
+- [x] Connect Route 05-06 Underground Path to Route 07-08 Underground Path
 - [x] Add Brock Gym Leader Challenge 1-7
 - [x] Add Misty Gym Leader Challenge 1-7
 - [x] Add Lt. Surge Gym Leader Challenge 1-7
