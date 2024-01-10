@@ -20,7 +20,7 @@ To do list
 - [x] Add Koga Gym Leader Challenge 1-7
 - [x] Add Blaine Gym Leader Challenge 1-7
 - [x] Add Sabrina Gym Leader Challenge 1-7
-
+- [ ] Redesign Brock's gym to have an archeological theme
 
 Objective
 
