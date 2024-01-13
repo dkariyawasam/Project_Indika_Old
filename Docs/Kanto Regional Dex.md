@@ -74,8 +74,8 @@ Water's Edge - ROUTE 06, 10, 12, 19, 20, 21, 24
 ----
 ## Rough Terrain
 #### Route 05
-- Spearow, Fearow - Kanto, Johto, Sinnoh, Alola
-- Ekans, Arbok - Kanto, Johto, Kalos, Alola
+- Spearow (40%), Fearow (10%) - Kanto, Johto, Sinnoh, Alola
+- Ekans (40%), Arbok (10%) - Kanto, Johto, Kalos, Alola
 #### Route 13
 - Growlithe, Arcanine - Kanto, Johto, Unova, Alola, Galar
 - Houndour, Houndoom - Kanto, Johto, Unova, Kalos
