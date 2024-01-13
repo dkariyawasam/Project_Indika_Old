@@ -64,7 +64,7 @@ Water's Edge - ROUTE 06, 10, 12, 19, 20, 21, 24
 #### Route 03
 - Mankey (80%), Primeape (20%) - Kanto, Johto, Sinnoh, Unova, Alola
 #### Route 04
-- Cubone, Marowak - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
+- Cubone (80%), Marowak (20%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
 #### Route 09
 - Machop, Machoke, Machamp - Everywhere
 - Geodude, Graveller, Golem - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola
