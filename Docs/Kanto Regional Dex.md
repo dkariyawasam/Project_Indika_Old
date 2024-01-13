@@ -49,8 +49,8 @@ Water's Edge - ROUTE 06, 10, 12, 19, 20, 21, 24
 ----
 ## Cave
 #### Mt Moon
-- Zubat, Golbat, Crobat - Everywhere
-- Cleffa, Clefairy, Clefable - Kanto, Sinnoh, Unova, Alola, Galar
+- Zubat (60%), Golbat (20%), Crobat (0%) - Everywhere
+- Cleffa (2%), Clefairy (10%), Clefable (8%) - Kanto, Sinnoh, Unova, Alola, Galar
 #### Diglett Cave
 - Diglett, Dugtrio - Kanto, Sinnoh, Alola, Galar
 #### Rock Tunnel
