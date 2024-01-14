@@ -23,9 +23,9 @@
 - Oddish (20%), Gloom (10%), Vileplume (1%), Bellossom (4%) - Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Galar
 - Spinarak (10%), Ariados (5%) - Kanto, Johto, Alola
 #### Route 07
-- Ledyba, Ledian - Kanto, Johto, Kalos, Alola
-- Pineco, Forretress - Kanto, Johto, Sinnoh, Unova, Alola
-- Murkrow, Honchkrow - Kanto, Sinnoh, Unova, Kalos, Alola
+- Ledyba (30%), Ledian (5%) - Kanto, Johto, Kalos, Alola
+- Pineco (30%), Forretress (5%) - Kanto, Johto, Sinnoh, Unova, Alola
+- Murkrow (30%), Honchkrow (0%) - Kanto, Sinnoh, Unova, Kalos, Alola
 #### Route 25
 - Weedle, Kakuna, Beedrill - Kanto, Johto, Kalos
 - Pidgey, Pidgeotto, Pidgeot - Kanto, Johto, Sinnoh, Unova, Kalos
