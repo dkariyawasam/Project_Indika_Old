@@ -33,9 +33,9 @@
 ----
 ## Water's Edge
 #### Route 06
-- Psyduck, Golduck - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
-- Slowpoke, Slowbro, Slowking - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
-- Shellder, Cloyster - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Psyduck (20%), Golduck (15%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
+- Slowpoke (20%), Slowbro (15%), Slowking (2%) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Shellder (20%), Cloyster (8%) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
 #### Route 10
 - Krabby, Kingler - Kanto, Johto, Sinnoh, Unova, Galar
 #### Route 12
