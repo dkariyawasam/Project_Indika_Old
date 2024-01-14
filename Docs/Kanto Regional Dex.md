@@ -31,20 +31,28 @@
 - Pidgey, Pidgeotto, Pidgeot - Kanto, Johto, Sinnoh, Unova, Kalos
 - Sneasel, Weavile, Sneasler - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
 ----
-Water's Edge - ROUTE 06, 10, 12, 19, 20, 21, 24
+## Water's Edge
+#### Route 06
+- Psyduck, Golduck - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
+- Slowpoke, Slowbro, Slowking - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Shellder, Cloyster - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+#### Route 10
+- Krabby, Kingler - Kanto, Johto, Sinnoh, Unova, Galar
+#### Route 12
+- Poliwag, Poliwhirl, Poliwrath, Politoed - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+#### Route 21
+- Seel, Dewgong - Kanto, Johto, Sinnoh, Unova, Alola
+#### Route 24
+- Staryu, Starmie - Everywhere
+- Corsola, Cursola - Everywhere
+## Water
+#### Route 19
+#### Route 20
 - Goldeen, Seaking - Everywhere
 - Magikarp, Gyarados - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola, Galar
-- Krabby, Kingler - Kanto, Johto, Sinnoh, Unova, Galar
-- Psyduck, Golduck - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
-- Poliwag, Poliwhirl, Poliwrath, Politoed - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
-- Slowpoke, Slowbro, Slowking - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
 - Tentacool, Tentacruel - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola, Galar
-- Staryu, Starmie - Everywhere
 - Chinchou, Lanturn - Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar
-- Shellder, Cloyster - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
 - Qwilfish, Overqwil - Kanto, Johto, Sinnoh, Unova, Kalos, Galar
-- Corsola, Cursola - Everywhere
-- Seel, Dewgong - Kanto, Johto, Sinnoh, Unova, Alola
 - Horsea, Seadra, Kingdra - Everywhere
 ----
 ## Cave
