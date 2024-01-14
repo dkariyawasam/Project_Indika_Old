@@ -3,7 +3,7 @@ To do list
 - [x] Removed cuttable plants roadblock
 - [x] Expanded Route 02
 - [x] Added Route 02-Ext, connecting Route 02 and Route 16 
-- [x] Updated wild encounters in Route 01, 02, 02-Ext, 03, 04, 05, 06, 08, 11, 15, Viridian Forest, Mt Moon, Pokemon Mansion
+- [x] Updated wild encounters in Route 01, 02, 02-Ext, 03, 04, 05, 06, 07, 08, 11, 15, Viridian Forest, Mt Moon, Pokemon Mansion
 - [x] Add fast travel from Pallet Town to Cinnabar Island
 - [x] Add fast travel from Cinnabar Island to Pallet Town and Fuschia City
 - [x] Add fast travel from Fuschia City to Cinnabar Island
