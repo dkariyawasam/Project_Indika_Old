@@ -7,8 +7,8 @@ To do list
 - [x] Add fast travel from Pallet Town to Cinnabar Island
 - [x] Add fast travel from Cinnabar Island to Pallet Town and Fuschia City
 - [x] Add fast travel from Fuschia City to Cinnabar Island
-- [ ] Expand Route 25
-- [ ] Connect Route 25 and Route 10
+- [x] Expand Route 25
+- [x] Connect Route 25 and Route 10
 - [x] Remove tea requirement for Saffron City Guards
 - [x] Remove old man's pokemon catching tutorial
 - [x] Remove Viridian City pokemart parcel delivery
