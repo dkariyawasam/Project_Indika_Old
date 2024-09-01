@@ -11,13 +11,17 @@ Exploration
 
 - [x] Expanded Route 02
 - [x] Added Route 02-Ext, connecting Route 02 and Route 16 
-- [x] Updated wild encounters in Route 01, 02, 02-Ext, 03, 04, 05, 06, 07, 08, 11, 15, Viridian Forest, Mt Moon, Pokemon Mansion
 - [x] Added fast travel from Pallet Town to Cinnabar Island
 - [x] Added fast travel from Cinnabar Island to Pallet Town and Fuschia City
 - [x] Added fast travel from Fuschia City to Cinnabar Island
 - [x] Expanded Route 25
 - [x] Connected Route 25 and Route 10
 - [x] Connected Route 05-06 Underground Path to Route 07-08 Underground Path
+
+Pokedex
+
+- [x] Updated wild encounters in Route 01, 02, 02-Ext, 03, 04, 05, 06, 07, 08, 11, 15, Viridian Forest, Mt Moon, Pokemon Mansion
+- [x] Updated Tangela's habitat to be Forest instead of Grassland 
 
 Gym Challenge
 
