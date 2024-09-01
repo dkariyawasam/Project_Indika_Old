@@ -70,9 +70,11 @@
 ----
 ## Mountain
 #### Route 03
-- Mankey (80%), Primeape (20%) - Kanto, Johto, Sinnoh, Unova, Alola
+- Mankey (40%), Primeape (10%) - Kanto, Johto, Sinnoh, Unova, Alola
+- Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto, Hoenn, Unova, Kalos, Alola, Galar
 #### Route 04
-- Cubone (80%), Marowak (20%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
+- Cubone (40%), Marowak (10%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
+- Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto, Hoenn, Unova, Kalos, Alola, Galar
 #### Route 09
 - Machop, Machoke, Machamp - Everywhere
 - Geodude, Graveller, Golem - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola
@@ -93,7 +95,6 @@
 - Ponyta (80%), Rapidash (20%) - Kanto, Sinnoh, Galar
 #### Route 22
 - Kangaskhan - Kanto, Johto, Unova, Kalos, Alola, Galar
-- Igglybuff, Jigglypuff, Wigglytuff - Kanto, Johto, Hoenn, Unova, Kalos, Alola, Galar
 #### Route 23
 - Rhyhorn, Rhydon, Rhyperior - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
 ----
