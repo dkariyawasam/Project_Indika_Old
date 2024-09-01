@@ -20,7 +20,7 @@ Exploration
 
 Pokedex
 
-- [x] Updated wild encounters in Route 01, 02, 02-Ext, 03, 04, 05, 06, 07, 08, 11, 15, Viridian Forest, Mt Moon, Pokemon Mansion
+- [x] Updated wild encounters in Route 01, 02, 02-Ext, 03, 04, 05, 06, 07, 08, 11, 15, 22, Viridian Forest, Mt Moon, Pokemon Mansion
 - [x] Updated Tangela's habitat to be Forest instead of Grassland
 - [x] Updated Oddish line's habbit to be Forest instead of Grassland
 
