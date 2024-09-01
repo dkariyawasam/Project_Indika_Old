@@ -6,6 +6,7 @@ Roadblocks
 - [x] Replaced Viridian City pokemart parcel delivery with Pallet Town girl 
 - [x] Removed Secret Key requirement to enter Blaine's Gym
 - [x] Removed cuttable plants
+
 Exploration
 
 - [x] Expanded Route 02
@@ -17,6 +18,7 @@ Exploration
 - [x] Expanded Route 25
 - [x] Connected Route 25 and Route 10
 - [x] Connected Route 05-06 Underground Path to Route 07-08 Underground Path
+
 Gym Challenge
 
 - [x] Added Brock Gym Leader Challenge 1-7
