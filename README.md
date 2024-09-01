@@ -1,6 +1,11 @@
-# Pokemon Re:Kanto 
-To do list
-- [x] Removed cuttable plants roadblock
+# Pokemon Re:Kanto
+Roadblocks
+- [x] Removed tea requirement for Saffron City Guards
+- [x] Replaced old man's pokemon catching tutorial with Teachy TV item pickup
+- [x] Replaced Viridian City pokemart parcel delivery with Pallet Town girl 
+- [x] Removed Secret Key requirement to enter Blaine's Gym
+- [x] Removed cuttable plants
+Exploration
 - [x] Expanded Route 02
 - [x] Added Route 02-Ext, connecting Route 02 and Route 16 
 - [x] Updated wild encounters in Route 01, 02, 02-Ext, 03, 04, 05, 06, 07, 08, 11, 15, Viridian Forest, Mt Moon, Pokemon Mansion
@@ -9,10 +14,8 @@ To do list
 - [x] Added fast travel from Fuschia City to Cinnabar Island
 - [x] Expanded Route 25
 - [x] Connected Route 25 and Route 10
-- [x] Removed tea requirement for Saffron City Guards
-- [x] Removed old man's pokemon catching tutorial
-- [x] Removed Viridian City pokemart parcel delivery
 - [x] Connected Route 05-06 Underground Path to Route 07-08 Underground Path
+Gym Challenge
 - [x] Added Brock Gym Leader Challenge 1-7
 - [x] Added Misty Gym Leader Challenge 1-7
 - [x] Added Lt. Surge Gym Leader Challenge 1-7
@@ -21,7 +24,7 @@ To do list
 - [x] Added Blaine Gym Leader Challenge 1-7
 - [x] Added Sabrina Gym Leader Challenge 1-7
 - [ ] Redesign Brock's gym to have an archeological theme
-- [ ] Remove Secret Key requirement to Blaine's Gym 
+
 
 Objective
 
