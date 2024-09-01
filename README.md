@@ -4,23 +4,24 @@ To do list
 - [x] Expanded Route 02
 - [x] Added Route 02-Ext, connecting Route 02 and Route 16 
 - [x] Updated wild encounters in Route 01, 02, 02-Ext, 03, 04, 05, 06, 07, 08, 11, 15, Viridian Forest, Mt Moon, Pokemon Mansion
-- [x] Add fast travel from Pallet Town to Cinnabar Island
-- [x] Add fast travel from Cinnabar Island to Pallet Town and Fuschia City
-- [x] Add fast travel from Fuschia City to Cinnabar Island
-- [x] Expand Route 25
-- [x] Connect Route 25 and Route 10
-- [x] Remove tea requirement for Saffron City Guards
-- [x] Remove old man's pokemon catching tutorial
-- [x] Remove Viridian City pokemart parcel delivery
-- [x] Connect Route 05-06 Underground Path to Route 07-08 Underground Path
-- [x] Add Brock Gym Leader Challenge 1-7
-- [x] Add Misty Gym Leader Challenge 1-7
-- [x] Add Lt. Surge Gym Leader Challenge 1-7
-- [x] Add Erika Gym Leader Challenge 1-7
-- [x] Add Koga Gym Leader Challenge 1-7
-- [x] Add Blaine Gym Leader Challenge 1-7
-- [x] Add Sabrina Gym Leader Challenge 1-7
+- [x] Added fast travel from Pallet Town to Cinnabar Island
+- [x] Added fast travel from Cinnabar Island to Pallet Town and Fuschia City
+- [x] Added fast travel from Fuschia City to Cinnabar Island
+- [x] Expanded Route 25
+- [x] Connected Route 25 and Route 10
+- [x] Removed tea requirement for Saffron City Guards
+- [x] Removed old man's pokemon catching tutorial
+- [x] Removed Viridian City pokemart parcel delivery
+- [x] Connected Route 05-06 Underground Path to Route 07-08 Underground Path
+- [x] Added Brock Gym Leader Challenge 1-7
+- [x] Added Misty Gym Leader Challenge 1-7
+- [x] Added Lt. Surge Gym Leader Challenge 1-7
+- [x] Added Erika Gym Leader Challenge 1-7
+- [x] Added Koga Gym Leader Challenge 1-7
+- [x] Added Blaine Gym Leader Challenge 1-7
+- [x] Added Sabrina Gym Leader Challenge 1-7
 - [ ] Redesign Brock's gym to have an archeological theme
+- [ ] Remove Secret Key requirement to Blaine's Gym 
 
 Objective
 
