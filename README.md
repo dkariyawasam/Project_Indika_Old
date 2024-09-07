@@ -24,6 +24,7 @@ Pokedex
 - [x] Updated Tangela's habitat to be Forest instead of Grassland
 - [x] Updated Oddish line's habbit to be Forest instead of Grassland
 - [x] Updated Kangaskhan's habitat to be Rough Terrain instead of Grassland
+- [x] Updated Oak to immediately give National Dex
 
 Gym Challenge
 
