@@ -14,16 +14,18 @@ Exploration
 - [x] Added fast travel from Pallet Town to Cinnabar Island
 - [x] Added fast travel from Cinnabar Island to Pallet Town and Fuschia City
 - [x] Added fast travel from Fuschia City to Cinnabar Island
+- [x] Added more grass to route 07 
 - [x] Expanded Route 25
 - [x] Connected Route 25 and Route 10
 - [x] Connected Route 05-06 Underground Path to Route 07-08 Underground Path
 
 Pokedex
 
-- [x] Updated wild encounters in Route 01, 02, 02-Ext, 03, 04, 05, 06, 07, 08, 11, 15, 22, Viridian Forest, Mt Moon, Pokemon Mansion
+- [x] Updated wild encounters in Route 01, 02, 02-Ext, 03, 04, 05, 06, 07, 08, 09, 10, 11, 15, 22, Viridian Forest, Mt Moon, Pokemon Mansion
 - [x] Updated Tangela's habitat to be Forest instead of Grassland
-- [x] Updated Oddish line's habbit to be Forest instead of Grassland
+- [x] Updated Oddish line's habitat to be Forest instead of Grassland
 - [x] Updated Kangaskhan's habitat to be Rough Terrain instead of Grassland
+- [x] Updated Wigglytuff line's habitat to be Mountain instead of Forest
 - [x] Updated Oak to immediately give National Dex
 
 Gym Challenge
