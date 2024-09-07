@@ -27,9 +27,9 @@
 - Pineco (30%), Forretress (5%) - Kanto, Johto, Sinnoh, Unova, Alola
 - Murkrow (30%), Honchkrow (0%) - Kanto, Sinnoh, Unova, Kalos, Alola
 #### Route 25
-- Weedle, Kakuna, Beedrill - Kanto, Johto, Kalos
-- Pidgey, Pidgeotto, Pidgeot - Kanto, Johto, Sinnoh, Unova, Kalos
-- Sneasel, Weavile, Sneasler - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
+- Weedle (25%), Kakuna (10%), Beedrill (5%) - Kanto, Johto, Kalos
+- Pidgey (25%), Pidgeotto (10%), Pidgeot (5%) - Kanto, Johto, Sinnoh, Unova, Kalos
+- Sneasel (20%), Weavile (0%), Sneasler (0%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
 ----
 ## Water's Edge
 #### Route 06
