@@ -22,10 +22,12 @@ Exploration
 Pokedex
 
 - [x] Updated wild encounters in Route 01, 02, 02-Ext, 03, 04, 05, 06, 07, 08, 09, 10, 11, 15, 22, Viridian Forest, Mt Moon, Pokemon Mansion
-- [x] Updated Tangela's habitat to be Forest instead of Grassland
-- [x] Updated Oddish line's habitat to be Forest instead of Grassland
-- [x] Updated Kangaskhan's habitat to be Rough Terrain instead of Grassland
-- [x] Updated Wigglytuff line's habitat to be Mountain instead of Forest
+- [x] Moved Tangela's habitat to be Forest instead of Grassland
+- [x] Moved Oddish line's habitat to be Forest instead of Grassland
+- [x] Moved Kangaskhan's habitat to be Rough Terrain instead of Grassland
+- [x] Moved Igglybuff line's habitat to be Mountain instead of Forest
+- [x] Moved Squirtle's line habitat to be Rare instead of Water's Edge
+- [x] Moved Bulbasaur's line habitat to be Rare instead of Grassland
 - [x] Updated Oak to immediately give National Dex
 
 Gym Challenge
