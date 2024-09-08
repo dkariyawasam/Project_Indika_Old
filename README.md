@@ -40,7 +40,10 @@ Gym Challenge
 - [x] Added Blaine Gym Leader Challenge 1-7
 - [x] Added Sabrina Gym Leader Challenge 1-7
 - [ ] Redesigned Brock's gym to have an archeological theme
-- [ ] Added Tangrowth, Hunchkrow, Weavile to the pokedex
+- [ ] Added Tangrowth
+- [ ] Added Hunchkrow
+- [ ] Added  Weavile
+- [x] Added Electivire
 - [ ] Added Tangrowth as an overworld high level pokemon in Viridian Forest 
 
 
