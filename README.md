@@ -18,6 +18,7 @@ Exploration
 - [x] Expanded Route 25
 - [x] Connected Route 25 and Route 10
 - [x] Connected Route 05-06 Underground Path to Route 07-08 Underground Path
+- [x] Added Tangrowth as an overworld high level Alpha pokemon in Viridian Forest 
 
 Pokedex
 
@@ -29,6 +30,10 @@ Pokedex
 - [x] Moved Squirtle line habitat to be Rare instead of Water's Edge
 - [x] Moved Bulbasaur line habitat to be Rare instead of Grassland
 - [ ] Moved Ekans line habitat to Rough Terrain instead of Grassland
+- [x] Added Tangrowth
+- [ ] Added Hunchkrow
+- [ ] Added  Weavile
+- [x] Added Electivire
 - [x] Updated Oak to immediately give National Dex
 
 Gym Challenge
@@ -41,11 +46,6 @@ Gym Challenge
 - [x] Added Blaine Gym Leader Challenge 1-7
 - [x] Added Sabrina Gym Leader Challenge 1-7
 - [ ] Redesigned Brock's gym to have an archeological theme
-- [ ] Added Tangrowth
-- [ ] Added Hunchkrow
-- [ ] Added  Weavile
-- [x] Added Electivire
-- [ ] Added Tangrowth as an overworld high level pokemon in Viridian Forest 
 
 
 Objective
