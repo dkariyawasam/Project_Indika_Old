@@ -29,7 +29,7 @@
 #### Route 25
 - Weedle (25%), Kakuna (10%), Beedrill (5%) - Kanto, Johto, Kalos
 - Pidgey (25%), Pidgeotto (10%), Pidgeot (5%) - Kanto, Johto, Sinnoh, Unova, Kalos
-- Sneasel (20%), Weavile (0%), Sneasler (0%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
+- Sneasel (20%), Weavile (0%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
 ----
 ## Water's Edge
 #### Route 06
@@ -44,7 +44,7 @@
 - Seel, Dewgong - Kanto, Johto, Sinnoh, Unova, Alola
 #### Route 24
 - Staryu, Starmie - Everywhere
-- Corsola, Cursola - Everywhere
+- Corsola - Everywhere
 ## Water
 #### Route 19
 #### Route 20
@@ -52,7 +52,7 @@
 - Magikarp, Gyarados - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola, Galar
 - Tentacool, Tentacruel - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola, Galar
 - Chinchou, Lanturn - Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar
-- Qwilfish, Overqwil - Kanto, Johto, Sinnoh, Unova, Kalos, Galar
+- Qwilfish - Kanto, Johto, Sinnoh, Unova, Kalos, Galar
 - Horsea, Seadra, Kingdra - Everywhere
 ----
 ## Cave
@@ -70,7 +70,7 @@
 ----
 ## Mountain
 #### Route 03
-- Mankey (40%), Primeape (10%) - Kanto, Johto, Sinnoh, Unova, Alola
+- Mankey (40%), Primeape (10%), Annihilape (0%) - Kanto, Johto, Sinnoh, Unova, Alola
 - Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto, Hoenn, Unova, Kalos, Alola, Galar
 #### Route 04
 - Cubone (40%), Marowak (10%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
@@ -80,7 +80,7 @@
 - Geodude, Graveller, Golem - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola
 #### Cinnabar Vulcano
 - Slugma, Magcargo - Kanto, Hoenn, Sinnoh, Kalos
-- Magby, Magmar, Magmortar - Kanto, Johto, Sinnoh, Unova, Alola, Galar
+- Magby, Magmar, Magmortar (0%) - Kanto, Johto, Sinnoh, Unova, Alola, Galar
 ----
 ## Rough Terrain
 #### Route 05
@@ -96,15 +96,14 @@
 #### Route 22
 - Kangaskhan - Kanto, Johto, Unova, Kalos, Alola, Galar
 #### Route 23
-- Rhyhorn, Rhydon, Rhyperior - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Rhyhorn, Rhydon, Rhyperior (0%) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
 ----
 ## Urban
 #### Route 16
-- Meowth, Persian, Perrserker - Kanto, Johto, Alola, Galar
+- Meowth, Persian - Kanto, Johto, Alola, Galar
 #### Route 17
 - Doduo, Dodrio - Kanto, Sinnoh, Unova, Kalos
 - Abra, Kadabra, Alakazam - Everywhere
-- Tyrogue, Hitmonlee, Hitmonchan, Hitmontop - Sinnoh, Unova, Galar
 #### Route 18
 - Happiny, Chansey, Blissey - Kanto, Sinnoh, Unova, Alola, Galar
 #### Power Plant
@@ -140,13 +139,14 @@ Not Native to Kanto
 - Charmander, Charmeleon, Charizard - Alola
 - Farfetch'd - Johto, Sinnoh, Unova, Kalos, Galar
 - Exeggcute, Exeggutor - Johto, Unova, Kalos, Alola, Galar
-- Mime Jr, Mr Mime, Mr Rime - Johto, Sinnoh, Kalos, Alola, Galar
+- Mime Jr, Mr Mime - Johto, Sinnoh, Kalos, Alola, Galar
 - Smoochum, Jynx - Johto, Sinnoh, Kalos, Alola, Galar
 - Scyther, Scizor - Sinnoh, Kalos, Alola, Galar
 - Pinsir - Sinnoh, Unova, Kalos, Alola, Galar
 - Lapras - Sinnoh, Unova, Kalos, Alola, Galar
-- Eevee,Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon - Unova, Kalos, Alola, Galar
+- Eevee, Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon - Unova, Kalos, Alola, Galar
 - Munchlax, Snorlax - Sinnoh, Alola, Galar
+- Tyrogue, Hitmonlee, Hitmonchan, Hitmontop - Sinnoh, Unova, Galar
 - Lickitung, Lickilicky - Johto, Sinnoh, Unova, Kalos, Galar
 - Tauros - Johto, Sinnoh, Kalos, Alola, Galar
 - Dratini, Dragonair, Dragonite - Johto, Sinnoh, Unova, Kalos, Alola, Galar
