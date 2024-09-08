@@ -87,13 +87,15 @@
 - Spearow (40%), Fearow (10%) - Kanto, Johto, Sinnoh, Alola
 - Ekans (40%), Arbok (10%) - Kanto, Johto, Kalos, Alola
 #### Route 13
-- Growlithe, Arcanine - Kanto, Johto, Unova, Alola, Galar
-- Houndour, Houndoom - Kanto, Johto, Unova, Kalos
+- Houndour (40%), Houndoom (10%) - Kanto, Johto, Unova, Kalos
+- Ponyta (40%), Rapidash (10%) - Kanto, Sinnoh, Galar
 #### Route  14
-- Sandshrew, Sandslash - Kanto, Johto, Hoenn, Unova, Alola, Galar
+- Ponyta (40%), Rapidash (10%) - Kanto, Sinnoh, Galar
+- Growlithe (40%), Arcanine (10%) - Kanto, Johto, Unova, Alola, Galar
 #### Route 15
 - Ponyta (80%), Rapidash (20%) - Kanto, Sinnoh, Galar
 #### Route 22
+- Sandshrew, Sandslash - Kanto, Johto, Hoenn, Unova, Alola, Galar
 - Kangaskhan - Kanto, Johto, Unova, Kalos, Alola, Galar
 #### Route 23
 - Rhyhorn, Rhydon, Rhyperior (0%) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
