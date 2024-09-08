@@ -29,12 +29,13 @@ Pokedex
 - [x] Moved Igglybuff line habitat to be Mountain instead of Forest
 - [x] Moved Squirtle line habitat to be Rare instead of Water's Edge
 - [x] Moved Bulbasaur line habitat to be Rare instead of Grassland
-- [ ] Moved Ekans line habitat to Rough Terrain instead of Grassland
+- [x] Moved Ekans line habitat to Rough Terrain instead of Grassland
 - [x] Added Tangrowth
 - [ ] Added Hunchkrow
 - [ ] Added  Weavile
 - [x] Added Electivire
 - [x] Updated Oak to immediately give National Dex
+- [ ] Added Fairy Type
 
 Gym Challenge
 
