@@ -53,6 +53,7 @@ Objective
 
 - Gym leaders 1-7 can be challenged in any order.
 - The wild encounter pool is from classic Kanto + HGSS
+- Trade Evolved Pokemon cannot be found in the wild (Alakazam, Machamp, Golem, Gengar, Politoed, Slowking, Steelix, Scizor, Kingdra, Porygon2, PorygonZ, Rhyperior, Electivire, Magmortar) 
 
 ----
 ### Gym Leaders
