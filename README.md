@@ -23,7 +23,7 @@ Exploration
 
 Pokedex
 
-- [x] Updated wild encounters in Route 01, 02, 02-Ext, 03, 04, 05, 06, 07, 08, 09, 10, 11, 15, 22, Viridian Forest, Mt Moon, Pokemon Mansion
+- [x] Updated wild encounters in Route 01-18, 02-Ext, 22-25, Viridian Forest, Mt Moon, Pokemon Mansion
 - [x] Moved Tangela habitat to be Forest instead of Grassland
 - [x] Moved Oddish line habitat to be Forest instead of Grassland
 - [x] Moved Kangaskhan habitat to be Rough Terrain instead of Grassland
