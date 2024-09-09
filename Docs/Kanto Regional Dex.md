@@ -107,7 +107,7 @@
 - Doduo (40%), Dodrio (10%) - Kanto, Sinnoh, Unova, Kalos
 - Abra (40%), Kadabra (10%), Alakazam (Trade-Only) - Everywhere
 #### Route 18
-- Happiny, Chansey, Blissey (Friendship) - Kanto, Sinnoh, Unova, Alola, Galar
+- Happiny (4%), Chansey (96%), Blissey (Friendship) - Kanto, Sinnoh, Unova, Alola, Galar
 #### Power Plant
 - Voltorb, Electrode - Kanto, Hoenn, Sinnoh
 - Magnemite, Magneton, Magnezone - Kanto, Johto, Hoenn, Sinnoh, Unova, Alola, Galar
