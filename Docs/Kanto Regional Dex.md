@@ -95,10 +95,10 @@
 #### Route 15
 - Ponyta (80%), Rapidash (20%) - Kanto, Sinnoh, Galar
 #### Route 22
-- Sandshrew, Sandslash - Kanto, Johto, Hoenn, Unova, Alola, Galar
-- Kangaskhan - Kanto, Johto, Unova, Kalos, Alola, Galar
+- Sandshrew (40%), Sandslash (10%) - Kanto, Johto, Hoenn, Unova, Alola, Galar
+- Kangaskhan (50%) - Kanto, Johto, Unova, Kalos, Alola, Galar
 #### Route 23
-- Rhyhorn, Rhydon, Rhyperior (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Rhyhorn (80%), Rhydon (20%), Rhyperior (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
 ----
 ## Urban
 #### Route 16
