@@ -43,8 +43,8 @@
 #### Route 21
 - Seel, Dewgong - Kanto, Johto, Sinnoh, Unova, Alola
 #### Route 24
-- Staryu, Starmie - Everywhere
-- Corsola - Everywhere
+- Staryu (40%), Starmie (10%) - Everywhere
+- Corsola (50%) - Everywhere
 ## Water
 #### Route 19
 #### Route 20
