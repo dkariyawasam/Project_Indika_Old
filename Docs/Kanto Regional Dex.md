@@ -1,11 +1,11 @@
 ## Grassland
 #### Route 01
-- Rattata (40%), Raticate (10%) - Kanto, Johto, Sinnoh, Unova, Alola
-- Sentret (40%), Furret (10%) - Kanto, Johto, Sinnoh, Unova, Kalos
+- Rattata (40%), Raticate (10%) - Kanto, Johto, Alola
+- Sentret (40%), Furret (10%) - Kanto, Johto
 #### Route 08
-- Sunkern (25%), Sunflora (1%) - Kanto, Sinnoh, Unova
-- Hoppip (25%), Skiploom (20%), Jumpluff (8%) - Kanto, Johto, Sinnoh, Unova, Kalos
-- Vulpix (20%), Ninetales (1%) - Kanto, Johto, Hoenn, Unova, Alola, Galar
+- Sunkern (25%), Sunflora (1%) - Kanto
+- Hoppip (25%), Skiploom (20%), Jumpluff (8%) - Kanto, Johto
+- Vulpix (20%), Ninetales (1%) - Kanto, Johto, Alola
 #### Route 11
 - Nidoranf (10%), Nidoranm (10%), Nidorina (14%), Nidoqueen (1%), Nidorino (14%), Nidoking (1%) - Kanto, Johto, Sinnoh, Unova, Kalos, Galar
 - Drowsee (20%), Hypno (10%) - Kanto, Johto, Sinnoh, Alola
