@@ -78,7 +78,7 @@ Objective
 ### Wild Encounters
 - No wild encounters below lvl 5 since eggs are hatched at lvl 5.
 - Unevolved pokemon can be found in the wild from lvl 5 up to the lvl they evolve at.
-- Baby pookemon can only be found in the wild at lvl 5.
-- Pokemon that evolve through items can be found in the wild at 1% encounter rate between lvl 5 and 25. (as long as that item is placed somewhere around the area).
+- Baby pokemon can only be found in the wild at lvl 5.
+- Pokemon that evolve through items and their evolutions can be found in the wild at 1% encounter rate between lvl 5 and 25. (as long as that item is placed somewhere around the area).
 - Pokemon that evolve through friendship and when traded cannot be found in the wild.
-- Evolved Pokemon can be found in the wild from the level they evolved at to 3 levels above.
+- Level Evolved Pokemon can be found in the wild from the level they evolved at to 2 levels above.
