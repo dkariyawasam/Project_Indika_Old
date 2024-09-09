@@ -39,7 +39,7 @@
 #### Route 10
 - Krabby (80%), Kingler (20%) - Kanto, Johto, Sinnoh, Unova, Galar
 #### Route 12
-- Poliwag, Poliwhirl, Poliwrath, Politoed (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Poliwag (50%), Poliwhirl (40%), Poliwrath (10%), Politoed (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
 #### Route 21
 - Seel, Dewgong - Kanto, Johto, Sinnoh, Unova, Alola
 #### Route 24
