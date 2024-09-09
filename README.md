@@ -54,7 +54,8 @@ Objective
 
 - Gym leaders 1-7 can be challenged in any order.
 - The wild encounter pool is from classic Kanto + HGSS
-- Trade Evolved Pokemon cannot be found in the wild (Alakazam, Machamp, Golem, Gengar, Politoed, Slowking, Steelix, Scizor, Kingdra, Porygon2, PorygonZ, Rhyperior, Electivire, Magmortar) 
+- Trade Evolved Pokemon cannot be found in the wild (Alakazam, Machamp, Golem, Gengar, Politoed, Slowking, Steelix, Scizor, Kingdra, Porygon2, PorygonZ, Rhyperior, Electivire, Magmortar)
+- Friendship Evolved Pokemon cannot be found in the wild
 
 ----
 ### Gym Leaders
@@ -67,7 +68,7 @@ Objective
 - The third gym leader always has 1 unevolved and 2 evolved pokemon each around lvl 25.
 - The fourth gym leader always has 2 unevolved and 2 evolved pokemon each around lvl 30.
 - The fifth gym leader always has 3 unevolved and 2 evolved pokemon each around lvl 35.
-- The sisxth gym leader always has 1 unevolved and 4 evolved pokemon each around lvl 40.
+- The sixth gym leader always has 1 unevolved and 4 evolved pokemon each around lvl 40.
 - the seventh gym leader always has 6 evolved pokemon each around lvl 45.
   
 - Giovanni is always the last gym Leader to be challenged and has a team of 6 evolved pokemon each around lvl 50.
@@ -80,3 +81,4 @@ Objective
 - Baby pookemon can only be found in the wild at lvl 5.
 - Pokemon that evolve through items can be found in the wild at 1% encounter rate between lvl 5 and 25. (as long as that item is placed somewhere around the area).
 - Pokemon that evolve through friendship and when traded cannot be found in the wild.
+- Evolved Pokemon can be found in the wild from the level they evolved at to 3 levels above.
