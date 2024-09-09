@@ -70,10 +70,10 @@
 ----
 ## Mountain
 #### Route 03
-- Mankey (40%), Primeape (10%), Annihilape (Move Learn) - Kanto, Johto, Sinnoh, Unova, Alola
+- Cubone (40%), Marowak (10%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
 - Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto, Hoenn, Unova, Kalos, Alola, Galar
 #### Route 04
-- Cubone (40%), Marowak (10%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
+- Mankey (40%), Primeape (10%), Annihilape (Move Learn) - Kanto, Johto, Sinnoh, Unova, Alola
 - Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto, Hoenn, Unova, Kalos, Alola, Galar
 #### Route 09
 - Machop, Machoke, Machamp (Trade-Only) - Everywhere
