@@ -9,7 +9,7 @@
 #### Route 11
 - Nidoranf (10%), Nidoranm (10%), Nidorina (14%), Nidoqueen (1%), Nidorino (14%), Nidoking (1%) - Kanto, Johto, Sinnoh, Unova, Kalos, Galar
 - Drowsee (20%), Hypno (10%) - Kanto, Johto, Sinnoh, Alola
-- Elekid (20%), Electabuzz (8%), Electivire (0%) - Kanto, Sinnoh, Unova, Alola, Galar
+- Elekid (20%), Electabuzz (8%), Electivire (Trade-Only) - Kanto, Sinnoh, Unova, Alola, Galar
 ----
 ## Forest
 #### Route 02
@@ -34,12 +34,12 @@
 ## Water's Edge
 #### Route 06
 - Psyduck (20%), Golduck (15%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
-- Slowpoke (20%), Slowbro (15%), Slowking (2%) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
-- Shellder (20%), Cloyster (8%) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Slowpoke (20%), Slowbro (15%), Slowking (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Shellder (20%), Cloyster (10%) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
 #### Route 10
 - Krabby (80%), Kingler (20%) - Kanto, Johto, Sinnoh, Unova, Galar
 #### Route 12
-- Poliwag, Poliwhirl, Poliwrath, Politoed - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Poliwag, Poliwhirl, Poliwrath, Politoed (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
 #### Route 21
 - Seel, Dewgong - Kanto, Johto, Sinnoh, Unova, Alola
 #### Route 24
@@ -53,16 +53,16 @@
 - Tentacool, Tentacruel - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola, Galar
 - Chinchou, Lanturn - Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar
 - Qwilfish - Kanto, Johto, Sinnoh, Unova, Kalos, Galar
-- Horsea, Seadra, Kingdra - Everywhere
+- Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
 ----
 ## Cave
 #### Mt Moon
-- Zubat (60%), Golbat (20%), Crobat (0%) - Everywhere
+- Zubat (60%), Golbat (20%), Crobat (Friendship) - Everywhere
 - Cleffa (2%), Clefairy (10%), Clefable (8%) - Kanto, Sinnoh, Unova, Alola, Galar
 #### Diglett Cave
 - Diglett, Dugtrio - Kanto, Sinnoh, Alola, Galar
 #### Rock Tunnel
-- Onix, Steelix - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Onix, Steelix (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
 #### Victory Road
 - Larvitar, Pupitar, Tyranitar - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
 #### Cerulean Cave
@@ -70,17 +70,17 @@
 ----
 ## Mountain
 #### Route 03
-- Mankey (40%), Primeape (10%), Annihilape (0%) - Kanto, Johto, Sinnoh, Unova, Alola
+- Mankey (40%), Primeape (10%), Annihilape (Move Learn) - Kanto, Johto, Sinnoh, Unova, Alola
 - Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto, Hoenn, Unova, Kalos, Alola, Galar
 #### Route 04
 - Cubone (40%), Marowak (10%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
 - Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto, Hoenn, Unova, Kalos, Alola, Galar
 #### Route 09
-- Machop, Machoke, Machamp - Everywhere
-- Geodude, Graveller, Golem - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola
+- Machop, Machoke, Machamp (Trade-Only) - Everywhere
+- Geodude, Graveller, Golem (Trade-Only) - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola
 #### Cinnabar Vulcano
 - Slugma, Magcargo - Kanto, Hoenn, Sinnoh, Kalos
-- Magby, Magmar, Magmortar (0%) - Kanto, Johto, Sinnoh, Unova, Alola, Galar
+- Magby, Magmar, Magmortar (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Alola, Galar
 ----
 ## Rough Terrain
 #### Route 05
@@ -98,22 +98,22 @@
 - Sandshrew, Sandslash - Kanto, Johto, Hoenn, Unova, Alola, Galar
 - Kangaskhan - Kanto, Johto, Unova, Kalos, Alola, Galar
 #### Route 23
-- Rhyhorn, Rhydon, Rhyperior (0%) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Rhyhorn, Rhydon, Rhyperior (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
 ----
 ## Urban
 #### Route 16
 - Meowth, Persian - Kanto, Johto, Alola, Galar
 #### Route 17
 - Doduo, Dodrio - Kanto, Sinnoh, Unova, Kalos
-- Abra, Kadabra, Alakazam - Everywhere
+- Abra, Kadabra, Alakazam (Trade-Only) - Everywhere
 #### Route 18
-- Happiny, Chansey, Blissey - Kanto, Sinnoh, Unova, Alola, Galar
+- Happiny, Chansey, Blissey (Friendship) - Kanto, Sinnoh, Unova, Alola, Galar
 #### Power Plant
 - Voltorb, Electrode - Kanto, Hoenn, Sinnoh
 - Magnemite, Magneton, Magnezone - Kanto, Johto, Hoenn, Sinnoh, Unova, Alola, Galar
 - Grimer, Muk - Kanto, Hoenn, Sinnoh, Unova, Alola
 #### Pokemon Tower
-- Gastly, Haunter, Gengar - Kanto, Johto, Sinnoh, Unova, Alola, Galar
+- Gastly, Haunter, Gengar (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Alola, Galar
 #### Pokemon Mansion
 - Ditto (10%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
 - Koffing (60%), Weezing (20%) - Kanto, Johto, Hoenn, Unova, Galar
@@ -129,7 +129,7 @@
 - Moltres - Kanto, Kalos, Galar
 ----
 ## Man-made
-- Porygon, Porgyon 2, Porygon Z - Kanto, Unova
+- Porygon, Porgyon 2 (Trade-Only), Porygon Z (Trade-Only) - Kanto, Unova
 - Mewtwo - Kanto, Kalos, Galar
 ----
 ## Legendary
