@@ -6,7 +6,7 @@ Roadblocks
 - [x] Replaced Viridian City pokemart parcel delivery with Pallet Town girl 
 - [x] Removed Secret Key requirement to enter Blaine's Gym
 - [x] Removed cuttable plants
-- [x] Removed Team Rocket from Mt Moon 
+- [x] Removed Team Rocket from Mt Moon, Cerulean City 
 
 Exploration
 
@@ -36,7 +36,7 @@ Pokedex
 - [ ] Added  Weavile
 - [x] Added Electivire
 - [x] Updated Oak to immediately give National Dex
-- [ ] Added Fairy Type
+- [x] Added Fairy Type
 
 Gym Challenge
 
