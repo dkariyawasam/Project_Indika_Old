@@ -102,7 +102,7 @@
 ----
 ## Urban
 #### Route 16
-- Meowth, Persian - Kanto, Johto, Alola, Galar
+- Meowth (80%), Persian (20%) - Kanto, Johto, Alola, Galar
 #### Route 17
 - Doduo, Dodrio - Kanto, Sinnoh, Unova, Kalos
 - Abra, Kadabra, Alakazam (Trade-Only) - Everywhere
