@@ -6,6 +6,7 @@ Roadblocks
 - [x] Replaced Viridian City pokemart parcel delivery with Pallet Town girl 
 - [x] Removed Secret Key requirement to enter Blaine's Gym
 - [x] Removed cuttable plants
+- [x] Removed Team Rocket from Mt Moon 
 
 Exploration
 
