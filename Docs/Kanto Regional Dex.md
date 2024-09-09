@@ -76,8 +76,8 @@
 - Mankey (40%), Primeape (10%), Annihilape (Move Learn) - Kanto, Johto, Sinnoh, Unova, Alola
 - Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto, Hoenn, Unova, Kalos, Alola, Galar
 #### Route 09
-- Machop, Machoke, Machamp (Trade-Only) - Everywhere
-- Geodude, Graveller, Golem (Trade-Only) - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola
+- Machop (40%), Machoke (10%), Machamp (Trade-Only) - Everywhere
+- Geodude (40%), Graveller (10%), Golem (Trade-Only) - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola
 #### Cinnabar Vulcano
 - Slugma, Magcargo - Kanto, Hoenn, Sinnoh, Kalos
 - Magby, Magmar, Magmortar (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Alola, Galar
