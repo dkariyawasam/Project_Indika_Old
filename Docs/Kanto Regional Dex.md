@@ -3,45 +3,45 @@
 - Rattata (40%), Raticate (10%) - Kanto, Johto, Alola
 - Sentret (40%), Furret (10%) - Kanto, Johto
 #### Route 08
-- Sunkern (25%), Sunflora (1%) - Kanto
+- Sunkern (25%), Sunflora (1%) - *Kanto Exclusive*
 - Hoppip (25%), Skiploom (20%), Jumpluff (8%) - Kanto, Johto
 - Vulpix (20%), Ninetales (1%) - Kanto, Johto, Alola
 #### Route 11
-- Nidoranf (10%), Nidoranm (10%), Nidorina (14%), Nidoqueen (1%), Nidorino (14%), Nidoking (1%) - Kanto, Johto, Sinnoh, Unova, Kalos, Galar
-- Drowsee (20%), Hypno (10%) - Kanto, Johto, Sinnoh, Alola
-- Elekid (20%), Electabuzz (8%), Electivire (Trade-Only) - Kanto, Sinnoh, Unova, Alola, Galar
+- Nidoranf (10%), Nidoranm (10%), Nidorina (14%), Nidoqueen (1%), Nidorino (14%), Nidoking (1%) - Kanto, Johto
+- Drowsee (20%), Hypno (10%) - Kanto, Johto
+- Elekid (20%), Electabuzz (8%), Electivire (Trade-Only) - *Kanto Exclusive*
 ----
 ## Forest
 #### Route 02
-- Caterpie (30%), Metapod (20%), Butterfree (10%) - Kanto, Johto, Kalos, Alola, Galar
-- Pichu (4%), Pikachu (15%), Raichu (1%) - Kanto, Kalos, Alola, Galar
-- Hoothoot (14%), Noctowl (6%) - Kanto, Johto, Sinnoh, Alola, Galar
+- Caterpie (30%), Metapod (20%), Butterfree (10%) - Kanto, Johto
+- Pichu (4%), Pikachu (15%), Raichu (1%) - *Kanto Exclusive*, Alola
+- Hoothoot (14%), Noctowl (6%) - Kanto, Johto
 #### Viridian Forest
-- Bellsprout (20%), Weepinbell (5%), Victreebel (1%) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola
-- Venonat (10%), Venomoth (4%) - Kanto, Johto, Sinnoh, Unova
-- Tangela (10%), Tangrowth (0%) - Kanto, Johto, Unova, Galar
-- Oddish (20%), Gloom (10%), Vileplume (1%), Bellossom (4%) - Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Galar
-- Spinarak (10%), Ariados (5%) - Kanto, Johto, Alola
+- Bellsprout (20%), Weepinbell (5%), Victreebel (1%) - Kanto, Johto
+- Venonat (10%), Venomoth (4%) - Kanto, Johto
+- Tangela (10%), Tangrowth (0%) - Kanto, Johto
+- Oddish (20%), Gloom (10%), Vileplume (1%), Bellossom (4%) - Kanto, Johto
+- Spinarak (10%), Ariados (5%) - Kanto, Johto
 #### Route 07
-- Ledyba (30%), Ledian (5%) - Kanto, Johto, Kalos, Alola
-- Pineco (30%), Forretress (5%) - Kanto, Johto, Sinnoh, Unova, Alola
-- Murkrow (30%), Honchkrow (0%) - Kanto, Sinnoh, Unova, Kalos, Alola
+- Ledyba (30%), Ledian (5%) - Kanto, Johto
+- Pineco (30%), Forretress (5%) - Kanto, Johto
+- Murkrow (30%), Honchkrow (0%) - *Kanto Exclusive*
 #### Route 25
-- Weedle (25%), Kakuna (10%), Beedrill (5%) - Kanto, Johto, Kalos
-- Pidgey (25%), Pidgeotto (10%), Pidgeot (5%) - Kanto, Johto, Sinnoh, Unova, Kalos
-- Sneasel (20%), Weavile (0%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
+- Weedle (25%), Kakuna (10%), Beedrill (5%) - Kanto, Johto
+- Pidgey (25%), Pidgeotto (10%), Pidgeot (5%) - Kanto, Johto
+- Sneasel (20%), Weavile (0%) - Kanto, Johto
 ----
 ## Water's Edge
 #### Route 06
-- Psyduck (20%), Golduck (15%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
-- Slowpoke (20%), Slowbro (15%), Slowking (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
-- Shellder (20%), Cloyster (10%) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Psyduck (20%), Golduck (15%) - Kanto, Johto
+- Slowpoke (20%), Slowbro (15%), Slowking (Trade-Only) - Kanto, Johto, Galar
+- Shellder (20%), Cloyster (10%) - Kanto, Johto
 #### Route 10
-- Krabby (80%), Kingler (20%) - Kanto, Johto, Sinnoh, Unova, Galar
+- Krabby (80%), Kingler (20%) - Kanto, Johto
 #### Route 12
-- Poliwag (50%), Poliwhirl (40%), Poliwrath (10%), Politoed (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Poliwag (50%), Poliwhirl (40%), Poliwrath (10%), Politoed (Trade-Only) - Kanto, Johto
 #### Route 21
-- Seel, Dewgong - Kanto, Johto, Sinnoh, Unova, Alola
+- Seel, Dewgong - Kanto, Johto
 #### Route 24
 - Staryu (40%), Starmie (10%) - Everywhere
 - Corsola (50%) - Everywhere
@@ -49,88 +49,87 @@
 #### Route 19
 #### Route 20
 - Goldeen, Seaking - Everywhere
-- Magikarp, Gyarados - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola, Galar
-- Tentacool, Tentacruel - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola, Galar
-- Chinchou, Lanturn - Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar
-- Qwilfish - Kanto, Johto, Sinnoh, Unova, Kalos, Galar
+- Magikarp, Gyarados - Kanto, Johto
+- Tentacool, Tentacruel - Kanto, Johto
+- Chinchou, Lanturn - Kanto, Johto
+- Qwilfish - Kanto, Johto
 - Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
 ----
 ## Cave
 #### Mt Moon
 - Zubat (60%), Golbat (20%), Crobat (Friendship) - Everywhere
-- Cleffa (2%), Clefairy (10%), Clefable (8%) - Kanto, Sinnoh, Unova, Alola, Galar
+- Cleffa (2%), Clefairy (10%), Clefable (8%) - *Kanto Exclusive*
 #### Diglett Cave
-- Diglett, Dugtrio - Kanto, Sinnoh, Alola, Galar
+- Diglett, Dugtrio - *Kanto Exclusive*, Alola
 #### Rock Tunnel
-- Onix, Steelix (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Onix, Steelix (Trade-Only) - Kanto, Johto
 #### Victory Road
-- Larvitar, Pupitar, Tyranitar - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
+- Larvitar, Pupitar, Tyranitar - Kanto, Johto
 #### Cerulean Cave
-- Paras, Parasect - Kanto, Johto, Unova, Alola
+- Paras, Parasect - Kanto, Johto
 ----
 ## Mountain
 #### Route 03
-- Cubone (40%), Marowak (10%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
-- Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto, Hoenn, Unova, Kalos, Alola, Galar
+- Cubone (40%), Marowak (10%) - Kanto, Johto, Alola
+- Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto
 #### Route 04
-- Mankey (40%), Primeape (10%), Annihilape (Move Learn) - Kanto, Johto, Sinnoh, Unova, Alola
-- Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto, Hoenn, Unova, Kalos, Alola, Galar
+- Mankey (40%), Primeape (10%), Annihilape (Move Learn) - Kanto, Johto
+- Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto
 #### Route 09
 - Machop (40%), Machoke (10%), Machamp (Trade-Only) - Everywhere
-- Geodude (40%), Graveller (10%), Golem (Trade-Only) - Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola
+- Geodude (40%), Graveller (10%), Golem (Trade-Only) - Kanto, Johto, Alola
 #### Cinnabar Vulcano
-- Slugma, Magcargo - Kanto, Hoenn, Sinnoh, Kalos
-- Magby, Magmar, Magmortar (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Alola, Galar
+- Slugma, Magcargo - *Kanto Exclusive*
+- Magby, Magmar, Magmortar (Trade-Only) - Kanto, Johto
 ----
 ## Rough Terrain
 #### Route 05
-- Spearow (40%), Fearow (10%) - Kanto, Johto, Sinnoh, Alola
-- Ekans (40%), Arbok (10%) - Kanto, Johto, Kalos, Alola
+- Spearow (40%), Fearow (10%) - Kanto, Johto
+- Ekans (40%), Arbok (10%) - Kanto, Johto
 #### Route 13
-- Houndour (40%), Houndoom (10%) - Kanto, Johto, Unova, Kalos
-- Ponyta (40%), Rapidash (10%) - Kanto, Sinnoh, Galar
+- Houndour (40%), Houndoom (10%) - Kanto, Johto
+- Ponyta (40%), Rapidash (10%) - *Kanto Exclusive*, Galar
 #### Route  14
-- Ponyta (40%), Rapidash (10%) - Kanto, Sinnoh, Galar
-- Growlithe (40%), Arcanine (10%) - Kanto, Johto, Unova, Alola, Galar
+- Ponyta (40%), Rapidash (10%) - *Kanto Exclusive*, Galar
+- Growlithe (40%), Arcanine (10%) - Kanto, Johto
 #### Route 15
-- Ponyta (80%), Rapidash (20%) - Kanto, Sinnoh, Galar
+- Ponyta (80%), Rapidash (20%) - *Kanto Exclusive*, Galar
 #### Route 22
-- Sandshrew (40%), Sandslash (10%) - Kanto, Johto, Hoenn, Unova, Alola, Galar
-- Kangaskhan (50%) - Kanto, Johto, Unova, Kalos, Alola, Galar
+- Sandshrew (80%), Sandslash (20%) - Kanto, Johto, Alola
 #### Route 23
-- Rhyhorn (80%), Rhydon (20%), Rhyperior (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Rhyhorn (80%), Rhydon (20%), Rhyperior (Trade-Only) - Kanto, Johto
 ----
 ## Urban
 #### Route 16
 - Meowth (80%), Persian (20%) - Kanto, Johto, Alola, Galar
 #### Route 17
-- Doduo (40%), Dodrio (10%) - Kanto, Sinnoh, Unova, Kalos
+- Doduo (40%), Dodrio (10%) - *Kanto Exclusive*
 - Abra (40%), Kadabra (10%), Alakazam (Trade-Only) - Everywhere
 #### Route 18
-- Happiny (4%), Chansey (96%), Blissey (Friendship) - Kanto, Sinnoh, Unova, Alola, Galar
+- Happiny (4%), Chansey (96%), Blissey (Friendship) - *Kanto Exclusive*
 #### Power Plant
-- Voltorb, Electrode - Kanto, Hoenn, Sinnoh
-- Magnemite, Magneton, Magnezone - Kanto, Johto, Hoenn, Sinnoh, Unova, Alola, Galar
-- Grimer, Muk - Kanto, Hoenn, Sinnoh, Unova, Alola
+- Voltorb, Electrode - *Kanto Exclusive*
+- Magnemite, Magneton, Magnezone - Kanto, Johto
+- Grimer, Muk - *Kanto Exclusive*, Alola
 #### Pokemon Tower
-- Gastly, Haunter, Gengar (Trade-Only) - Kanto, Johto, Sinnoh, Unova, Alola, Galar
+- Gastly, Haunter, Gengar (Trade-Only) - Kanto, Johto
 #### Pokemon Mansion
-- Ditto (10%) - Kanto, Johto, Sinnoh, Kalos, Alola, Galar
-- Koffing (60%), Weezing (20%) - Kanto, Johto, Hoenn, Unova, Galar
+- Ditto (10%) - Kanto, Johto
+- Koffing (60%), Weezing (20%) - Kanto, Johto, Galar
 ----
 ## Extinct
-- Omanyte, Omastar - Kanto, Sinnoh, Unova, Kalos, Alola, Galar
-- Kabuto, Kabutops - Kanto, Sinnoh, Unova, Kalos, Alola, Galar
-- Aerodactyl - Kanto, Sinnoh, Unova, Kalos, Galar
+- Omanyte, Omastar - *Kanto Exclusive*
+- Kabuto, Kabutops - *Kanto Exclusive*
+- Aerodactyl - *Kanto Exclusive*
 ----
 ## Mythical
-- Articuno - Kanto, Kalos, Galar 
-- Zapdos - Kanto, Kalos, Galar
-- Moltres - Kanto, Kalos, Galar
+- Articuno - *Kanto Exclusive*, Galar 
+- Zapdos - *Kanto Exclusive*, Galar
+- Moltres - *Kanto Exclusive*, Galar
 ----
 ## Man-made
-- Porygon, Porgyon 2 (Trade-Only), Porygon Z (Trade-Only) - Kanto, Unova
-- Mewtwo - Kanto, Kalos, Galar
+- Porygon, Porgyon 2 (Trade-Only), Porygon Z (Trade-Only) - *Kanto Exclusive*
+- Mewtwo - *Kanto Exclusive*
 ----
 ## Legendary
 - Mew - n/a
@@ -151,6 +150,7 @@ Not Native to Kanto
 - Tyrogue, Hitmonlee, Hitmonchan, Hitmontop - Sinnoh, Unova, Galar
 - Lickitung, Lickilicky - Johto, Sinnoh, Unova, Kalos, Galar
 - Tauros - Johto, Sinnoh, Kalos, Alola, Galar
+- Kangaskhan - Unova, Kalos, Alola, Galar
 - Dratini, Dragonair, Dragonite - Johto, Sinnoh, Unova, Kalos, Alola, Galar
 - Togepi, Togetic, Togekiss - Sinnoh, Unova, Galar
 - Natu, Xatu - Johto, Sinnoh, Unova, Alola, Galar
