@@ -138,7 +138,7 @@ Not Native to Kanto
 - Bulbasaur, Ivysaur, Venusar - Alola
 - Squirtle, Wartortle, Blastoise - Alola
 - Charmander, Charmeleon, Charizard - Alola
-- Farfetch'd - Johto, Sinnoh, Unova, Kalos, Galar
+- Farfetch'd - *Johto Exclusive*
 - Exeggcute, Exeggutor - Johto, Unova, Kalos, Alola, Galar
 - Mime Jr, Mr Mime - Johto, Sinnoh, Kalos, Alola, Galar
 - Smoochum, Jynx - Johto, Sinnoh, Kalos, Alola, Galar
@@ -149,8 +149,8 @@ Not Native to Kanto
 - Munchlax, Snorlax - Sinnoh, Alola, Galar
 - Tyrogue, Hitmonlee, Hitmonchan, Hitmontop - Sinnoh, Unova, Galar
 - Lickitung, Lickilicky - Johto, Sinnoh, Unova, Kalos, Galar
-- Tauros - Johto, Sinnoh, Kalos, Alola, Galar
+- Tauros - *Johto Exclusive*
 - Kangaskhan - Unova, Kalos, Alola, Galar
-- Dratini, Dragonair, Dragonite - Johto, Sinnoh, Unova, Kalos, Alola, Galar
+- Dratini, Dragonair, Dragonite - *Johto Exclusive*
 - Togepi, Togetic, Togekiss - Sinnoh, Unova, Galar
-- Natu, Xatu - Johto, Sinnoh, Unova, Alola, Galar
+- Natu, Xatu - Kanto, Johto
