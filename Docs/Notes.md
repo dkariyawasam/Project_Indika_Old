@@ -5,7 +5,19 @@ Type 2 - Load on warping into map (door), uses vars, can apply movement, must be
 
 
 
-## PKSV
+## XSE
+setflag 0x#### - sets anything with flag to 0x1, or hidden
+
+clearflag 0x### - sets anything with flag to 0x0, or visibile
+
+checkflag 0x#### - looks for flag
+
+if 0x0 goto @dynamic - if clear or not set go to dynamic script
+
+if 0x1 go to @dynamic - if set go to dynamic script
+
+----
+
 \n - next line (one per paragraph)
 
 \l - next line, continued
