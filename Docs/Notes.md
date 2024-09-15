@@ -1,4 +1,7 @@
-## Advance Map
+## Advance Map - Map Scripts
+Type 3 - Load on entering the map, move person events, change visibilty, cannot apply movement
+
+Type 2 - Load on warping into map (door), uses vars, can apply movement, must be above Type 3 in Script Number order, if game freezes after a Type 2 event go into Header tab detialed mode(Ctrl+H) and open script in Map Script Offset. If a movement sequence ends in 0xffff, change it to 0x0.
 
 
 
