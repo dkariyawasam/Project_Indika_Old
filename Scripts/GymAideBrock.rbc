@@ -1,0 +1,65 @@
+//---------------
+#dynamic 0x740000
+
+#org @GymAide
+lock
+faceplayer
+
+checkflag 0x203                                 // Check if Brock is back
+if 0x1 goto @GymNotReady
+if 0x0 goto @GymReady
+
+checkflag 0x4B0					// Check if Brock is defeated
+if 0x1 goto @GymDefeated 			// Flag is set
+
+end
+
+#org @GymNotReady
+msgbox @MSGGymNotReady 0x4
+release
+end
+
+#org @GymReady
+msgbox @MSGGymReady 0x5			
+compare LASTRESULT 0x1
+if 0x1 goto @YesAdvice
+compare LASTRESULT 0x0
+if 0x1 goto @NoAdvice
+end
+
+#org @GymDefeated
+msgbox @MSGGymDefeated 0x4				
+release
+end
+
+#org @YesAdvice
+msgbox @MSGYesAdvice 0x4			
+msgbox @MSGYesAdvice2 0x4				
+release
+end
+
+#org @NoAdvice
+msgbox @MSGNoAdvice 0x4				
+release
+end
+
+//-----------
+// Strings
+//-----------
+#org @MSGGymNotReady
+= GYM LEADER Brock is not back.
+
+#org @MSGGymReady
+= Hiya!\nGYM LEADER Brock is back!\pDo you need advice on battling him?\pI'm no TRAINER, but I can advise\nyou on how to win.\pLet me take you to the top!
+
+#org @MSGGymDefeated
+= Just as I thought!\nYou're POK\eMON champ material!
+
+#org @MSGYesAdvice
+= All right!\nLet's get happening!
+
+#org @MSGYesAdvice2
+= Brock uses an all Rock type POKÈMON\nteam.\pUse Fighting, Ground, Steel, Water\nand Grass types to deal with his\lteam effectively.
+
+#org @MSGNoAdvice
+= It's a free service!

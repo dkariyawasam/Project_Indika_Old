@@ -1,0 +1,36 @@
+//---------------
+#dynamic 0x740000
+
+#org @gymfirstentry
+lockall
+applymovement 0x3 @MOVEGymAide
+waitmovement 0x3
+msgbox @MSGGymAide 0x4
+applymovement 0x3 @MOVEGymAide2
+waitmovement 0x3
+releaseall
+setvar 0x4321 0x1
+end
+
+//-----------
+// Strings
+//-----------
+#org @MSGGymAide
+= If you're looking for GYM LEADER\nBrock, he's away in Mt Moon.\pMight be a while before he's back. 
+
+//-----------
+// Movements
+//-----------
+#org @MOVEGymAide
+#raw 0x62 //Exclamation Mark (!)
+#raw 0x10 //Step Down (Normal)
+#raw 0x12 //Step Left (Normal)
+#raw 0x0 //Face Down
+#raw 0xFE //End of Movements
+
+#org @MOVEGymAide2
+#raw 0x11 //Step Up (Normal)
+#raw 0x13 //Step Right (Normal)
+#raw 0x0 //Face Down
+#raw 0xFE //End of Movements
+
