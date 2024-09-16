@@ -2,15 +2,15 @@
 #### Route 01
 - Rattata (20%), Raticate (10%) - Kanto, Johto, Alola
 - Sentret (20%), Furret (10%) - Kanto, Johto
-- Sunkern (39%), Sunflora (1%) - *Kanto Exclusive*
+- Sunkern (39%), Sunflora (1% Stone Evolution) - *Kanto Exclusive*
 #### Route 08
-- Hoppip (25%), Skiploom (20%), Jumpluff (8%) - Kanto, Johto
-- Vulpix (20%), Ninetales (1%) - Kanto, Johto, Alola
+- Hoppip (20%), Skiploom (15%), Jumpluff (5%) - Kanto, Johto
+- Vulpix (29%), Ninetales (1% Stone Evolution) - Kanto, Johto, Alola
 - Drowsee (20%), Hypno (10%) - Kanto, Johto
 #### Route 11
-- Nidoranf (10%), Nidorina (14%), Nidoqueen (1%) - Kanto, Johto
-- Nidoranm (10%), Nidorino (14%), Nidoking (1%) - Kanto, Johto
-- Elekid (20%), Electabuzz (8%), Electivire (Trade-Only) - *Kanto Exclusive*
+- Nidoranf (20%), Nidorina (14%), Nidoqueen (1% Stone Evolution) - Kanto, Johto
+- Nidoranm (20%), Nidorino (14%), Nidoking (1% Stone Evolution) - Kanto, Johto
+- Elekid (20%), Electabuzz (10%), Electivire (Trade-Only) - *Kanto Exclusive*
 ----
 ## Forest
 #### Route 02
