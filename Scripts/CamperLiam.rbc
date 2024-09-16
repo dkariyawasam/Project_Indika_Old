@@ -1,0 +1,20 @@
+//---------------
+#dynamic 0x740000
+
+#org @CamperLiam
+trainerbattle 0x0 0x8E 0x0 @MSGStartBattle @MSGEndBattle
+msgbox @MSGDefeated MSG_NORMAL //"CELADON CITY is just past the\nbri..."
+end
+
+
+//---------
+// Strings
+//---------
+#org @MSGStartBattle
+= Are you looking to reach CELADON\n CITY? Let me test you!
+
+#org @MSGEndBattle
+= [.]Maybe I'm the one who's not\nready for CELADON CITY.
+
+#org @MSGDefeated
+= CELADON CITY is just past the\nbridge.
