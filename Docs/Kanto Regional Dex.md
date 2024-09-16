@@ -34,19 +34,21 @@
 ----
 ## Water's Edge
 #### Route 06
-- Psyduck (20%), Golduck (15%) - Kanto, Johto
 - Slowpoke (20%), Slowbro (15%), Slowking (Trade-Only) - Kanto, Johto, Galar
 - Shellder (20%), Cloyster (10%) - Kanto, Johto
 #### Route 10
 - Krabby (80%), Kingler (20%) - Kanto, Johto
+- Psyduck (20%), Golduck (15%) - Kanto, Johto
 #### Route 12
 - Poliwag (50%), Poliwhirl (40%), Poliwrath (10%), Politoed (Trade-Only) - Kanto, Johto
+- Seel, Dewgong - Kanto, Johto
 #### Route 24
 - Staryu (40%), Starmie (10%) - Everywhere
 - Corsola (50%) - Everywhere
 ## Water
 #### Route 19
 #### Route 20
+- Relicanth - *Kanto Exclusive*
 - Goldeen, Seaking - Everywhere
 - Magikarp, Gyarados - Kanto, Johto
 - Tentacool, Tentacruel - Kanto, Johto
@@ -54,7 +56,7 @@
 - Qwilfish - Kanto, Johto
 - Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
 #### Route 21
-- Seel, Dewgong - Kanto, Johto
+- 
 ----
 ## Cave
 #### Mt Moon
