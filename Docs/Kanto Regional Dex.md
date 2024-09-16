@@ -15,13 +15,13 @@
 ## Forest
 #### Route 02
 - Caterpie (30%), Metapod (20%), Butterfree (10%) - Kanto, Johto
-- Pichu (4%), Pikachu (15%), Raichu (1%) - *Kanto Exclusive*, Alola
+- Pichu (4%), Pikachu (15%), Raichu (1% Stone Evolution) - *Kanto Exclusive*, Alola
 - Hoothoot (14%), Noctowl (6%) - Kanto, Johto
 #### Viridian Forest
-- Bellsprout (20%), Weepinbell (5%), Victreebel (1%) - Kanto, Johto
+- Bellsprout (20%), Weepinbell (5%), Victreebel (1% Stone Evolution) - Kanto, Johto
 - Venonat (10%), Venomoth (4%) - Kanto, Johto
-- Tangela (10%), Tangrowth (0%) - Kanto, Johto
-- Oddish (20%), Gloom (10%), Vileplume (1%), Bellossom (4%) - Kanto, Johto
+- Tangela (10%), Tangrowth (0% Alpha) - Kanto, Johto
+- Oddish (20%), Gloom (10%), Vileplume (4% Stone Evolution), Bellossom (1% Stone Evolution) - Kanto, Johto
 - Spinarak (10%), Ariados (5%) - Kanto, Johto
 #### Route 07
 - Ledyba (30%), Ledian (5%) - Kanto, Johto
