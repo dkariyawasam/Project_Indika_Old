@@ -1,4 +1,4 @@
-# Pokemon Re:Kanto
+# Pokemon Expeditions: Kanto
 Graphical Improvements
 
 ![OW_Oak](https://github.com/user-attachments/assets/d942c5cd-9673-4e29-9ee9-100b96b24ad8) ![OW_Brock](https://github.com/user-attachments/assets/76fe81e8-1da5-433f-a848-b1b7f49a629f) ![OW_Lass](https://github.com/user-attachments/assets/aaa6e3b7-e5b3-4d8c-8447-77d2527e9c83) ![OW_BugCatcher](https://github.com/user-attachments/assets/17e2c8cc-470a-4916-8b7a-35388d844921)
