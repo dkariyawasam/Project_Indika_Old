@@ -7,7 +7,8 @@
 - Hoppip (25%), Skiploom (20%), Jumpluff (8%) - Kanto, Johto
 - Vulpix (20%), Ninetales (1%) - Kanto, Johto, Alola
 #### Route 11
-- Nidoranf (10%), Nidoranm (10%), Nidorina (14%), Nidoqueen (1%), Nidorino (14%), Nidoking (1%) - Kanto, Johto
+- Nidoranf (10%), Nidorina (14%), Nidoqueen (1%) - Kanto, Johto
+- Nidoranm (10%), Nidorino (14%), Nidoking (1%) - Kanto, Johto
 - Drowsee (20%), Hypno (10%) - Kanto, Johto
 - Elekid (20%), Electabuzz (8%), Electivire (Trade-Only) - *Kanto Exclusive*
 ----
@@ -40,8 +41,6 @@
 - Krabby (80%), Kingler (20%) - Kanto, Johto
 #### Route 12
 - Poliwag (50%), Poliwhirl (40%), Poliwrath (10%), Politoed (Trade-Only) - Kanto, Johto
-#### Route 21
-- Seel, Dewgong - Kanto, Johto
 #### Route 24
 - Staryu (40%), Starmie (10%) - Everywhere
 - Corsola (50%) - Everywhere
@@ -54,6 +53,8 @@
 - Chinchou, Lanturn - Kanto, Johto
 - Qwilfish - Kanto, Johto
 - Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
+#### Route 21
+- Seel, Dewgong - Kanto, Johto
 ----
 ## Cave
 #### Mt Moon
