@@ -1,8 +1,8 @@
 ## Grassland
 #### Route 01
-- Rattata (20%), Raticate (10%) - Kanto, Johto, Alola
-- Sentret (20%), Furret (10%) - Kanto, Johto
-- Sunkern (39%), Sunflora (1%) - *Kanto Exclusive*
+- Rattata (22%), Raticate (10%) - Kanto, Johto, Alola
+- Sentret (22%), Furret (10%) - Kanto, Johto
+- Sunkern (35%), Sunflora (1%) - *Kanto Exclusive*
 #### Route 08
 - Hoppip (25%), Skiploom (20%), Jumpluff (8%) - Kanto, Johto
 - Vulpix (20%), Ninetales (1%) - Kanto, Johto, Alola
