@@ -1,34 +1,39 @@
 //---------------
-#dynamic 0x740000
+#dyn 0x740000
+#org @GymFirstEntry
+#raw word 0x4012
+#raw word 0x0
+#raw pointer @OnWarp
+#raw word 0x0
 
-#org @gymfirstentry
-lockall
-applymovement 0x3 @MOVEGymAide
+#org @OnWarp
+lock
+applymovement 0x3 MOVE1
 waitmovement 0x3
-msgbox @MSGGymAide 0x4
-applymovement 0x3 @MOVEGymAide2
+msgbox @MSGWelcome MSG_KEEPOPEN //"Welcome to PEWTER'S GYM!\nIf you'r..."
+applymovement 0x3 @MOVE2
 waitmovement 0x3
-releaseall
-setvar 0x4321 0x1
+setvar 0x4012 0x1
+release
 end
 
 //-----------
 // Strings
 //-----------
-#org @MSGGymAide
-= If you're looking for GYM LEADER\nBrock, he's away in Mt Moon.\pMight be a while before he's back. 
+#org @MSGWelcome
+= Welcome to PEWTER'S GYM!\nIf you're looking for GYM LEADER\lBrock, he's away in Mt Moon.\pMight be a while before he's back. 
 
 //-----------
 // Movements
 //-----------
-#org @MOVEGymAide
+#org @MOVE1
 #raw 0x62 //Exclamation Mark (!)
 #raw 0x10 //Step Down (Normal)
 #raw 0x12 //Step Left (Normal)
 #raw 0x0 //Face Down
 #raw 0xFE //End of Movements
 
-#org @MOVEGymAide2
+#org @MOVE2
 #raw 0x11 //Step Up (Normal)
 #raw 0x13 //Step Right (Normal)
 #raw 0x0 //Face Down
