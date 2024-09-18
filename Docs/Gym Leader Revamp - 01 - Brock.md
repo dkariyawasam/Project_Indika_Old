@@ -1,13 +1,14 @@
 ## Brock
-Brock is a paleontologist and a fossil enthusiast, he often goes to Mt Silver to explore the caves and is where he got his Larvitars. 
-Brock's ace is Aerodactyl and not Onix anymore since when fully evolved it becomes Steelix who's not Rock type.
+Brock is a a fossil enthusiast, he often goes to Mt Moon and Mt Silver in search of fossils. 
+Brock's ace is Aerodactyl instead of Onix since when fully evolved it becomes Steelix who's not Rock type.
 
-- On first entering gym, Brock is unavailable.
-- The gym assisant heads over to you, tells you Brock is in Mt Moon, fossil hunting.
-- Go to Mt Moon, find Brock, he tells you about fossils and how to revitlise them, he leaves to go back to the gym
-- At the gym, if you talk to the assistant he tells you Brock is back and tells you about Rock type weaknesses
-- challenge Brock and defeat him
-- he tells you he has a pokemon that has evolved through trading and is willing to trade you one if you bring him an ancient rock type pokemon that was thought to be exinct but is still alive today in the depths of the ocean. 
+- On first entering the gym, Brock is unavailable.
+- The gym aide heads over to you and tells you Brock is in Mt Moon fossil hunting.
+- Go to Mt Moon, find Brock and he tells you he's found the fossil he was looking for, he leaves to go back to the gym
+- At the gym, if you talk to the assistant, he tells you about Rock type weaknesses
+- Challenge Brock and defeat him
+- After defeating Brock, he tells you he has a pokemon that has evolved through trading and is willing to trade you one if you bring him an ancient rock type pokemon that was thought to be exinct but is still alive today in the depths of the ocean.
+- The Pokemon Lab in Cinnabar Island can be unlocked with the Boulder Badge.
 
 
 
