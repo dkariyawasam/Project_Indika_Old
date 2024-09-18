@@ -47,28 +47,35 @@
 - Corsola (50%) - Everywhere
 ## Water
 #### Route 19
-#### Route 20
-- Relicanth - *Kanto Exclusive*
 - Goldeen, Seaking - Everywhere
+- Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
+#### Route 20
+- Goldeen, Seaking - Everywhere
+- Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
+- Relicanth - *Kanto Exclusive*
 - Magikarp, Gyarados - Kanto, Johto
 - Tentacool, Tentacruel - Kanto, Johto
 - Chinchou, Lanturn - Kanto, Johto
 - Qwilfish - Kanto, Johto
-- Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
 #### Route 21
-- 
+- Goldeen, Seaking - Everywhere
+- Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
 ----
 ## Cave
 #### Mt Moon
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
 - Cleffa (2%), Clefairy (10%), Clefable (1% Item Evolution) - *Kanto Exclusive*
 #### Diglett Cave
+- Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
 - Diglett, Dugtrio - *Kanto Exclusive*, Alola
 #### Rock Tunnel
+- Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
 - Onix, Steelix (0% Trade-Only) - Kanto, Johto
 #### Victory Road
+- Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
 - Larvitar, Pupitar, Tyranitar - Kanto, Johto
 #### Cerulean Cave
+- Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
 - Paras, Parasect - Kanto, Johto
 ----
 ## Mountain
