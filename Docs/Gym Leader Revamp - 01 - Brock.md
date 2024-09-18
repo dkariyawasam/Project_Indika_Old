@@ -9,10 +9,7 @@ Brock's ace is Aerodactyl instead of Onix since when fully evolved it becomes St
 - Challenge Brock and defeat him
 - After defeating Brock, he tells you he has a pokemon that has evolved through trading and is willing to trade you one if you bring him an ancient rock type pokemon that was thought to be exinct but is still alive today in the depths of the ocean.
 - The Pokemon Lab in Cinnabar Island can be unlocked with the Boulder Badge.
-
-
-
-
+----
 challenge 1 - 0/2 evolved: lv 12 geodude, lv 18 larvitar
 
 challenge 2 - 1/3 evolved: lv 18 larvitar, lv 20 geodude, lv 22 shuckle 
