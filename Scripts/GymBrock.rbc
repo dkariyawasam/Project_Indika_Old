@@ -84,7 +84,7 @@ message @msgtm 0x4
 message @msgtm2 0x4
 setflag 0x254                                                                       //TM acquired
 addvar 0x4011 0x1
-message @msgtm3 0x4
+message @msgtm3 0x6
 end
 
 
