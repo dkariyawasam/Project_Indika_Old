@@ -59,16 +59,9 @@ Gym Challenge
 
 Objective
 
-- Gym leaders 1-7 can be challenged in any order.
+- Gym leaders 1-7 can be challenged in any order and scale in difficulty.
+- there are no roadblocks
 - The wild encounter pool is from classic Kanto + HGSS
-- Trade Evolved Pokemon cannot be found in the wild (Alakazam, Machamp, Golem, Gengar, Politoed, Slowking, Steelix, Scizor, Kingdra, Porygon2, PorygonZ, Rhyperior, Electivire, Magmortar)
-- Friendship Evolved Pokemon cannot be found in the wild
+- Trade/Trade with item/Friendship evolution Pokemon cannot be found in the wild
+- Move learn evolution Pokemon are not part of the wild encounter pool but can be found as unique overworld encounters called Alpha
 
-----
-### Wild Encounters
-- No wild encounters below lvl 5 since eggs are hatched at lvl 5.
-- Unevolved pokemon can be found in the wild from lvl 5 up to the lvl they evolve at.
-- Baby pokemon can only be found in the wild at lvl 5.
-- Pokemon that evolve through items and their evolutions can be found in the wild at 1% encounter rate between lvl 5 and 25. (as long as that item is placed somewhere around the area).
-- Pokemon that evolve through friendship and when traded cannot be found in the wild.
-- Level Evolved Pokemon can be found in the wild from the level they evolved at to 2 levels above.
