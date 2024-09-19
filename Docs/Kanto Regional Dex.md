@@ -144,13 +144,15 @@
 ## Legendary
 - Mew - n/a
 ----
+- Exeggcute, Exeggutor - Kanto, Johto, Alola
+- Mime Jr, Mr Mime - Kanto, Johto, Galar
+- Kangaskhan - *Kanto Exclusive*
+- Natu, Xatu - Kanto, Johto
 Not Native to Kanto
 - Bulbasaur, Ivysaur, Venusar - Alola
 - Squirtle, Wartortle, Blastoise - Alola
 - Charmander, Charmeleon, Charizard - Alola
 - Farfetch'd - *Johto Exclusive*
-- Exeggcute, Exeggutor - Johto, Unova, Kalos, Alola, Galar
-- Mime Jr, Mr Mime - Johto, Sinnoh, Kalos, Alola, Galar
 - Smoochum, Jynx - Johto, Sinnoh, Kalos, Alola, Galar
 - Scyther, Scizor - Sinnoh, Kalos, Alola, Galar
 - Pinsir - Sinnoh, Unova, Kalos, Alola, Galar
@@ -160,7 +162,5 @@ Not Native to Kanto
 - Tyrogue, Hitmonlee, Hitmonchan, Hitmontop - Sinnoh, Unova, Galar
 - Lickitung, Lickilicky - Johto, Sinnoh, Unova, Kalos, Galar
 - Tauros - *Johto Exclusive*
-- Kangaskhan - Unova, Kalos, Alola, Galar
 - Dratini, Dragonair, Dragonite - *Johto Exclusive*
 - Togepi, Togetic, Togekiss - Sinnoh, Unova, Galar
-- Natu, Xatu - Kanto, Johto
