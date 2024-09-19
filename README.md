@@ -1,6 +1,6 @@
 # Pokemon Expeditions: Kanto
 
-Experience an all-new Kanto as a field researcher for Professor Oak.
+Experience an all-new Kanto as a field researcher for Professor Oak as you uncover the mysteries of evolution and the bonds between Pokemon and trainers.
 
 Features
 
