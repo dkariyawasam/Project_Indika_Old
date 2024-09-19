@@ -1,6 +1,8 @@
 # Pokemon Expeditions: Kanto
 
-Objective
+Experience an all-new Kanto as a field researcher for Professor Oak.
+
+Features
 
 - Gym leaders 1-7 can be challenged in any order and scale in difficulty.
 - there are no roadblocks
