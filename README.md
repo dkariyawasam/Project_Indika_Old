@@ -4,9 +4,9 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 
 Features
 
-- Gym leaders 1-7 can be challenged in any order and scale in difficulty.
-- there are no roadblocks
+- Scalable Gym leaders: Gym leaders 1-7 scale in difficulty depending on the order you challenge them in.
+- Openworld: There are no roadblocks
 - The wild encounter pool is from classic Kanto + HGSS
 - Trade/Trade with item/Friendship evolution Pokemon cannot be found in the wild
-- Move learn evolution Pokemon are not part of the wild encounter pool but can be found as unique overworld encounters called Alpha
+- Alpha Pokemon: Move learn evolution Pokemon cannot be found in the wild but will appear as unique overworld encounters
 
