@@ -148,6 +148,7 @@
 - Mime Jr, Mr Mime - Kanto, Johto, Galar
 - Kangaskhan - *Kanto Exclusive*
 - Natu, Xatu - Kanto, Johto
+
 Not Native to Kanto
 - Bulbasaur, Ivysaur, Venusar - Alola
 - Squirtle, Wartortle, Blastoise - Alola
