@@ -3,6 +3,9 @@
 Tangrowth
 - Viridian Forest
 
+Ambipom
+- 
+
 Annihilape
 - Victory Road
 
