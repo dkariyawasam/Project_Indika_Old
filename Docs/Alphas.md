@@ -10,12 +10,15 @@ Ambipom
 
 Annihilape
 - Victory Road
+- SABRINA - , friendship during the night evo - chingling
 
 Osscythe
 - Pokemon Tower
+- ERIKA - cares about wellbeing of pokemon, friendship during the day evo - budew
 
 Articuno
 - Seafoam Island
+- MISTY - , trade with natural item evo - politoed
 
 Zapdos (natural powerhouse)
 - Power Plant
@@ -23,13 +26,8 @@ Zapdos (natural powerhouse)
 
 Moltres
 - Cinnabar Vulcano
-
+- BLAINE - porygon
+- 
 Mewtwo (artificial absolute power)
 - Cerulean Cave
 - GIOVANNI - domination through any means
-
-MISTY - , trade with natural item evo - politoed
-
-ERIKA - cares about wellbeing of pokemon, friendship during the day evo - budew
-
-SABRINA - , friendship during the night evo - chingling
