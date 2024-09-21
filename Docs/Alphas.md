@@ -9,7 +9,7 @@ Ambipom
 - KOGA - , friendship evo
 
 Annihilape
-- Victory Road
+- Mt Moon
 - SABRINA - , friendship during the night evo - chingling
 
 Osscythe
