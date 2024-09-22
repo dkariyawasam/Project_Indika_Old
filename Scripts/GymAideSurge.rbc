@@ -1,0 +1,63 @@
+//---------------
+#dynamic 0x740000
+
+#org @GymAide
+lock
+faceplayer
+
+checkflag 0x4B2					// Check if Brock is defeated
+if 0x1 goto @GymDefeated 			// Flag is set
+
+checkflag 0x205                                 // Check if Surge is back
+if 0x1 goto @GymNotReady
+
+msgbox @MSGGymReady 0x5
+compare LASTRESULT 0x1
+if 0x1 goto @YesAdvice
+compare LASTRESULT 0x0
+if 0x1 goto @NoAdvice
+
+
+end
+
+#org @GymNotReady
+msgbox @MSGGymNotReady 0x4
+release
+end
+
+#org @GymDefeated
+msgbox @MSGGymDefeated 0x4				
+release
+end
+
+#org @YesAdvice
+msgbox @MSGYesAdvice 0x4			
+msgbox @MSGYesAdvice2 0x4				
+release
+end
+
+#org @NoAdvice
+msgbox @MSGNoAdvice 0x4				
+release
+end
+
+//-----------
+// Strings
+//-----------
+#org @MSGGymNotReady
+= GYM LEADER Lt Surge is away.
+
+#org @MSGGymReady
+= Hello!\nGYM LEADER Lt Surge is back!\pPeople refer to him as the\nLightning Unovan!\pDo you need advice on battling him?\pI'm no TRAINER, but I can advise\nyou on how to win.\pLet me take you to the top!
+
+#org @MSGGymDefeated
+= Wow!\nThat match was electric!
+
+#org @MSGYesAdvice
+= All right!\nLet's get happening!
+
+#org @MSGYesAdvice2
+= Lt Surge is an expert on ELECTRIC\ntype POKÈMON.\pWATER and FLYING type POKÈMON match\npoorly against the ELECTRIC type.\lBeware of paralysis too.
+
+#org @MSGNoAdvice
+= It's a free service!
