@@ -1,0 +1,19 @@
+//---------------
+#dynamic 0x740000
+#org @SurgeFirstEncounter
+lock
+faceplayer
+msgbox @MSGGreeting 0x4
+release
+fadescreen 0x1
+hidesprite 0x1
+fadescreen 0x0
+setflag 0x204
+end
+
+
+//---------
+// Strings
+//---------
+#org @MSGGreeting
+= You! Don't you see I'm training?!\nGet out of the way!\p[.]unless you're here for a Gym\nChallenge.\p[.]\pPOKÈMON research, you say?\pI've got something pretty\ninteresting to share but you'll\lhave to defeat me first!\pI was done with training anyway,\nI'll wait for you at the gym.
