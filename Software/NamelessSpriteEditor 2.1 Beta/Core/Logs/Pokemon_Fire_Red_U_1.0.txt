@@ -1,0 +1,39 @@
+12/09/2024 01:57:10 : Opened with NSE 2.X.
+12/09/2024 02:04:28 : Saved Data 0x72B518 to 0x72B518
+12/09/2024 02:04:35 : Opened with NSE 2.X.
+12/09/2024 02:07:56 : Saved Data 0x72CF74 to 0x72CF74
+19/09/2024 21:11:07 : Opened with NSE 2.X.
+19/09/2024 21:13:46 : Opened with NSE 2.X.
+19/09/2024 21:47:05 : Opened with NSE 2.X.
+19/09/2024 21:47:27 : Opened Image C:\Users\dee.kariyawasam\Desktop\Bag_Electirizer_Sprite.png
+19/09/2024 21:47:49 : Inserted Data at 0x800000
+19/09/2024 22:28:08 : Opened with NSE 2.X.
+19/09/2024 22:29:50 : Opened Image C:\Users\dee.kariyawasam\Desktop\Bag_Electirizer_Sprite.png
+19/09/2024 22:30:36 : Inserted Data at 0x7A2158
+19/09/2024 22:31:26 : Opened with NSE 2.X.
+19/09/2024 22:31:34 : Opened Image C:\Users\dee.kariyawasam\Desktop\Bag_Electirizer_Sprite.png
+19/09/2024 22:32:03 : Inserted Data at 0x7A2158
+19/09/2024 22:32:22 : Inserted Data at 0x7A2278
+19/09/2024 22:34:16 : Opened with NSE 2.X.
+19/09/2024 22:37:08 : Opened with NSE 2.X.
+19/09/2024 22:39:12 : Opened Image C:\Users\dee.kariyawasam\Desktop\Bag_Electirizer_Sprite.png
+19/09/2024 22:44:05 : Opened Image C:\Users\dee.kariyawasam\Desktop\Bag_Electirizer_Sprite.png
+19/09/2024 22:48:03 : Opened with NSE 2.X.
+19/09/2024 22:49:36 : Opened with NSE 2.X.
+19/09/2024 22:49:42 : Opened Image C:\Users\dee.kariyawasam\Desktop\Bag_Electirizer_Sprite.bmp
+19/09/2024 22:54:15 : Inserted Data at 0x7A2298
+19/09/2024 22:54:36 : Inserted Data at 0x7A2358
+19/09/2024 22:58:26 : Opened with NSE 2.X.
+19/09/2024 22:58:42 : Navigated 0x7A2158 0x7A2278 : 3, 3
+19/09/2024 23:00:10 : Navigated 0x7A2158 0x7A2278 : 3, 3
+19/09/2024 23:01:12 : Saved Data 0x7A2158
+19/09/2024 23:01:16 : Navigated 0x7A2158 0x7A2278 : 3, 3
+19/09/2024 23:03:39 : Opened with NSE 2.X.
+19/09/2024 23:03:45 : Opened Image C:\Users\dee.kariyawasam\Desktop\Bag_Electirizer_Sprite.png
+19/09/2024 23:04:08 : Inserted Data at 0x7A2158
+19/09/2024 23:04:27 : Inserted Data at 0x7A221C
+19/09/2024 23:06:37 : Opened with NSE 2.X.
+19/09/2024 23:09:07 : Navigated 0x7A2158 0x7A221C : 3, 1
+19/09/2024 23:09:15 : Navigated 0x7A2158 0x7A221C : 3, 3
+19/09/2024 23:09:32 : Navigated 0x7A2158 0x7A221C : 3, 3
+19/09/2024 23:11:02 : Saved Data 0x7A2158 to 0x7A2158
