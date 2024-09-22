@@ -1,0 +1,301 @@
+//---------------
+#dynamic 0x740000
+
+#org @surge
+setvar 0x8004 0x4
+setvar 0x8005 0x2
+special 0x174
+checkflag 0x231                                                                     //Check if TM acquired
+if 0x0 goto @battlesorter
+
+goto 0x160E39
+release
+end
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+#org @battlesorter                                                                  //battle sorter using var 4011 to count number of badges acquired
+compare 0x4011 0x0                                                                  //if 0, trigger battle1
+if 0x1 goto @battle1
+
+compare 0x4011 0x1                                                                  //if 1, trigger battle2
+if 0x1 goto @battle2
+
+compare 0x4011 0x2                                                                  //if 2, trigger battle3
+if 0x1 goto @battle3
+
+compare 0x4011 0x3                                                                  //if 3, trigger battle4
+if 0x1 goto @battle4
+
+compare 0x4011 0x4                                                                  //if 4, trigger battle5
+if 0x1 goto @battle5
+
+compare 0x4011 0x5                                                                  //if 5, trigger battle6
+if 0x1 goto @battle6
+
+compare 0x4011 0x6                                                                  //if 6, trigger battle7
+if 0x1 goto @battle7
+return
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+#org @battle1
+trainerbattle 0x1 0xC 0x0 @msggreeting @msgdefeated @afterbattle
+return
+
+#org @battle2
+trainerbattle 0x1 0xD 0x0 @msggreeting @msgdefeated @afterbattle
+return
+
+#org @battle3
+trainerbattle 0x1 0x1A0 0x0 @msggreeting @msgdefeated @afterbattle
+return
+
+#org @battle4
+trainerbattle 0x1 0xE 0x0 @msggreeting @msgdefeated @afterbattle
+return
+
+#org @battle5
+trainerbattle 0x1 0xF 0x0 @msggreeting @msgdefeated @afterbattle
+return
+
+#org @battle6
+trainerbattle 0x1 0x10 0x0 @msggreeting @msgdefeated @afterbattle
+return
+
+#org @battle7
+trainerbattle 0x1 0x11 0x0 @msggreeting @msgdefeated @afterbattle
+return
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+#org @afterbattle                                                                   //after battle
+setvar 0x8004 0x4
+setvar 0x8005 0x1
+special 0x173
+checkflag 0x23B
+if 0x0 call 0x816B9AB
+clearflag 0xA0
+setflag 0x4B2                                                                       //Gym aide recognises you beat Surge
+setflag 0x822                                                                       //Player has the thunderbadge
+setvar 0x8008 0x3
+call 0x1A6B18
+msgbox @msgtm 0x4
+msgbox @msgtm2 0x4
+setflag 0x231                                                                       //TM acquired
+addvar 0x4011 0x1
+msgbox @msgtm3 0x6
+end
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+#org 0x160E39                                                                       //Trade
+lock
+faceplayer
+setvar 0x8008 0x2
+call 0x81A8CAD
+checkflag 0x24B                                                                     //Check if traded already
+if 0x1 goto 0x8160EAB
+msgbox @MSGTrade MSG_YESNO
+compare LASTRESULT 0x0
+if 0x1 goto 0x8160E93
+call 0x81A8CBD
+compare 0x8004 0x6
+if 0x4 goto 0x8160E93
+call 0x81A8CC9
+comparevars LASTRESULT 0x8009
+if 0x5 goto 0x8160E9D
+call 0x81A8CD9
+msgbox @MSGTradeComplete MSG_KEEPOPEN
+setflag 0x24B
+release
+end
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+#org 0x1A8CAD
+copyvar 0x8004 0x8008
+special2 LASTRESULT 0xFC
+copyvar 0x8009 LASTRESULT
+return
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+#org 0x160EAB
+msgbox 0x1A5B60 MSG_KEEPOPEN
+release
+end
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+#org 0x160E93
+msgbox 0x1A5B08 MSG_KEEPOPEN //"That's too bad."
+release
+end
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+#org 0x1A8CBD
+special 0x9F
+waitstate
+lock
+faceplayer
+copyvar 0x800A 0x8004
+return
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+#org 0x1A8CC9
+copyvar 0x8005 0x800A
+special2 LASTRESULT 0xFF
+copyvar 0x800B LASTRESULT
+return
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+#org 0x160E9D
+bufferpokemon 0x0 0x8009
+msgbox 0x1A5B18 MSG_KEEPOPEN
+release
+end
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+#org 0x1A8CD9
+copyvar 0x8004 0x8008
+copyvar 0x8005 0x800A
+special 0xFD
+special 0xFE
+waitstate
+lock
+faceplayer
+return
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+#org 0x1A6B18
+copyvar 0x8000 0x8008
+compare 0x8000 0x1
+if 0x1 goto 0x81A6B76
+compare 0x8000 0x2
+if 0x1 goto 0x81A6B7A
+compare 0x8000 0x3
+if 0x1 goto 0x81A6B81
+compare 0x8000 0x4
+if 0x1 goto 0x81A6B8B
+compare 0x8000 0x5
+if 0x1 goto 0x81A6BA1
+compare 0x8000 0x6
+if 0x1 goto 0x81A6BB4
+compare 0x8000 0x7
+if 0x1 goto 0x81A6BCA
+compare 0x8000 0x8
+if 0x1 goto 0x81A6BE0
+end
+
+
+#org 0x16B9AB
+clearflag 0xA1
+return
+
+
+#org 0x1A6B76
+cleartrainerflag 0x8E
+return
+
+
+#org 0x1A6B7A
+cleartrainerflag 0x96
+cleartrainerflag 0xEA
+return
+
+
+#org 0x1A6B81
+cleartrainerflag 0x8D
+cleartrainerflag 0xDC
+cleartrainerflag 0x1A7
+return
+
+
+#org 0x1A6B8B
+cleartrainerflag 0x84
+cleartrainerflag 0x85
+cleartrainerflag 0xA0
+cleartrainerflag 0x109
+cleartrainerflag 0x10A
+cleartrainerflag 0x10B
+cleartrainerflag 0x192
+return
+
+
+#org 0x1A6BA1
+cleartrainerflag 0x126
+cleartrainerflag 0x127
+cleartrainerflag 0x120
+cleartrainerflag 0x121
+cleartrainerflag 0x124
+cleartrainerflag 0x125
+return
+
+#org 0x1A6BB4
+cleartrainerflag 0x118
+cleartrainerflag 0x119
+cleartrainerflag 0x11A
+cleartrainerflag 0x11B
+cleartrainerflag 0x1CE
+cleartrainerflag 0x1CF
+cleartrainerflag 0x1D0
+return
+
+#org 0x1A6BCA
+cleartrainerflag 0xB1
+cleartrainerflag 0xB2
+cleartrainerflag 0xB3
+cleartrainerflag 0xB4
+cleartrainerflag 0xD5
+cleartrainerflag 0xD6
+cleartrainerflag 0xD7
+return
+
+#org 0x1A6BE0
+cleartrainerflag 0x128
+cleartrainerflag 0x129
+cleartrainerflag 0x142
+cleartrainerflag 0x143
+cleartrainerflag 0x144
+cleartrainerflag 0x188
+cleartrainerflag 0x190
+cleartrainerflag 0x191
+return
+
+//---------
+// Strings
+//---------
+#org @msggreeting
+= Hey, kid! So you actually came to\nchallenge me.\pI've discovered something\ninteresting about POKÈMON evolution.\pYou won't get it out of me unless\nyou defeat me though.\pMy ELECTRIC POKÈMON zapped my\nenemies into paralysis during the\lwar! You stand no chance!\c\h0B\h56\h01
+
+#org @msgdefeated
+= Now that's a shocker!\pYou're the real deal, kid!\pFine, then, take the THUNDERBADGE!\p\c\h06¡[player] received the THUNDERRBADGE\nfrom LT SURGE!\c\h17\c\h0B«¿\c\h08\n\c\h08[Ke]\c\h18\p\c\h06«The THUNDERBADGE cranks up your\nPOKÈMON's SPEED!\pIt also gives you special access to\nVITAMINS available only through\lPOKÈMARTs. Get to training!
+
+#org @msgtm
+= Your research into the bonds\nbetween POKÈMON and TRAINERS[.]\pSomething came to mind instantly.
+
+#org @msgtm2
+= Many of my POKÈMON evolve by simple\ncontact with an EVOLUTION STONE.\pThese stones are naturally occuring\nand the process doesn't require any\lhuman intervention.\pHowever I found a box in the old\nPOWER PLANT capable of storing\ltremendous amounts of power.\pWhen one of my ELECTABUZZ held it\nduring a trade, something\lelectrifying happened!\pIt evolved further becoming\nELECTIVIRE.\pI can trade you an ELECTABUZZ so\nyou can see for yourself!
+
+#org @msgtm3
+= ELECTIVIRE's power is untamed and\nwild but there is value in\lcontrolled power such as in RAICHU.\pBring me one and you can have\nELECTABUZZ!
+
+#org @MSGTrade
+= Alright!\nDid you bring me RAICHU?\pI'll trade you for my [buffer2]?
+
+#org @MSGTradeComplete
+= Striking!\pHuman ingenuity can make POKÈMON\nreach higher levels of power.\lWitness[.]\p[.]ELECTIVIRE, the\nTHUNDERBOLT POKÈMON!
+
+#org 0x1A5B60
+= How is my old POKÈMON?\pHope that helped you with your\nresearch!
+
+#org 0x1A5B08
+= That's too bad.
+
+#org 0x1A5B18
+= [.]I don't think this is it.
