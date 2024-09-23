@@ -26,7 +26,7 @@ Family
 
 Shaping the Environment
 - Moltres: found in Cinnabar Vulcano
-- Blaine: found in Seafoam Island, upgrade - porygon
+- Blaine: found in Seafoam Island, access to unlimited safari zone, upgrade - porygon
 
 Power
 - Mewtwo: found in Cerulean Cave, absolute power
