@@ -5,7 +5,7 @@ Antiquity
 - Brock: found in Mt Moon, access to fossil revival, trade evo - Golem
 
 Change
-- Articuno: found in Seafoam Island
+- Articuno: found in Seafoam Island, reshaped Seafoam Island
 - Misty: found in Power Plant, access to Lapras Paiger, trade with natural item evo - Politoed
 
 Genius VS Training
@@ -24,8 +24,8 @@ Family
 - Osscythe: found in Pokemon Tower, lost child
 - Erika: found in Viridian Forest, access to berry plot, friendship during the day evo - Budew
 
-Shaping the Environment
-- Moltres: found in Cinnabar Vulcano
+Environment
+- Moltres: found in Cinnabar Vulcano, natural element
 - Blaine: found in Seafoam Island, access to unlimited safari zone, upgrade - porygon
 
 Power
