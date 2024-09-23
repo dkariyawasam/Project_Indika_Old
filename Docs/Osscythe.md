@@ -1,6 +1,5 @@
 Osscythe
-
-![WhatsApp Image 2024-09-19 at 14 15 37_05f0435c](https://github.com/user-attachments/assets/c9a81f49-476b-42e1-a7e3-0a587732a5ee)
+![image](https://github.com/user-attachments/assets/3355c2a7-3d86-42ce-84f7-ec604a16e9d3)
 
 Osscythe is a dual type Ground/Ghost Pokémon introduced in Pokémon: Kanto Expedtions.
 It evolves from Marowak when leveled up while knowing Rage.
