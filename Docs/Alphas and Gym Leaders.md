@@ -14,7 +14,7 @@ Genius VS Training
 
 Community
 - Mime Sr: found in Diglett Cave, isolation
-- Koga: found in Cinnabar Volcano, friendship evo
+- Koga: found in Cinnabar Volcano, access to metal detector, friendship evo
 
 Emotions
 - Annihilape: found in Mt Moon, anger
