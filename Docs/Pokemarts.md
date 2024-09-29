@@ -5,6 +5,25 @@
 - Antidote
 - Paralyz Heal
 
+## Pewter City
+- Poke Ball
+- Potion
+- Antidote
+- Paralyz Heal
+- Awakening
+- Burn Heal
+- Escape Rope
+- Repel
+
+## Vermillion City
+- Poke Ball
+- Super Potion
+- Antidote
+- Paralyz Heal
+- Awakening
+- Ice Heal
+- Repel
+
 ## Fuchsia City
 
 - Ultra Ball
