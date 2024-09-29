@@ -1,3 +1,25 @@
-Mime Sr
+## Viridian City
 
-![image](https://github.com/user-attachments/assets/de7f5d96-22c8-40db-9a44-cb901566b786)
+- Poke Ball
+- Potion
+- Antidote
+- Paralyz Heal
+
+## Fuchsia City
+
+- Ultra Ball
+- Great Ball
+- Super Potion
+- Revive
+- Full Heal
+- Max Repel
+
+## Cinnabar Island
+
+- Ultra Ball
+- Great Ball
+- Hyper Potion
+- Revive
+- Full Heal
+- Escape Rope
+- Max Repel
