@@ -11,4 +11,4 @@ Features
 - Alpha Pokemon: Move learn evolution Pokemon cannot be found in the wild but will appear as unique overworld encounters
 
 ## Screenshots
-![2024-09-28 17_44_52-Pokemon_Fire_Red_U_1 0 - VisualBoyAdvance-M 2 1 3](https://github.com/user-attachments/assets/53ce3eda-d4e4-4296-a097-12805e14f588)
+![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/2575aa6b-bcc9-4ad4-86d6-56389584f88d)
