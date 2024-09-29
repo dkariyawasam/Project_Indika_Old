@@ -66,10 +66,10 @@
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
 - Cleffa (2%), Clefairy (10%), Clefable (1% Item Evolution) - *Kanto Exclusive*
 #### Diglett Cave -1F
-- Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
-- Diglett (%), Dugtrio (%) - *Kanto Exclusive*, Alola
-- Sandshrew (%), Sandslash (%) - Kanto, Johto, Alola
-- Paras (%), Parasect (%) - Kanto, Johto
+- Zubat (20%), Golbat (10%), Crobat (0% Friendship Evolution) - Everywhere
+- Diglett (20%), Dugtrio (10%) - *Kanto Exclusive*, Alola
+- Sandshrew (10%), Sandslash (5%) - Kanto, Johto, Alola
+- Paras (15%), Parasect (10%) - Kanto, Johto
 #### Diglett Cave -2F
 - Zubat (), Golbat (), Crobat (0% Friendship Evolution) - Everywhere
 - Diglett, Dugtrio - *Kanto Exclusive*, Alola
