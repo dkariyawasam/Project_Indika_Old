@@ -68,7 +68,7 @@
 #### Diglett Cave -1F
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
 - Diglett (%), Dugtrio (%) - *Kanto Exclusive*, Alola
-- Sandshrew (%), Sandshlash (%) - Kanto, Johto, Alola
+- Sandshrew (%), Sandslash (%) - Kanto, Johto, Alola
 - Paras (%), Parasect (%) - Kanto, Johto
 #### Diglett Cave -2F
 - Zubat (), Golbat (), Crobat (0% Friendship Evolution) - Everywhere
