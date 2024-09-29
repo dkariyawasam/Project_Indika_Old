@@ -1,0 +1,11 @@
+//---------------
+#dynamic 0x740000
+
+#org @PalletTownGirl
+msgbox @MSGBored MSG_FACE
+
+//---------
+// Strings
+//---------
+#org @MSGBored
+= I'm bored! This town is really just\na research outpost, not much for\lme to do!
