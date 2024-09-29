@@ -65,8 +65,13 @@
 #### Mt Moon
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
 - Cleffa (2%), Clefairy (10%), Clefable (1% Item Evolution) - *Kanto Exclusive*
-#### Diglett Cave
+#### Diglett Cave -1F
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
+- Diglett (%), Dugtrio (%) - *Kanto Exclusive*, Alola
+- Sandshrew (%), Sandshlash (%) - Kanto, Johto, Alola
+- Paras (%), Parasect (%) - Kanto, Johto
+#### Diglett Cave -2F
+- Zubat (), Golbat (), Crobat (0% Friendship Evolution) - Everywhere
 - Diglett, Dugtrio - *Kanto Exclusive*, Alola
 #### Rock Tunnel
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
@@ -76,7 +81,7 @@
 - Larvitar, Pupitar, Tyranitar - Kanto, Johto
 #### Cerulean Cave
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
-- Paras, Parasect - Kanto, Johto
+- 
 ----
 ## Mountain
 #### Route 03
@@ -105,7 +110,7 @@
 #### Route 15
 - Ponyta (80%), Rapidash (20%) - *Kanto Exclusive*, Galar
 #### Route 22
-- Sandshrew (80%), Sandslash (20%) - Kanto, Johto, Alola
+- 
 #### Route 23
 - Rhyhorn (80%), Rhydon (20%), Rhyperior (Trade-Only) - Kanto, Johto
 ----
