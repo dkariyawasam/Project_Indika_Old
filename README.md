@@ -2,7 +2,7 @@
 
 Experience an all-new Kanto as a field researcher for Professor Oak as you uncover the mysteries of evolution and the bonds between Pokemon and trainers.
 
-Features
+## Features
 
 - Scalable Gym leaders: Gym leaders 1-7 scale in difficulty depending on the order you challenge them in.
 - Openworld: There are no roadblocks
@@ -12,3 +12,13 @@ Features
 
 ## Screenshots
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/2575aa6b-bcc9-4ad4-86d6-56389584f88d)
+
+## Roadblock Todo List
+[x] Remove Oak's Parcel fetch roadblock
+[x] Remove Viridian City Oldman Tutorial roadblock
+[x] Remove all Cut Trees
+[x] Remove need for flash in Rock Tunnel
+[x] Remove Pewter City Gym Challenge Kid roadblock
+[x] Add Seagull Ship connecting Pallet Town, Cinnabar Island, and Fuschia City
+
+
