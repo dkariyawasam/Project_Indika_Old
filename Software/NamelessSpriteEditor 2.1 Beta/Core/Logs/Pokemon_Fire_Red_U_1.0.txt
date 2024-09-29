@@ -37,3 +37,21 @@
 19/09/2024 23:09:15 : Navigated 0x7A2158 0x7A221C : 3, 3
 19/09/2024 23:09:32 : Navigated 0x7A2158 0x7A221C : 3, 3
 19/09/2024 23:11:02 : Saved Data 0x7A2158 to 0x7A2158
+28/09/2024 16:35:20 : Opened with NSE 2.X.
+28/09/2024 16:37:44 : Opened with NSE 2.X.
+28/09/2024 16:38:07 : Opened with NSE 2.X.
+28/09/2024 16:40:17 : Opened Image C:\Users\dee.kariyawasam\Desktop\Pokemon Journeys - Kanto\Graphics\InBattle_MimeSr.png
+28/09/2024 16:40:54 : Inserted Data at 0x7A3018
+28/09/2024 16:41:18 : Inserted Data at 0x7A28F0
+28/09/2024 16:43:53 : Opened with NSE 2.X.
+28/09/2024 16:43:59 : Opened with NSE 2.X.
+28/09/2024 16:44:22 : Opened with NSE 2.X.
+28/09/2024 16:49:28 : Opened with NSE 2.X.
+29/09/2024 01:26:28 : Opened with NSE 2.X.
+29/09/2024 01:30:26 : Navigated 0xE95DBC 0x0 : 16, 16
+29/09/2024 01:31:58 : Opened with NSE 2.X.
+29/09/2024 01:32:35 : Navigated 0xE95DDC 0xE95DBC : 16, 16
+29/09/2024 01:48:48 : Navigated 0xF02AB0 0xE95DBC : 16, 16
+29/09/2024 02:10:14 : Saved Data 0xF02AB0
+29/09/2024 02:10:21 : Saved Data 0xF02AB0
+29/09/2024 02:10:47 : Opened with NSE 2.X.
