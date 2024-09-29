@@ -4,10 +4,12 @@ Osscythe
 Osscythe is a dual type Ground/Ghost Pokémon introduced in Pokémon: Kanto Expedtions.
 It evolves from Marowak when leveled up while knowing Rage.
 
+Ability: Super Luck
+
 Game locations
 The Pokémon Tower in Lavander Town
 
-Held items: Reaper's Scythe(item exclusive to Osscythe)
+Held items: Reaper's Scythe 5%(item exclusive to Osscythe)
 
 Stats
 
@@ -41,7 +43,26 @@ Learnset
 
 By leveling up:
 
+32 Shadow Ball Ghost    80 100% 15
+36 Sand Tomb   Ground   35  85% 15
+41 Torment     Dark     Status  15
+45 Shadow Bone Ghost    85 100% 10 (GEN7)
+50 Grudge      Ghost    Status   5
+54 Thrash      Normal   90 100% 20
+60 Memento     Dark     Status  10
+66 Bone Rush   Ground   25  80% 10
+72 Revenge     Fighting 60 100% 10
+77 Double-Edge Normal  120 100% 15
+
 By TM:
+
+TM12 Taunt	     Dark   Status   20
+TM21 Frusration  Normal   - 100% 20
+TM26 Earthquake  Ground 100 100% 10
+TM28 Dig	 Ground        80 100% 10
+TM30 Shadow Ball Ghost   80 100% 15
+TM41 Torment     Dark   Status   15
+TM42 Facade      Normal  70 100% 20
 
 By breeding: This Pokémon learns no moves by breeding.
 
