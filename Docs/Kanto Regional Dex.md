@@ -71,8 +71,12 @@
 - Sandshrew (10%), Sandslash (5%) - Kanto, Johto, Alola
 - Paras (15%), Parasect (10%) - Kanto, Johto
 #### Diglett Cave -2F
-- Zubat (), Golbat (), Crobat (0% Friendship Evolution) - Everywhere
-- Diglett, Dugtrio - *Kanto Exclusive*, Alola
+- Zubat (10%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
+- Diglett (10%), Dugtrio (20%) - *Kanto Exclusive*, Alola
+- Sandshrew (5%), Sandslash (10%)
+- Paras (5%), Parasect (10%)
+- Sableye (5%)
+- Mime Jr. (1%), Mr. Mime (4%)
 #### Rock Tunnel
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
 - Onix, Steelix (0% Trade-Only) - Kanto, Johto
