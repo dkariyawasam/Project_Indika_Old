@@ -27,14 +27,32 @@
 |Escape Rope|0x55|
 
 ## Pewter City
-- Poke Ball
-- Potion
-- Antidote
-- Paralyz Heal
-- Awakening
-- Burn Heal
-- Escape Rope
-- Repel
+|Item|Value|
+|---------|----|
+|Hard Stone|0xCC|
+|Choice Band|0xBA|
+|Moon Stone|0x5E|
+|Everstone|0xC3|
+|Poke ball|0x4|
+|Great ball|0x3|
+|Ultra ball|0x2|
+|Potion|0xD|
+|Super Potion|0x16|
+|Hyper Potion|0x15|
+|Max Potion|0x14|
+|Antidote|0xE|
+|Paralyze Heal|0x12|
+|Awakening|0x11|
+|Burn Heal|0xF|
+|Ice Heal|0x10|
+|Full Heal|0x17|
+|Full Restore|0x13|
+|Revive|0x18|
+|Repel|0x56|
+|Super Repel|0x53|
+|Max Repel|0x54|
+|Escape Rope|0x55|
+
 
 ## Vermillion City
 - Poke Ball
