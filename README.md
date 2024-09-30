@@ -20,5 +20,8 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Remove need for flash in Rock Tunnel
 - [x] Add Seagull Ship connecting Pallet Town, Cinnabar Island, and Fuschia City
 - [x] Remove Pewter City Gym Challenge Kid roadblock
-- [x] Remove Cerulean City Police roadblock
+- [x] Remove Cerulean City Police and Rocket Grunt roadblock
+- [x] Remove Saffron City guards lemonade requirements
 
+## Team Rocket Todo List
+- [x] Remove Team Rocket's presence in Mt Moon
