@@ -23,6 +23,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Remove Saffron City guards lemonade
 - [ ] Remove Victory Road Strength
 - [ ] Remove Lavander Town Snorlax OW
+- [ ] Move Celadon City Snorlax to Rock Tunnel
 
 ## Navigation Todo List
 - [x] Add Seagull Ship connecting Pallet Town, Cinnabar Island, and Fuschia City
