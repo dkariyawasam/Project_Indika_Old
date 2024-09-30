@@ -17,9 +17,10 @@ if 0x0 goto @dynamic - if clear or not set go to dynamic script
 if 0x1 go to @dynamic - if set go to dynamic script
 
 Used Vars:
-- 4002 0x1 - Moves parcel delivery girl to pallet town exit after player has chosen starter, sets itself to 0x0 after receiving parcel
-- 4012 0x0 - Pewter Gym Aide greets you on first entry, sets itself to 0x1 after greeting
-- 4013 0x0 - Vermilion Gym Aide greets you on first entry, sets itself to 0x1 after greeting
+- 4002 - 0x1 Moves parcel delivery girl to pallet town exit after player has chosen starter, sets itself to 0x0 after receiving parcel
+- 4011 - Counts number of badges
+- 4012 - 0x0 Pewter Gym Aide greets you on first entry, sets itself to 0x1 after greeting
+- 4013 - 0x0 Vermilion Gym Aide greets you on first entry, sets itself to 0x1 after greeting
 
 Used Flags:
 - 0x202 - Sets Mt Moon Brock's visibility
