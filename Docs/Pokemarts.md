@@ -1,7 +1,7 @@
 ## Viridian City
 
-|Item|
-|---------|
+|Item|Value|
+|---------|----|
 |Silver Powder|0xBC|
 |Miracle Seed|0xDC|
 |Soft Sand|0xCB|
