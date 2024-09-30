@@ -24,8 +24,8 @@ Used Vars:
 Used Flags:
 - 0x202 - Sets Mt Moon Brock vsibility
 - 0x203 - Sets Gym Brock visibility
-- 0x204 - Sets Diglett's Cave Surge visibility
-- 0x205 - Sets Gym Surge visibility
+- 0x206 - Sets Diglett's Cave Surge visibility
+- 0x207 - Sets Gym Surge visibility
 - 0x291 - Set when player has chosen starter
 
 
