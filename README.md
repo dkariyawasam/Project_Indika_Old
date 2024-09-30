@@ -33,3 +33,9 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 ## Team Rocket Todo List
 - [x] Remove Team Rocket's presence in Mt Moon
 - [ ] Repurpose Team Rocket Hideout to host a tournament with Coin gambling
+
+## Alpha Overworlds Todo List
+- [x] Add Tangrowth to Viridian Forest
+- [x] Add Mime Sr. to Diglett Cave
+- [ ] Add Annihilape to Mt Moon
+- [ ] Add Osscythe to Pokemon Tower
