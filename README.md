@@ -55,3 +55,18 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [ ] Add Osscythe to Pokemon Tower
 - [ ] Add mention of a cubone being snatched from a Marowak mother in Rocket Hideout
 - [ ] Move Moltres to Cinnabar Volcano
+
+## Gym Leaders Todo List
+- [x] Find Brock in Mt Moon looking for fossils
+- [x] Add 7 variations of Brock's challenge
+- [x] Add Relicanth/Graveller trade after Brock's defeat
+- [x] Allow access to Cinnabar Lab through Boulder badge
+- [ ] Find Misty in Power Plant reactivating it after a blackout
+- [x] Add 7 variatrions of Misty's challenge
+- [ ] Add Gyrados/Poliwhirl natural item trade after Misty's defeat
+- [ ] Allow access to Lapras Paiger to surf in overworld
+- [x] Find Surge in Diglett's Cave training
+- [x] Add 7 variations of Surge's challenge
+- [x] Add Raichu/Electabuzz human item trade after Surge's defeat
+- [ ] Allow access to Vitamins in every Pokemart
+- [ ] 
