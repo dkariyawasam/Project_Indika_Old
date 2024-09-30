@@ -39,3 +39,4 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Add Mime Sr. to Diglett Cave
 - [ ] Add Annihilape to Mt Moon
 - [ ] Add Osscythe to Pokemon Tower
+- [ ] Move Moltres to Cinnabar Volcano
