@@ -3,7 +3,7 @@
 |Item|Value|
 |---------|----|
 |Silver Powder|0xBC|
-|Miracle Seed|0xDC|
+|Miracle Seed|0xCD|
 |Soft Sand|0xCB|
 |Poke ball|0x4|
 |Great ball|0x3|
