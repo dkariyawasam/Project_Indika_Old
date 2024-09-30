@@ -69,4 +69,3 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Add 7 variations of Surge's challenge
 - [x] Add Raichu/Electabuzz human item trade after Surge's defeat
 - [ ] Allow access to Vitamins in every Pokemart
-- [ ] 
