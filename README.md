@@ -31,6 +31,9 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Extend Route 25 to connect to Route 09
 - [x] Connect horizontal and vertical Underground Tunnels
 - [ ] Connect Route 21 to Cycling Road
+- [ ] Connect Vermillion City to Route 15
+- [ ] Connect Route 03 to Route 04
+- [x] Allow access to Mt Moon from Route 04
 - [x] Extend Diglett's Cave
 - [ ] Add Cinnabar Volcano to Cinnabar Island
 
