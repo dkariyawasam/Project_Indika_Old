@@ -1,12 +1,12 @@
 //---------------
 #dynamic 0x740000
 #org @GymSurgeInitial
-checkflag 0x204
+checkflag 0x206
 if 0x1 goto @SurgeBack
-setflag 0x205
+setflag 0x207
 end
 
 //---------------
 #org @SurgeBack
-clearflag 0x205
+clearflag 0x207
 end

@@ -8,7 +8,7 @@ release
 fadescreen 0x1
 hidesprite 0x1
 fadescreen 0x0
-setflag 0x204
+setflag 0x206
 end
 
 
