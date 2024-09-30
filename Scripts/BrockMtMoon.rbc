@@ -1,0 +1,19 @@
+//---------------
+#dynamic 0x740000
+#org @BrockMtMoon
+lock
+faceplayer
+msgbox @MSGGreeting MSG_KEEPOPEN
+release
+fadescreen 0x1
+hidesprite 0xF
+fadescreen 0x0
+setflag 0x202
+end
+
+
+//---------
+// Strings
+//---------
+#org @MSGGreeting
+= Fuhaha, There it is!\nIt's the fossil I was looking for!\pUh? Are you a gym challenger?\nI'm not one to neglect my duties.\pI'll meet you at the gym.
