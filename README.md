@@ -28,7 +28,8 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Extend Route 25 to connect to Route 09
 - [x] Connect horizontal and vertical Underground Tunnels
 - [x] Extend Diglett's Cave
+- [ ] Add Cinnabar Volcano to Cinnabar Island
 
 ## Team Rocket Todo List
 - [x] Remove Team Rocket's presence in Mt Moon
-- [] Repurpose Team Rocket Hideout to host a tournament with Coin gambling
+- [ ] Repurpose Team Rocket Hideout to host a tournament with Coin gambling
