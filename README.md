@@ -18,11 +18,17 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Remove Viridian City Oldman Tutorial roadblock
 - [x] Remove all Cut Trees
 - [x] Remove need for flash in Rock Tunnel
-- [x] Add Seagull Ship connecting Pallet Town, Cinnabar Island, and Fuschia City
 - [x] Remove Pewter City Gym Challenge Kid roadblock
 - [x] Remove Cerulean City Police and Rocket Grunt roadblock
 - [x] Remove Saffron City guards lemonade requirements
 
+## Navigation Todo List
+- [x] Add Seagull Ship connecting Pallet Town, Cinnabar Island, and Fuschia City
+- [x] Extend Route 02 to connect to Celadon City
+- [x] Extend Route 25 to connect to Route 09
+- [x] Connect horizontal and vertical Underground Tunnels
+- [x] Extend Diglett's Cave
+
 ## Team Rocket Todo List
 - [x] Remove Team Rocket's presence in Mt Moon
-- [x] Repurpose Team Rocket Hideout to host a tournament with Coin gambling
+- [] Repurpose Team Rocket Hideout to host a tournament with Coin gambling
