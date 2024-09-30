@@ -22,10 +22,12 @@ Used Vars:
 - 4013 0x0 - Vermilion Gym Aide greets you on first entry, sets itself to 0x1 after greeting
 
 Used Flags:
-- 0x202 - Sets Mt Moon Brock vsibility
-- 0x203 - Sets Gym Brock visibility
-- 0x206 - Sets Diglett's Cave Surge visibility
-- 0x207 - Sets Gym Surge visibility
+- 0x202 - Sets Mt Moon Brock's visibility
+- 0x203 - Sets Gym Brock's visibility
+- 0x204 - Sets Power Plant Misty's visibility
+- 0x205 = Sets Gym Misty's visiblity
+- 0x206 - Sets Diglett's Cave Surge's visibility
+- 0x207 - Sets Gym Surge's visibility
 - 0x291 - Set when player has chosen starter
 
 
