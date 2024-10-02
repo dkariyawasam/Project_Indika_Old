@@ -119,3 +119,13 @@
 - Full Heal
 - Escape Rope
 - Max Repel
+
+## Thunder Badge Unlocked
+|Item|Value|
+|---------|----|
+|HP Up|0x3F|
+|Protein|0x40|
+|Iron|0x41|
+|Calcium|0x42|
+|Zinc|0x43|
+|Carbos|0x46|
