@@ -5,10 +5,10 @@
 |Silver Powder|0xBC|
 |Miracle Seed|0xCD|
 |Soft Sand|0xCB|
+|Net ball|0x6|
 |Poke ball|0x4|
 |Great ball|0x3|
 |Ultra ball|0x2|
-|Net ball|0x6|
 |Potion|0xD|
 |Super Potion|0x16|
 |Hyper Potion|0x15|
