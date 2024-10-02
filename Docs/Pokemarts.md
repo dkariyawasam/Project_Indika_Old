@@ -31,7 +31,6 @@
 |---------|----|
 |Hard Stone|0xCC|
 |Choice Band|0xBA|
-|Moon Stone|0x5E|
 |Everstone|0xC3|
 |Poke ball|0x4|
 |Great ball|0x3|
