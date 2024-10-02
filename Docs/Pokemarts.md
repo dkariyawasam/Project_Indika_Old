@@ -52,7 +52,7 @@
 |Max Repel|0x54|
 |Escape Rope|0x55|
 
-# Cerulean City
+## Cerulean City
 |Item|Value|
 |---------|----|
 |Mystic Water|D1|
@@ -80,7 +80,8 @@
 |Escape Rope|0x55|
 
 ## Vermillion City
-
+|Item|Value|
+|---------|----|
 |Poke ball|0x4|
 |Great ball|0x3|
 |Ultra ball|0x2|
