@@ -82,10 +82,13 @@
 ## Vermillion City
 |Item|Value|
 |---------|----|
+|Magnet|D0|
+|Quick Claw|B7|
+|Thunder Stone|60|
+|Poke Doll|50|
 |Poke ball|0x4|
 |Great ball|0x3|
 |Ultra ball|0x2|
-|Net ball|0x6|
 |Potion|0xD|
 |Super Potion|0x16|
 |Hyper Potion|0x15|
@@ -102,6 +105,7 @@
 |Super Repel|0x53|
 |Max Repel|0x54|
 |Escape Rope|0x55|
+
 ## Fuchsia City
 
 - Ultra Ball
