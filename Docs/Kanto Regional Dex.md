@@ -10,7 +10,7 @@
 #### Route 11
 - Nidoranf (20%), Nidorina (14%), Nidoqueen (1% Item Evolution) - Kanto, Johto
 - Nidoranm (20%), Nidorino (14%), Nidoking (1% Item Evolution) - Kanto, Johto
-- Elekid (20%), Electabuzz (10%), Electivire (0% Gym Trade-Only) - *Kanto Exclusive*
+- Mime Jr., Mr. Mime, Mime Sr. - Kanto, Johto, Galar
 ----
 ## Forest
 #### Route 02
@@ -113,6 +113,7 @@
 - Growlithe (40%), Arcanine (10%) - Kanto, Johto
 #### Route 15
 - Ponyta (80%), Rapidash (20%) - *Kanto Exclusive*, Galar
+- Exeggcute, Exeggutor - Kanto, Johto, Alola
 #### Route 22
 - 
 #### Route 23
@@ -130,6 +131,7 @@
 - Voltorb, Electrode - *Kanto Exclusive*
 - Magnemite, Magneton, Magnezone - Kanto, Johto
 - Grimer, Muk - *Kanto Exclusive*, Alola
+- Elekid (20%), Electabuzz (10%), Electivire (0% Gym Trade-Only) - *Kanto Exclusive*
 #### Pokemon Tower
 - Gastly, Haunter, Gengar (Trade-Only) - Kanto, Johto
 #### Pokemon Mansion
@@ -153,8 +155,6 @@
 ## Legendary
 - Mew - n/a
 ----
-- Exeggcute, Exeggutor - Kanto, Johto, Alola
-- Mime Jr, Mr Mime - Kanto, Johto, Galar
 - Kangaskhan - *Kanto Exclusive*
 - Natu, Xatu - Kanto, Johto
 
