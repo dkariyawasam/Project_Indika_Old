@@ -79,7 +79,7 @@
 |Max Repel|0x54|
 |Escape Rope|0x55|
 
-## Vermillion City
+## Vermilion City
 |Item|Value|
 |---------|----|
 |Magnet|D0|
