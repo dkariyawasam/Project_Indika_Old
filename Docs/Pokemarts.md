@@ -5,10 +5,10 @@
 |Silver Powder|0xBC|
 |Miracle Seed|0xCD|
 |Soft Sand|0xCB|
+|Net ball|0x6|
 |Poke ball|0x4|
 |Great ball|0x3|
 |Ultra ball|0x2|
-|Net ball|0x6|
 |Potion|0xD|
 |Super Potion|0x16|
 |Hyper Potion|0x15|
@@ -52,7 +52,7 @@
 |Max Repel|0x54|
 |Escape Rope|0x55|
 
-# Cerulean City
+## Cerulean City
 |Item|Value|
 |---------|----|
 |Mystic Water|D1|
@@ -80,7 +80,8 @@
 |Escape Rope|0x55|
 
 ## Vermillion City
-
+|Item|Value|
+|---------|----|
 |Poke ball|0x4|
 |Great ball|0x3|
 |Ultra ball|0x2|
