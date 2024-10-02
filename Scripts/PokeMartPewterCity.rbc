@@ -8,6 +8,8 @@ compare LASTRESULT 0x2
 if 0x1 goto @End
 preparemsg @MSGGreeting
 waitmsg
+checkflag 0x231
+if 0x1 goto @VitaminsAdded
 pokemart @MRTPewter
 msgbox @MSGGoodbye MSG_KEEPOPEN
 release
@@ -16,6 +18,11 @@ end
 //---------------
 #org @End
 end
+
+//-----------------------------------------------------------------------
+#org @VitaminsAdded
+pokemart @MRTPewterThunder
+release
 
 
 //---------
@@ -37,6 +44,37 @@ end
 #raw word 0x4
 #raw word 0x3
 #raw word 0x2
+#raw word 0xD
+#raw word 0x16
+#raw word 0x15
+#raw word 0x14
+#raw word 0xE
+#raw word 0x12
+#raw word 0x11
+#raw word 0xF
+#raw word 0x10
+#raw word 0x17
+#raw word 0x13
+#raw word 0x18
+#raw word 0x56
+#raw word 0x53
+#raw word 0x54
+#raw word 0x55
+#raw word 0x0
+
+#org @MRTPewterThunder
+#raw word 0xCC
+#raw word 0xBA
+#raw word 0xC3
+#raw word 0x4
+#raw word 0x3
+#raw word 0x2
+#raw word 0x3F
+#raw word 0x40
+#raw word 0x41
+#raw word 0x42
+#raw word 0x43
+#raw word 0x46
 #raw word 0xD
 #raw word 0x16
 #raw word 0x15
