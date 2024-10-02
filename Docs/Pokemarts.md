@@ -55,6 +55,9 @@
 # Cerulean City
 |Item|Value|
 |---------|----|
+|Mystic Water|D1|
+|Dragon scale|C9|
+|Water Stone|0x61|
 |Poke ball|0x4|
 |Great ball|0x3|
 |Ultra ball|0x2|
@@ -75,9 +78,6 @@
 |Super Repel|0x53|
 |Max Repel|0x54|
 |Escape Rope|0x55|
-|Water Stone|0x61|
-|Mystic Water|D1|
-|Dragon scale|C9|
 
 ## Vermillion City
 - Poke Ball
