@@ -38,6 +38,7 @@ end
 #raw 0xFE //End of Movements
 
 #org @MOVE2
+#raw 0x13 //Step Right (Normal)
 #raw 0x10 //Step Down (Normal)
 #raw 0x10 //Step Down (Normal)
 #raw 0x10 //Step Down (Normal)
