@@ -52,6 +52,21 @@
 |Max Repel|0x54|
 |Escape Rope|0x55|
 
+## Route 4
+|Item|Value|
+|---------|----|
+|Poke ball|0x4|
+|Great ball|0x3|
+|Ultra ball|0x2|
+|Energy Powder|0x1E|
+|Energy Root|0x1F|
+|Heal Powder|0x20|
+|Revival Herb|0x21|
+|Repel|0x56|
+|Super Repel|0x53|
+|Max Repel|0x54|
+|Escape Rope|0x55|
+
 ## Cerulean City
 |Item|Value|
 |---------|----|
