@@ -121,6 +121,35 @@
 |Max Repel|0x54|
 |Escape Rope|0x55|
 
+## Lavander Town
+
+|Item|Value|
+|---------|----|
+|Spell Tag|0xD5|
+|Silver Powder|0xBC|
+|Bright Powder|0xB3|
+|Lax Incense|0xDD|
+|Sea Incense|0xDC|
+|Cleanse tag|0xBE|
+|Amulet Coin|0xBD|
+|White Herb|0xB4|
+|Mental Herb|0xB9|
+|Poke ball|0x4|
+|Great ball|0x3|
+|Ultra ball|0x2|
+|Energy Powder|0x1E|
+|Energy Root|0x1F|
+|Heal Powder|0x20|
+|Revival Herb|0x21|
+|Potion|0xD|
+|Super Potion|0x16|
+|Antidote|0xE|
+|Awakening|0x11|
+|Revive|0x18|
+|Repel|0x56|
+|Super Repel|0x53|
+|Escape Rope|0x55|
+
 ## Celadon City
 
 |Item|Value|
