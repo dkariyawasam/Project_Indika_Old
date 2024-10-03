@@ -139,6 +139,8 @@
 |Max Repel|0x54|
 |Escape Rope|0x55|
 
+|Item|Value|
+|---------|----|
 |X Attack|4B|
 |X Defense|4C|
 |X Special|4F|
@@ -148,9 +150,13 @@
 |Guard Spec.|49|
 
 ## Gym Erika
+|Item|Value|
+|---------|----|
 |Berry Juice|2C|
 
 ## Casino
+|Item|Value|
+|---------|----|
 |Lucky Punch|DE|
 |Lucky Egg|C5|
 
