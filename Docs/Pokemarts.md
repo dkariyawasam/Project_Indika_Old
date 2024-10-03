@@ -115,7 +115,6 @@
 |Fire Stone|5F|
 |Thunder Stone|60|
 |Sun Stone|5D|
-|Everstone|0xC3|
 |Poke Doll|50|
 |Repeat Ball|0x9|
 |Timer Ball|0xA|
@@ -138,6 +137,16 @@
 |Super Repel|0x53|
 |Max Repel|0x54|
 |Escape Rope|0x55|
+
+|Item|Value|
+|---------|----|
+|Macho Brace|B5|
+|Scope Lens|C6|
+|Leftovers|C8|
+|Focus Band|C4|
+|Quick Claw|B7|
+
+|Miracle Seed|0xCD|
 
 |Item|Value|
 |---------|----|
