@@ -55,8 +55,8 @@
 ## Cerulean City
 |Item|Value|
 |---------|----|
-|Mystic Water|D1|
-|Dragon Scale|C9|
+|Mystic Water|0xD1|
+|Dragon Scale|0xC9|
 |Water Stone|0x61|
 |Poke ball|0x4|
 |Great ball|0x3|
@@ -82,10 +82,10 @@
 ## Vermilion City
 |Item|Value|
 |---------|----|
-|Magnet|D0|
-|Quick Claw|B7|
-|Thunder Stone|60|
-|Poke Doll|50|
+|Magnet|0xD0|
+|Quick Claw|0xB7|
+|Thunder Stone|0x60|
+|Poke Doll|0x50|
 |Poke ball|0x4|
 |Great ball|0x3|
 |Ultra ball|0x2|
@@ -110,12 +110,12 @@
 
 |Item|Value|
 |---------|----|
-|Leaf Stone|62|
-|Water Stone|61|
-|Fire Stone|5F|
-|Thunder Stone|60|
-|Sun Stone|5D|
-|Poke Doll|50|
+|Leaf Stone|0x62|
+|Water Stone|0x61|
+|Fire Stone|0x5F|
+|Thunder Stone|0x60|
+|Sun Stone|0x5D|
+|Poke Doll|0x50|
 |Repeat Ball|0x9|
 |Timer Ball|0xA|
 |Poke ball|0x4|
@@ -140,13 +140,20 @@
 
 |Item|Value|
 |---------|----|
-|Macho Brace|B5|
-|Scope Lens|C6|
-|Leftovers|C8|
-|Focus Band|C4|
-|Quick Claw|B7|
-
+|Macho Brace|0xB5|
+|Leftovers|0xC8|
+|Focus Band|0xC4|
+|Choice Band|0xBA|
+|Quick Claw|0xB7|
+|Scope Lens|0xC6|
 |Miracle Seed|0xCD|
+|Sharp Beak|0xD2|
+|Metal Coat|0xC7|
+|Black Glasses|0xCE|
+|NeverMeltIce|0xD4|
+|Dragon Fang|0xD8|
+|Silk Scarf|0xD9|
+
 
 |Item|Value|
 |---------|----|
