@@ -218,13 +218,38 @@
 |Lucky Egg|C5|
 
 ## Fuchsia City
+|Posion Barb|D3|
+|Dragon Scale|0xC9|
+|Soft Sand|0xCB|
+|Shell bell|DB|
+|Soothe bell|B8|
+|Smoke ball|C2|
+|Poke Doll|0x50|
+|Net ball|0x6|
+|Poke ball|0x4|
+|Great ball|0x3|
+|Ultra ball|0x2|
+|Energy Powder|0x1E|
+|Energy Root|0x1F|
+|Heal Powder|0x20|
+|Revival Herb|0x21|
+|Potion|0xD|
+|Super Potion|0x16|
+|Hyper Potion|0x15|
+|Max Potion|0x14|
+|Antidote|0xE|
+|Paralyze Heal|0x12|
+|Awakening|0x11|
+|Burn Heal|0xF|
+|Ice Heal|0x10|
+|Full Heal|0x17|
+|Full Restore|0x13|
+|Revive|0x18|
+|Repel|0x56|
+|Super Repel|0x53|
+|Max Repel|0x54|
+|Escape Rope|0x55|
 
-- Ultra Ball
-- Great Ball
-- Super Potion
-- Revive
-- Full Heal
-- Max Repel
 
 ## Cinnabar Island
 
