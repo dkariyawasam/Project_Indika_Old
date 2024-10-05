@@ -8,7 +8,7 @@ faceplayer
 checkflag 0x4B2					// Check if Brock is defeated
 if 0x1 goto @GymDefeated 			// Flag is set
 
-checkflag 0x205                                 // Check if Surge is back
+checkflag 0x207                                 // Check if Surge is back
 if 0x1 goto @GymNotReady
 
 msgbox @MSGGymReady 0x5
