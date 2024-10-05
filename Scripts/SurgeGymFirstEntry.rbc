@@ -8,7 +8,7 @@ msgbox @MSGGreeting MSG_KEEPOPEN
 applymovement 0x4 @MoveGymAide2
 waitmovement 0x4
 releaseall
-setvar 0x4013 0x1
+setvar 0x4014 0x1
 end
 
 
