@@ -56,8 +56,6 @@
 |Item|Value|
 |---------|----|
 |Poke ball|0x4|
-|Great ball|0x3|
-|Ultra ball|0x2|
 |Energy Powder|0x1E|
 |Energy Root|0x1F|
 |Heal Powder|0x20|
@@ -136,7 +134,6 @@
 |Mental Herb|0xB9|
 |Poke ball|0x4|
 |Great ball|0x3|
-|Ultra ball|0x2|
 |Energy Powder|0x1E|
 |Energy Root|0x1F|
 |Heal Powder|0x20|
