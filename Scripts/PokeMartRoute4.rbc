@@ -32,8 +32,6 @@ end
 //-----------
 #org @MRTRoute4
 #raw word 0x4
-#raw word 0x3
-#raw word 0x2
 #raw word 0x1E
 #raw word 0x1F
 #raw word 0x20
