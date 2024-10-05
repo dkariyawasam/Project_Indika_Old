@@ -218,6 +218,8 @@
 |Lucky Egg|C5|
 
 ## Fuchsia City
+|Item|Value|
+|---------|----|
 |Posion Barb|D3|
 |Dragon Scale|0xC9|
 |Soft Sand|0xCB|
