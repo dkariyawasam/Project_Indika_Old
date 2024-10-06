@@ -50,32 +50,42 @@
 ----
 ## Water's Edge
 #### Route 06
-- Slowpoke (20%), Slowbro (15%), Slowking (0% Trade-Only) - Kanto, Johto, Galar
-- Shellder (20%), Cloyster (1% Item Evolution) - Kanto, Johto
+- Wooper, Quagsire
+- Poliwag (50%), Poliwhirl (40%), Poliwrath (1% Item Evolution), Politoed (Trade-Only) - Kanto, Johto
 #### Route 10
 - Krabby (80%), Kingler (20%) - Kanto, Johto
 - Psyduck (20%), Golduck (15%) - Kanto, Johto
 #### Route 12
-- Poliwag (50%), Poliwhirl (40%), Poliwrath (1% Item Evolution), Politoed (Trade-Only) - Kanto, Johto
-- Seel, Dewgong - Kanto, Johto
+- Slowpoke (20%), Slowbro (15%), Slowking (0% Trade-Only) - Kanto, Johto, Galar
+- Shellder (20%), Cloyster (1% Item Evolution) - Kanto, Johto
 #### Route 24
 - Staryu (40%), Starmie (1% Item Evolution) - Everywhere
+- Qwilfish - Kanto, Johto
+#### Seafoam Island
+- Seel, Dewgong - Kanto, Johto
 - Corsola (50%) - Everywhere
+-----
 ## Water
 #### Route 19
 - Goldeen, Seaking - Everywhere
 - Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
+- Magikarp, Gyarados - Kanto, Johto
+- Tentacool, Tentacruel - Kanto, Johto
 #### Route 20
 - Goldeen, Seaking - Everywhere
 - Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
 - Relicanth - *Kanto Exclusive*
-- Magikarp, Gyarados - Kanto, Johto
-- Tentacool, Tentacruel - Kanto, Johto
 - Chinchou, Lanturn - Kanto, Johto
-- Qwilfish - Kanto, Johto
 #### Route 21
 - Goldeen, Seaking - Everywhere
 - Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
+- Magikarp, Gyarados - Kanto, Johto
+- Feebas, Milotic
+#### Vermilion Bay
+- Goldeen, Seaking - Everywhere
+- Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
+- Luvdisc
+- Clampearl, Huntail, Gorebyss
 ----
 ## Cave
 #### Mt Moon
@@ -177,12 +187,8 @@
 - Poochyena, Mightyena
 - Baltoy, Claydol
 - Gulpin, Swalot
-- Wooper, Quagsire
-- Chinchou, Lanturn
-- Luvdisc
 - Phanphy, Donphan
 - Mawile
-- Clampearl, Huntail, Gorebyss
 - Lickitung, Lickilicky - Kanto, Johto
 - Wynaut, Wobbuffet
 - misdreavus, Mismagius
