@@ -1,18 +1,18 @@
 ## Grassland
 #### Route 01
-- Sentret (20%), Furret (10%) - Kanto, Johto
-- Sunkern (39%), Sunflora (1% Item Evolution) - *Kanto Exclusive*
+- Sentret (10%), Furret (10%) - Kanto, Johto
+- Sunkern (36%), Sunflora (4% Item Evolution) - *Kanto Exclusive*
 - Hoppip (20%), Skiploom (15%), Jumpluff (5%) - Kanto, Johto
 
 #### Route 08
-- Buneary, Lopunny
-- Vulpix (29%), Ninetales (1% Item Evolution) - Kanto, Johto, Alola
-- Drowzy (20%), Hypno (10%) - Kanto, Johto
+- Buneary(60%) Lopunny(0% Friendship Evolution)
+- Vulpix (16%), Ninetales (4% Item Evolution) - Kanto, Johto, Alola
+- Drowzee (10%), Hypno (10%) - Kanto, Johto
 
  #### Route 25
-- Nidoranf (20%), Nidorina (14%), Nidoqueen (1% Item Evolution) - Kanto, Johto
-- Nidoranm (20%), Nidorino (14%), Nidoking (1% Item Evolution) - Kanto, Johto
-- Aipom, Ambipom
+- Aipom(40%), Ambipom(20%)
+- Nidoranf (10%), Nidorina (6%), Nidoqueen (4% Item Evolution) - Kanto, Johto
+- Nidoranm (10%), Nidorino (6%), Nidoking (4% Item Evolution) - Kanto, Johto
 
 ----
 ## Forest
