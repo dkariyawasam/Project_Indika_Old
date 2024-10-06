@@ -1,16 +1,19 @@
 ## Grassland
 #### Route 01
-- Rattata (20%), Raticate (10%) - Kanto, Johto, Alola
 - Sentret (20%), Furret (10%) - Kanto, Johto
 - Sunkern (39%), Sunflora (1% Item Evolution) - *Kanto Exclusive*
-#### Route 08
 - Hoppip (20%), Skiploom (15%), Jumpluff (5%) - Kanto, Johto
+
+#### Route 08
+- Buneary, Lopunny
 - Vulpix (29%), Ninetales (1% Item Evolution) - Kanto, Johto, Alola
-- Drowsee (20%), Hypno (10%) - Kanto, Johto
-#### Route 11
+- Drowzy (20%), Hypno (10%) - Kanto, Johto
+
+ #### Route 25
 - Nidoranf (20%), Nidorina (14%), Nidoqueen (1% Item Evolution) - Kanto, Johto
 - Nidoranm (20%), Nidorino (14%), Nidoking (1% Item Evolution) - Kanto, Johto
-- Mime Jr., Mr. Mime, Mime Sr. - Kanto, Johto, Galar
+- Aipom, Ambipom
+
 ----
 ## Forest
 #### Route 02
@@ -115,8 +118,6 @@
 - Magby, Magmar, Magmortar (0% Gym Trade-Only) - Kanto, Johto
 ----
 ## Rough Terrain
-#### Route 05
-
 - Ekans (40%), Arbok (10%) - Kanto, Johto
 #### Route 13
 - Houndour (40%), Houndoom (10%) - Kanto, Johto
@@ -126,18 +127,21 @@
 - Growlithe (40%), Arcanine (10%) - Kanto, Johto
 #### Route 15
 - Ponyta (80%), Rapidash (20%) - *Kanto Exclusive*, Galar
-- Exeggcute, Exeggutor - Kanto, Johto, Alola
 #### Route 22
 - 
 #### Route 23
 - Rhyhorn (80%), Rhydon (20%), Rhyperior (Trade-Only) - Kanto, Johto
 ----
 ## Urban
-#### Route 16
+#### Vermilion City
+- Mime Jr. (1%), Mr. Mime (4%)
 - Meowth (80%), Persian (20%) - Kanto, Johto, Alola, Galar
+- Rattata (20%), Raticate (10%) - Kanto, Johto, Alola
+#### Route 7
+- Abra (40%), Kadabra (10%), Alakazam (0% Gym Trade-Only) - Everywhere
+#### Route 16
 #### Route 17
 - Doduo (40%), Dodrio (10%) - *Kanto Exclusive*
-- Abra (40%), Kadabra (10%), Alakazam (0% Gym Trade-Only) - Everywhere
 #### Route 18
 - Happiny (4%), Chansey (96%), Blissey (Friendship) - *Kanto Exclusive*
 #### Power Plant
@@ -173,16 +177,10 @@
 - Poochyena, Mightyena
 - Baltoy, Claydol
 - Gulpin, Swalot
-- Slakoth, Vigoroth, Slaking
-- Buneary, Lopunny
 - Wooper, Quagsire
 - Chinchou, Lanturn
-- Exeggcute, Exeggutor
 - Luvdisc
-- Teddyursa, Ursaring
 - Phanphy, Donphan
-- Aipom, Ambipom
-- Heracross
 - Mawile
 - Clampearl, Huntail, Gorebyss
 - Lickitung, Lickilicky - Kanto, Johto
