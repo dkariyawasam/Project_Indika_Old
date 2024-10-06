@@ -224,7 +224,6 @@
 |Dragon Scale|0xC9|
 |Soft Sand|0xCB|
 |Shell bell|DB|
-|Soothe bell|B8|
 |Smoke ball|C2|
 |Poke Doll|0x50|
 |Net ball|0x6|
@@ -252,6 +251,10 @@
 |Max Repel|0x54|
 |Escape Rope|0x55|
 
+## Gym Koga
+|Item|Value|
+|---------|----|
+|Soothe bell|B8|
 
 ## Cinnabar Island
 
