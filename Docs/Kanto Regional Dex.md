@@ -26,8 +26,8 @@
 #### Route 11
 - Wurmple (20%), Silcoon (10%), Cascoon (10%), Beautifly (5%), Dusktox (5%)
 - Pineco (20%), Forretress (10%) - Kanto, Johto
-- Heracross
-- Teddiursa, Ursaring
+- Heracross (5%)
+- Teddiursa (10%), Ursaring (5%)
 
 #### Fucshia Forest
 - Combee, Vespiquen
