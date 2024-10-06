@@ -17,14 +17,17 @@
 - Caterpie (30%), Metapod (20%), Butterfree (10%) - Kanto, Johto
 - Hoothoot (14%), Noctowl (6%) - Kanto, Johto
 - Pichu (1%), Pikachu (15%), Raichu (4% Item Evolution) - *Kanto Exclusive*, Alola
-#### Route 07
+
+#### Route 05
 - Ledyba (30%), Ledian (5%) - Kanto, Johto
-- Pineco (30%), Forretress (5%) - Kanto, Johto
-- Murkrow (30%), Honchkrow (1% Item Evolution) - *Kanto Exclusive*
-#### Route 25
 - Weedle (25%), Kakuna (10%), Beedrill (5%) - Kanto, Johto
 - Pidgey (25%), Pidgeotto (10%), Pidgeot (5%) - Kanto, Johto
-- Sneasel (20%), Weavile (1% Item Evolution) - Kanto, Johto
+
+#### Route 11
+- Wurmple, Silkcoon, Cascoon, Beautifly, Dusktox
+- Pineco (30%), Forretress (5%) - Kanto, Johto
+- Murkrow (30%), Honchkrow (1% Item Evolution) - *Kanto Exclusive*
+
 #### Viridian Forest
 - Bellsprout (20%), Weepinbell (5%), Victreebel (1% Item Evolution) - Kanto, Johto
 - Oddish (20%), Gloom (10%), Vileplume (4% Stone Evolution), Bellossom (1% Item Evolution) - Kanto, Johto
@@ -157,6 +160,7 @@
 ----
 - Kangaskhan - *Kanto Exclusive*
 - Natu, Xatu - Kanto, Johto
+- Sneasel (20%), Weavile (1% Item Evolution) - Kanto, Johto
 
 Not Native to Kanto
 - Bulbasaur, Ivysaur, Venusar - Alola
