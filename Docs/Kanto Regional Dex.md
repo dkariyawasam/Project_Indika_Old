@@ -20,13 +20,21 @@
 
 #### Route 05
 - Ledyba (30%), Ledian (5%) - Kanto, Johto
-- Weedle (25%), Kakuna (10%), Beedrill (5%) - Kanto, Johto
-- Pidgey (25%), Pidgeotto (10%), Pidgeot (5%) - Kanto, Johto
+- Spearow (40%), Fearow (10%) - Kanto, Johto
+- Exeggute, Exeggutor
 
 #### Route 11
 - Wurmple, Silkcoon, Cascoon, Beautifly, Dusktox
 - Pineco (30%), Forretress (5%) - Kanto, Johto
+- Pidgey (25%), Pidgeotto (10%), Pidgeot (5%) - Kanto, Johto
+
+#### Fucshia Forest
+- Combee, Vespiquen
+- Weedle (25%), Kakuna (10%), Beedrill (5%) - Kanto, Johto
+- Teddiursa, Ursaring
+- Natu, Xatu
 - Murkrow (30%), Honchkrow (1% Item Evolution) - *Kanto Exclusive*
+- Heracross
 
 #### Viridian Forest
 - Bellsprout (20%), Weepinbell (5%), Victreebel (1% Item Evolution) - Kanto, Johto
@@ -34,6 +42,8 @@
 - Spinarak (10%), Ariados (5%) - Kanto, Johto
 - Venonat (10%), Venomoth (4%) - Kanto, Johto
 - Tangela (10%), Tangrowth (0% Move Learn Alpha) - Kanto, Johto
+- Slakoth, Vigoroth, Slaking
+
 ----
 ## Water's Edge
 #### Route 06
@@ -106,7 +116,7 @@
 ----
 ## Rough Terrain
 #### Route 05
-- Spearow (40%), Fearow (10%) - Kanto, Johto
+
 - Ekans (40%), Arbok (10%) - Kanto, Johto
 #### Route 13
 - Houndour (40%), Houndoom (10%) - Kanto, Johto
@@ -159,12 +169,10 @@
 - Mew - n/a
 ----
 - Kangaskhan - *Kanto Exclusive*
-- Natu, Xatu - Kanto, Johto
 - Sneasel (20%), Weavile (1% Item Evolution) - Kanto, Johto
 - Poochyena, Mightyena
 - Baltoy, Claydol
 - Gulpin, Swalot
-- Combee, Vespiquen
 - Slakoth, Vigoroth, Slaking
 - Buneary, Lopunny
 - Wooper, Quagsire
