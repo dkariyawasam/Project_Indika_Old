@@ -180,13 +180,14 @@
 - Lickitung, Lickilicky - Kanto, Johto
 - Wynaut, Wobbuffet
 - misdreavus, Mismagius
+- Smoochum, Jynx - Johto, Sinnoh, Kalos, Alola, Galar
 
 Not Native to Kanto
 - Bulbasaur, Ivysaur, Venusar - Alola
 - Squirtle, Wartortle, Blastoise - Alola
 - Charmander, Charmeleon, Charizard - Alola
 - Farfetch'd - *Johto Exclusive*
-- Smoochum, Jynx - Johto, Sinnoh, Kalos, Alola, Galar
+
 - Scyther, Scizor - Sinnoh, Kalos, Alola, Galar
 - Pinsir - Sinnoh, Unova, Kalos, Alola, Galar
 - Lapras - Sinnoh, Unova, Kalos, Alola, Galar
