@@ -19,9 +19,9 @@
 - Pichu (1%), Pikachu (15%), Raichu (4% Item Evolution) - *Kanto Exclusive*, Alola
 
 #### Route 05
-- Ledyba (30%), Ledian (5%) - Kanto, Johto
-- Spearow (40%), Fearow (10%) - Kanto, Johto
-- Exeggute, Exeggutor
+- Ledyba (30%), Ledian (10%) - Kanto, Johto
+- Exeggcute (36%), Exeggutor (4%) - Kanto, Johto
+- Spearow (15%), Fearow (5%) - Kanto, Johto
 
 #### Route 11
 - Wurmple (20%), Silcoon (10%), Cascoon (10%), Beautifly (5%), Dusktox (5%)
