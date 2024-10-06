@@ -161,6 +161,25 @@
 - Kangaskhan - *Kanto Exclusive*
 - Natu, Xatu - Kanto, Johto
 - Sneasel (20%), Weavile (1% Item Evolution) - Kanto, Johto
+- Poochyena, Mightyena
+- Baltoy, Claydol
+- Gulpin, Swalot
+- Combee, Vespiquen
+- Slakoth, Vigoroth, Slaking
+- Buneary, Lopunny
+- Wooper, Quagsire
+- Chinchou, Lanturn
+- Exeggcute, Exeggutor
+- Luvdisc
+- Teddyursa, Ursaring
+- Phanphy, Donphan
+- Aipom, Ambipom
+- Heracross
+- Mawile
+- Clampearl, Huntail, Gorebyss
+- Lickitung, Lickilicky - Kanto, Johto
+- Wynaut, Wobbuffet
+- misdreavus, Mismagius
 
 Not Native to Kanto
 - Bulbasaur, Ivysaur, Venusar - Alola
@@ -174,7 +193,6 @@ Not Native to Kanto
 - Eevee, Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon - Unova, Kalos, Alola, Galar
 - Munchlax, Snorlax - Sinnoh, Alola, Galar
 - Tyrogue, Hitmonlee, Hitmonchan, Hitmontop - Sinnoh, Unova, Galar
-- Lickitung, Lickilicky - Johto, Sinnoh, Unova, Kalos, Galar
 - Tauros - *Johto Exclusive*
 - Dratini, Dragonair, Dragonite - *Johto Exclusive*
 - Togepi, Togetic, Togekiss - Sinnoh, Unova, Galar
