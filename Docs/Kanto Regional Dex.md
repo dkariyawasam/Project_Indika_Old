@@ -16,7 +16,7 @@
 #### Route 02
 - Caterpie (30%), Metapod (20%), Butterfree (10%) - Kanto, Johto
 - Hoothoot (14%), Noctowl (6%) - Kanto, Johto
-- Pichu (4%), Pikachu (15%), Raichu (1% Item Evolution) - *Kanto Exclusive*, Alola
+- Pichu (1%), Pikachu (15%), Raichu (4% Item Evolution) - *Kanto Exclusive*, Alola
 #### Route 07
 - Ledyba (30%), Ledian (5%) - Kanto, Johto
 - Pineco (30%), Forretress (5%) - Kanto, Johto
