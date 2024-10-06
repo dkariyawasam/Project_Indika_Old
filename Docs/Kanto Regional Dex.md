@@ -24,9 +24,9 @@
 - Exeggute, Exeggutor
 
 #### Route 11
-- Wurmple, Silkcoon, Cascoon, Beautifly, Dusktox
-- Pineco (30%), Forretress (5%) - Kanto, Johto
-- Pidgey (25%), Pidgeotto (10%), Pidgeot (5%) - Kanto, Johto
+- Wurmple (20%), Silcoon (10%), Cascoon (10%), Beautifly (5%), Dusktox (5%)
+- Pineco (20%), Forretress (10%) - Kanto, Johto
+- Pidgey (14%), Pidgeotto (4%), Pidgeot (2%) - Kanto, Johto
 
 #### Fucshia Forest
 - Combee, Vespiquen
