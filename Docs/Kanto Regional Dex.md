@@ -20,21 +20,21 @@
 
 #### Route 05
 - Ledyba (30%), Ledian (10%) - Kanto, Johto
-- Exeggcute (36%), Exeggutor (4%) - Kanto, Johto
-- Spearow (15%), Fearow (5%) - Kanto, Johto
+- Exeggcute (35%), Exeggutor (4%) - Kanto, Johto
+- Pidgey (15%), Pidgeotto (4%), Pidgeot (2%) - Kanto, Johto
 
 #### Route 11
 - Wurmple (20%), Silcoon (10%), Cascoon (10%), Beautifly (5%), Dusktox (5%)
 - Pineco (20%), Forretress (10%) - Kanto, Johto
-- Pidgey (14%), Pidgeotto (4%), Pidgeot (2%) - Kanto, Johto
+- Heracross
+- Teddiursa, Ursaring
 
 #### Fucshia Forest
 - Combee, Vespiquen
 - Weedle (25%), Kakuna (10%), Beedrill (5%) - Kanto, Johto
-- Teddiursa, Ursaring
-- Natu, Xatu
 - Murkrow (30%), Honchkrow (1% Item Evolution) - *Kanto Exclusive*
-- Heracross
+- Natu, Xatu
+- Slakoth, Vigoroth, Slaking
 
 #### Viridian Forest
 - Bellsprout (20%), Weepinbell (5%), Victreebel (1% Item Evolution) - Kanto, Johto
@@ -42,7 +42,7 @@
 - Spinarak (10%), Ariados (5%) - Kanto, Johto
 - Venonat (10%), Venomoth (4%) - Kanto, Johto
 - Tangela (10%), Tangrowth (0% Move Learn Alpha) - Kanto, Johto
-- Slakoth, Vigoroth, Slaking
+
 
 ----
 ## Water's Edge
@@ -189,6 +189,7 @@
 - Wynaut, Wobbuffet
 - misdreavus, Mismagius
 - Smoochum, Jynx - Johto, Sinnoh, Kalos, Alola, Galar
+- Spearow (15%), Fearow (5%) - Kanto, Johto
 
 Not Native to Kanto
 - Bulbasaur, Ivysaur, Venusar - Alola
