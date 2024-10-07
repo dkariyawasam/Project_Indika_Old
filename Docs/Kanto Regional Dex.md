@@ -67,10 +67,10 @@
 -----
 ## Water
 #### Route 19
-- Goldeen, Seaking - Everywhere
-- Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
-- Magikarp, Gyarados - Kanto, Johto
-- Tentacool, Tentacruel - Kanto, Johto
+- Goldeen(30%), Seaking(20%) - Everywhere
+- Horsea(60%), Seadra(5%), Kingdra (Trade-Only) - Everywhere
+- Tentacool(30%), Tentacruel(4%) - Kanto, Johto
+- Magikarp(40%), Gyarados(1%) - Kanto, Johto
 #### Route 20
 - Goldeen, Seaking - Everywhere
 - Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
