@@ -50,20 +50,20 @@
 ----
 ## Water's Edge
 #### Route 06
-- Wooper, Quagsire
-- Poliwag (50%), Poliwhirl (40%), Poliwrath (1% Item Evolution), Politoed (Trade-Only) - Kanto, Johto
+- Wooper(30%), Quagsire(20%)
+- Poliwag (26%), Poliwhirl (20%), Poliwrath (4% Item Evolution), Politoed (Trade-Only) - Kanto, Johto
 #### Route 10
-- Krabby (80%), Kingler (20%) - Kanto, Johto
-- Psyduck (20%), Golduck (15%) - Kanto, Johto
+- Krabby (30%), Kingler (20%) - Kanto, Johto
+- Psyduck (30%), Golduck (20%) - Kanto, Johto
 #### Route 12
-- Slowpoke (20%), Slowbro (15%), Slowking (0% Trade-Only) - Kanto, Johto, Galar
-- Shellder (20%), Cloyster (1% Item Evolution) - Kanto, Johto
+- Slowpoke (30%), Slowbro (20%), Slowking (0% Trade-Only) - Kanto, Johto, Galar
+- Shellder (46%), Cloyster (4% Item Evolution) - Kanto, Johto
+#### Route 20
+- Seel(30%), Dewgong(20%) - Kanto, Johto
+- Corsola(50%) - Everywhere
 #### Route 24
-- Staryu (40%), Starmie (1% Item Evolution) - Everywhere
-- Qwilfish - Kanto, Johto
-#### Seafoam Island
-- Seel, Dewgong - Kanto, Johto
-- Corsola (50%) - Everywhere
+- Staryu (46%), Starmie (4% Item Evolution) - Everywhere
+- Qwilfish(50%) - Kanto, Johto
 -----
 ## Water
 #### Route 19
