@@ -67,8 +67,8 @@
 -----
 ## Water
 #### Route 19 - Fuchsia/Seafoam
-- Staryu (46%), Starmie (4% Item Evolution) - Everywhere
-- Tentacool(30%), Tentacruel(4%) - Kanto, Johto
+- Tentacool(60%), Tentacruel(5%) - Kanto, Johto
+- Staryu (31%), Starmie (4% Item Evolution) - Everywhere
 #### Route 20 - Cinnabar/Seafoam Island
 - Corsola(50%) - Everywhere
 - Gyarados(1%) - Kanto, Johto
