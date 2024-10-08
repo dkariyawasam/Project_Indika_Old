@@ -1,0 +1,35 @@
+//---------------
+#dynamic 0x740000
+#org @MistyGymFirstEntry
+lockall
+applymovement 0x4 @MoveGymAide
+waitmovement 0x4
+msgbox @MSGGreeting MSG_KEEPOPEN
+applymovement 0x4 @MoveGymAide2
+waitmovement 0x4
+releaseall
+setvar 0x4013 0x1
+end
+
+
+//---------
+// Strings
+//---------
+#org @MSGGreeting
+= Welcome to CERULEAN CITY GYM!\pThere's been a power outage so\nGYM LEADER Misty headed to the\lPOWER PLANT to invesitgate. 
+
+
+//-----------
+// Movements
+//-----------
+#org @MoveGymAide
+#raw 0x62 //Exclamation Mark (!)
+#raw 0x13 //Step Right (Normal)
+#raw 0x10 //Step Down (Normal)
+#raw 0xFE //End of Movements
+
+#org @MoveGymAide2
+#raw 0x11 //Step Up (Normal)
+#raw 0x12 //Step Left (Normal)
+#raw 0x0 //Face Down
+#raw 0xFE //End of Movements
