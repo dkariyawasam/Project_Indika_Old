@@ -66,27 +66,42 @@
 - Qwilfish(50%) - Kanto, Johto
 -----
 ## Water
-#### Route 19
-- Goldeen(30%), Seaking(20%) - Everywhere
-- Horsea(60%), Seadra(5%), Kingdra (Trade-Only) - Everywhere
+#### Route 19 - Fuchsia/Seafoam
+- Staryu (46%), Starmie (4% Item Evolution) - Everywhere
 - Tentacool(30%), Tentacruel(4%) - Kanto, Johto
-- Magikarp(40%), Gyarados(1%) - Kanto, Johto
-#### Route 20
-- Goldeen, Seaking - Everywhere
-- Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
-- Relicanth - *Kanto Exclusive*
+#### Route 20 - Cinnabar/Seafoam Island
+- Corsola(50%) - Everywhere
+- Gyarados(1%) - Kanto, Johto
+#### Route 20 Extended - Seafoam Island/Cycling Road
+- Seel(30%), Dewgong(20%) - Kanto, Johto
+- Gyarados(1%) - Kanto, Johto
+#### Route 21 - Pallet/Cinnabar
+- Staryu (46%), Starmie (4% Item Evolution) - Everywhere
+- Milotic
+#### Route 21 Extended  Cycling Road/Route 21
+- Seel(30%), Dewgong(20%) - Kanto, Johto
+- Milotic
+#### Vermilion Bay
 - Chinchou, Lanturn - Kanto, Johto
+- Shellder (46%), Cloyster (4% Item Evolution) - Kanto, Johto
+- Qwilfish(50%) - Kanto, Johto
+## Fishing
+#### Route 19
+- Chinchou, Lanturn - Kanto, Johto
+- Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
+#### Route 20 Seafoam Island
+- Magikarp(40%)
+- Feebas
+- Relicanth - *Kanto Exclusive*
+- Goldeen, Seaking - Everywhere
 #### Route 21
 - Goldeen, Seaking - Everywhere
-- Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
-- Magikarp, Gyarados - Kanto, Johto
-- Feebas, Milotic
+- Magikarp(40%)
+- Feebas
+- Luvdisc
 #### Vermilion Bay
 - Goldeen, Seaking - Everywhere
-- Horsea, Seadra, Kingdra (Trade-Only) - Everywhere
-- Luvdisc
 - Clampearl, Huntail, Gorebyss
-----
 ## Cave
 #### Mt Moon
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
