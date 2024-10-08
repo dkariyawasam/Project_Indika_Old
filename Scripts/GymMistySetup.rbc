@@ -1,0 +1,12 @@
+//---------------
+#dynamic 0x740000
+#org @GymMistySetup
+checkflag 0x204
+if 0x1 goto @MistyBack
+setflag 0x205
+end
+
+//---------------
+#org @MistyBack
+clearflag 0x205
+end

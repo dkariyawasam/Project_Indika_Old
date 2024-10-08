@@ -1,6 +1,6 @@
 //---------------
 #dynamic 0x740000
-#org @GymSurgeInitial
+#org @GymSurgeSetup
 checkflag 0x206
 if 0x1 goto @SurgeBack
 setflag 0x207
