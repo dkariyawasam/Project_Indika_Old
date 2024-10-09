@@ -63,7 +63,7 @@
 |Max Repel|0x54|
 |Escape Rope|0x55|
 
-## Route 4
+## Route 4(Mt. Moon)
 |Item|Value|
 |---------|----|
 |Poke ball|0x4|
@@ -97,6 +97,23 @@
 |Ice Heal|0x10|
 |Full Heal|0x17|
 |Full Restore|0x13|
+|Revive|0x18|
+|Repel|0x56|
+|Super Repel|0x53|
+|Max Repel|0x54|
+|Escape Rope|0x55|
+
+## Route 10(Power Plant)
+|Item|Value|
+|---------|----|
+|Magnet|0xD0|
+|Metal Coat|0xC7|
+|Thunder Stone|0x60|
+|Poke ball|0x4|
+|Great ball|0x3|
+|Potion|0xD|
+|Super Potion|0x16|
+|Paralyze Heal|0x12|
 |Revive|0x18|
 |Repel|0x56|
 |Super Repel|0x53|
@@ -196,11 +213,9 @@
 |Leftovers|0xC8|
 |Focus Band|0xC4|
 |Choice Band|0xBA|
-|Quick Claw|0xB7|
 |Scope Lens|0xC6|
 |Miracle Seed|0xCD|
 |Sharp Beak|0xD2|
-|Metal Coat|0xC7|
 |Black Glasses|0xCE|
 |NeverMeltIce|0xD4|
 |Dragon Fang|0xD8|
