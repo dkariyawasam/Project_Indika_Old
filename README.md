@@ -22,17 +22,16 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Remove Cerulean City Police and Rocket Grunt
 - [x] Remove Saffron City guards lemonade
 - [ ] Remove Victory Road Strength
-- [ ] Remove Lavander Town Snorlax OW
-- [ ] Move Celadon City Snorlax to Rock Tunnel
+- [x] Remove Lavander Snorlax OW
 
 ## Navigation Todo List v0.6
 - [x] Add Seagull Ship connecting Pallet Town, Cinnabar Island, and Fuschia City
 - [x] Extend Route 02 to connect to Celadon City
 - [x] Extend Route 25 to connect to Route 09
 - [x] Connect horizontal and vertical Underground Tunnels
-- [ ] Connect Route 21 to Cycling Road
+- [x] Connect Route 21 to Cycling Road
 - [ ] Connect Vermillion City to Route 15
-- [ ] Connect Route 03 to Route 04
+- [x] Connect Route 03 to Route 04
 - [x] Allow access to Mt Moon from Route 04
 - [x] Extend Diglett's Cave
 - [ ] Add Cinnabar Volcano to Cinnabar Island
