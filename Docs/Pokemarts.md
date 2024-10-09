@@ -1,3 +1,14 @@
+## Pallet town
+|Item|Value|
+|---------|----|
+|Miracle Seed|0xCD|
+|Silk Scarf|0xD9|
+|Sun Stone|0x5D|
+|Poke Doll|0x50|
+|Poke ball|0x4|
+|Potion|0xD|
+|Repel|0x56|
+
 ## Viridian City
 
 |Item|Value|
@@ -193,8 +204,6 @@
 |Black Glasses|0xCE|
 |NeverMeltIce|0xD4|
 |Dragon Fang|0xD8|
-|Silk Scarf|0xD9|
-
 
 |Item|Value|
 |---------|----|
