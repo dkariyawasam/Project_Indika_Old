@@ -1,0 +1,65 @@
+//---------------
+#dynamic 0x740000
+#org @MistyAide
+lock
+faceplayer
+
+checkflag 0x4B1
+if 0x1 goto @GymDefeated
+
+checkflag 0x205
+if 0x1 goto @GymNotReady
+
+msgbox @MSGGymReady 0x5
+compare LASTRESULT 0x1
+if 0x1 goto @YesAdvice
+compare LASTRESULT 0x0
+if 0x1 goto @NoAdvice
+end
+
+//---------------
+#org @GymDefeated
+msgbox @MSGGymDefeated 0x4
+release
+end
+
+//---------------
+#org @GymNotReady
+msgbox @MSGGymNotReady 0x4
+release
+end
+
+//---------------
+#org @YesAdvice
+msgbox @MSGYesAdvice 0x4			
+msgbox @MSGYesAdvice2 0x4				
+release
+end
+
+//---------------
+#org @NoAdvice
+msgbox @MSGNoAdvice 0x4				
+release
+end
+
+//---------
+// Strings
+//---------
+#org @MSGGymReady
+= MISTY, the tomboyish mermaid,\nis back!\pWould you like some advice\nbattling her?\pI'm no TRAINER, but I can advise\nyou on how to win.\pLet me take you to the top!
+
+ 
+#org @MSGGymDefeated
+= Incredible, you came down on her\nlike a torrent!
+
+#org @MSGGymNotReady
+= MISTY is not back.\pCheck on the POWER PLANT if you\nwill, it's east from here.
+
+#org @MSGYesAdvice
+= All right!\nLet's get happening!
+
+#org @MSGYesAdvice2
+= Misty is a pro who uses WATER-type\nPOKÈMON.\pYou can drain all their water with\nGRASS-type POKÈMON.\pOr, you might use ELECTRIC-type\nPOKÈMON and zap them!
+
+#org @MSGNoAdvice
+= It's a free service!
