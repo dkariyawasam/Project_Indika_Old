@@ -1,36 +1,40 @@
 //---------------
 #dynamic 0x740000
-#org @SurgeFirstEncounter
-compare 0x4034 0x0                                                                  //if 0, trigger battle1
+#org @MistyPowerPlant
+compare 0x4033 0x0
 if 0x1 goto @Greeting
 end
 
 #org @Greeting
 lockall
-applymovement 0x1 @MOVE1
-waitmovement 0x1
 msgbox @MSGGreeting MSG_KEEPOPEN
-applymovement 0x1 @MOVE2
-waitmovement 0x1
-setflag 0x206
-setvar 0x4014 0x2
-setvar 0x4034 0x1
-hidesprite 0x1
+applymovement 0xF @MOVE1
+waitmovement 0xF
+msgbox @MSGGreeting2 MSG_KEEPOPEN
+applymovement 0xF @MOVE2
+waitmovement 0xF
+setflag 0x202
+setvar 0x4012 0x2
+setvar 0x4032 0x1
+hidesprite 0xF
 releaseall
 end
-
 
 //---------
 // Strings
 //---------
 #org @MSGGreeting
-= You! Don't you see I'm training?!\nGet out of the way!\p[.]unless you're here for a Gym\nChallenge.\p[.]\pPOKÈMON research, you say?\pI've got something pretty\ninteresting to share but you'll\lhave to defeat me first!\pI was done with training anyway,\nI'll wait for you at the gym.
+= Fuhaha, There it is!\nIt's the fossil I was looking for!
+
+#org @MSGGreeting2
+= Uh? Are you a gym challenger?\nI'm not one to neglect my duties.\pI'll meet you at the gym.
 
 //-----------
 // Movements
 //-----------
 #org @MOVE1
 #raw 0x62 //Exclamation Mark (!)
+#raw 0x0 //Face Down
 #raw 0xFE //End of Movements
 
 #org @MOVE2
