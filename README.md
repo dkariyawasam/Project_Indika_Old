@@ -13,7 +13,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 ## Screenshots
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/2575aa6b-bcc9-4ad4-86d6-56389584f88d)
 
-## Roadblock Todo List v0.9
+## Roadblock Todo List v1
 - [x] Remove Oak's Parcel fetch
 - [x] Remove Viridian City Oldman Tutorial
 - [x] Remove all Cut Trees
@@ -21,7 +21,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Remove Pewter City Gym Challenge Kid
 - [x] Remove Cerulean City Police and Rocket Grunt
 - [x] Remove Saffron City guards lemonade
-- [ ] Remove Victory Road Strength
+- [x] Remove Victory Road Strength
 - [x] Remove Lavander Snorlax OW
 
 ## Navigation Todo List v0.8
