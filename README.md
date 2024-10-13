@@ -62,7 +62,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Allow access to Cinnabar Lab through Boulder badge
 - [x] Find Misty in Power Plant reactivating it after a blackout
 - [x] Add 7 variatrions of Misty's challenge
-- [ ] Add Gyrados/Poliwhirl natural item trade after Misty's defeat
+- [x] Add Gyrados/Poliwhirl natural item trade after Misty's defeat
 - [ ] Allow access to Lapras Paiger to surf in overworld
 - [x] Find Surge in Diglett's Cave training
 - [x] Add 7 variations of Surge's challenge
