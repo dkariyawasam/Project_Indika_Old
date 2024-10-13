@@ -13,7 +13,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 ## Screenshots
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/2575aa6b-bcc9-4ad4-86d6-56389584f88d)
 
-## Roadblock Todo List v0.7
+## Roadblock Todo List v0.9
 - [x] Remove Oak's Parcel fetch
 - [x] Remove Viridian City Oldman Tutorial
 - [x] Remove all Cut Trees
@@ -24,7 +24,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [ ] Remove Victory Road Strength
 - [x] Remove Lavander Snorlax OW
 
-## Navigation Todo List v0.6
+## Navigation Todo List v0.8
 - [x] Add Seagull Ship connecting Pallet Town, Cinnabar Island, and Fuschia City
 - [x] Extend Route 02 to connect to Celadon City
 - [x] Extend Route 25 to connect to Route 09
@@ -44,7 +44,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [ ] Remove Team Rocket's presence from Pokemon Tower
 - [ ] Remove Team Rocket's presence from Celadon City
 
-## Alpha Overworlds Todo List
+## Alpha Overworlds Todo List v0.2
 - [x] Add Tangrowth to Viridian Forest
 - [ ] Add mention about Tangrowth's theme
 - [x] Add Mime Sr. to Diglett Cave
@@ -54,8 +54,9 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [ ] Add Osscythe to Pokemon Tower
 - [ ] Add mention of a cubone being snatched from a Marowak mother in Rocket Hideout
 - [ ] Move Moltres to Cinnabar Volcano
+- [ ] Add mention of Moltres reactivating Cinnabar Volcano.
 
-## Gym Leaders Todo List
+## Gym Leaders Todo List v0.8
 - [x] Find Brock in Mt Moon looking for fossils
 - [x] Add 7 variations of Brock's challenge
 - [x] Add Relicanth/Graveller trade after Brock's defeat
