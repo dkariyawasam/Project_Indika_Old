@@ -43,7 +43,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [ ] Change Nugget Bridge Rocket Grunt to be a generic thief
 - [ ] Remove Team Rocket's presence from Pokemon Mansion
 - [ ] Remove Team Rocket's presence from Pokemon Tower
-- [ ] Remove Team Rocket's presence from Celadon City
+- [x] Remove Team Rocket's presence from Celadon City
 
 ## Alpha Overworlds Todo List v0.2
 - [x] Add Tangrowth to Viridian Forest
