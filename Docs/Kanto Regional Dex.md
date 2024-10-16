@@ -148,19 +148,25 @@
 - Magby, Magmar, Magmortar (0% Gym Trade-Only) - Kanto, Johto
 ----
 ## Rough Terrain
-- Ekans (40%), Arbok (10%) - Kanto, Johto
 #### Route 13
 - Houndour (40%), Houndoom (10%) - Kanto, Johto
 - Ponyta (40%), Rapidash (10%) - *Kanto Exclusive*, Galar
+- Phanphy, Donphan
 #### Route  14
 - Ponyta (40%), Rapidash (10%) - *Kanto Exclusive*, Galar
 - Growlithe (40%), Arcanine (10%) - Kanto, Johto
+- Phanphy, Donphan
 #### Route 15
 - Ponyta (80%), Rapidash (20%) - *Kanto Exclusive*, Galar
+- Poochyena, Mightyena
+- Phanphy, Donphan
 #### Route 22
-- 
+- Spearow (15%), Fearow (5%) - Kanto, Johto
+- Ekans (40%), Arbok (10%) - Kanto, Johto
 #### Route 23
 - Rhyhorn (80%), Rhydon (20%), Rhyperior (Trade-Only) - Kanto, Johto
+- Kangaskhan - *Kanto Exclusive*
+- Baltoy, Claydol
 ----
 ## Urban
 #### Vermilion City
@@ -202,18 +208,13 @@
 ## Legendary
 - Mew - n/a
 ----
-- Kangaskhan - *Kanto Exclusive*
 - Sneasel (20%), Weavile (1% Item Evolution) - Kanto, Johto
-- Poochyena, Mightyena
-- Baltoy, Claydol
 - Gulpin, Swalot
-- Phanphy, Donphan
 - Mawile
 - Lickitung, Lickilicky - Kanto, Johto
 - Wynaut, Wobbuffet
 - misdreavus, Mismagius
 - Smoochum, Jynx - Johto, Sinnoh, Kalos, Alola, Galar
-- Spearow (15%), Fearow (5%) - Kanto, Johto
 
 Not Native to Kanto
 - Bulbasaur, Ivysaur, Venusar - Alola
