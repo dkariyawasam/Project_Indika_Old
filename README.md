@@ -25,19 +25,19 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Remove Victory Road Strength
 - [x] Remove Lavander Snorlax OW
 
-## Navigation Todo List v0.8
+## Navigation Todo List v0.9
 - [x] Add Seagull Ship connecting Pallet Town, Cinnabar Island, and Fuschia City
 - [x] Extend Route 02 to connect to Celadon City
 - [x] Extend Route 25 to connect to Route 09
 - [x] Connect horizontal and vertical Underground Tunnels
 - [x] Connect Route 21 to Cycling Road
-- [ ] Connect Vermillion City to Route 15
+- [x] Connect Vermillion City to Route 15
 - [x] Connect Route 03 to Route 04
 - [x] Allow access to Mt Moon from Route 04
 - [x] Extend Diglett's Cave
 - [ ] Add Cinnabar Volcano to Cinnabar Island
 
-## Team Rocket Todo List v0.15
+## Team Rocket Todo List v0.3
 - [x] Remove Team Rocket's presence in Mt Moon
 - [ ] Repurpose Team Rocket Hideout to host a tournament with Coin gambling
 - [ ] Change Nugget Bridge Rocket Grunt to be a generic thief
