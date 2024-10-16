@@ -149,17 +149,17 @@
 ----
 ## Rough Terrain
 #### Route 13
-- Houndour (40%), Houndoom (10%) - Kanto, Johto
-- Ponyta (40%), Rapidash (10%) - *Kanto Exclusive*, Galar
-- Phanphy, Donphan
+- Ponyta (30%), Rapidash (10%) - *Kanto Exclusive*, Galar
+- Phanphy(30%), Donphan (10%)
+- Houndour (15%), Houndoom (5%) - Kanto, Johto
 #### Route  14
-- Ponyta (40%), Rapidash (10%) - *Kanto Exclusive*, Galar
-- Growlithe (40%), Arcanine (10%) - Kanto, Johto
-- Phanphy, Donphan
+- Ponyta (30%), Rapidash (10%) - *Kanto Exclusive*, Galar
+- Phanphy (30%), Donphan (10%)
+- Growlithe (16%), Arcanine (4%) - Kanto, Johto
 #### Route 15
-- Ponyta (80%), Rapidash (20%) - *Kanto Exclusive*, Galar
-- Poochyena, Mightyena
-- Phanphy, Donphan
+- Ponyta (30%), Rapidash (10%) - *Kanto Exclusive*, Galar
+- Phanphy (30%), Donphan (10%)
+- Poochyena (15%), Mightyena (5%)
 #### Route 22
 - Spearow (15%), Fearow (5%) - Kanto, Johto
 - Ekans (40%), Arbok (10%) - Kanto, Johto
