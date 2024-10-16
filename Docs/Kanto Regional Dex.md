@@ -108,6 +108,9 @@
 - Goldeen, Seaking - Everywhere
 - Clampearl, Huntail, Gorebyss
 ## Cave
+- Mawile
+- Lickitung, Lickilicky - Kanto, Johto
+- Wynaut, Wobbuffet
 #### Mt Moon
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
 - Cleffa (2%), Clefairy (10%), Clefable (1% Item Evolution) - *Kanto Exclusive*
@@ -131,7 +134,9 @@
 - Larvitar, Pupitar, Tyranitar - Kanto, Johto
 #### Cerulean Cave
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
-- 
+#### Seafoam Island
+- Sneasel (20%), Weavile (1% Item Evolution) - Kanto, Johto
+- Smoochum, Jynx - Johto, Sinnoh, Kalos, Alola, Galar
 ----
 ## Mountain
 #### Route 03
@@ -169,6 +174,7 @@
 - Baltoy, Claydol
 ----
 ## Urban
+- Gulpin, Swalot
 #### Vermilion City
 - Mime Jr. (1%), Mr. Mime (4%)
 - Meowth (80%), Persian (20%) - Kanto, Johto, Alola, Galar
@@ -187,35 +193,22 @@
 - Elekid (20%), Electabuzz (10%), Electivire (0% Gym Trade-Only) - *Kanto Exclusive*
 #### Pokemon Tower
 - Gastly, Haunter, Gengar (Trade-Only) - Kanto, Johto
+- Misdreavus, Mismagius
 #### Pokemon Mansion
 - Ditto (10%) - Kanto, Johto
 - Koffing (60%), Weezing (20%) - Kanto, Johto, Galar
 ----
-## Extinct
+## Rare
 - Omanyte, Omastar - *Kanto Exclusive*
 - Kabuto, Kabutops - *Kanto Exclusive*
 - Aerodactyl - *Kanto Exclusive*
-----
-## Mythical
 - Articuno - *Kanto Exclusive*, Galar 
 - Zapdos - *Kanto Exclusive*, Galar
 - Moltres - *Kanto Exclusive*, Galar
-----
-## Man-made
 - Porygon, Porgyon 2 (Trade-Only), Porygon Z (Trade-Only) - *Kanto Exclusive*
 - Mewtwo - *Kanto Exclusive*
-----
-## Legendary
 - Mew - n/a
 ----
-- Sneasel (20%), Weavile (1% Item Evolution) - Kanto, Johto
-- Gulpin, Swalot
-- Mawile
-- Lickitung, Lickilicky - Kanto, Johto
-- Wynaut, Wobbuffet
-- misdreavus, Mismagius
-- Smoochum, Jynx - Johto, Sinnoh, Kalos, Alola, Galar
-
 Not Native to Kanto
 - Bulbasaur, Ivysaur, Venusar - Alola
 - Squirtle, Wartortle, Blastoise - Alola
