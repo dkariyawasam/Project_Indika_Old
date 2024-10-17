@@ -82,9 +82,9 @@
 - Seel(60%), Dewgong(10%) - Kanto, Johto
 - Milotic(30%)
 #### Vermilion Bay
-- Chinchou, Lanturn - Kanto, Johto
-- Shellder (46%), Cloyster (4% Item Evolution) - Kanto, Johto
-- Qwilfish(50%) - Kanto, Johto
+- Chinchou (5%), Lanturn (1%)- Kanto, Johto
+- Shellder (30%), Cloyster (4% Item Evolution) - Kanto, Johto
+- Qwilfish(60%) - Kanto, Johto
 ## Fishing
 #### Route 19
 - Chinchou(15%), Lanturn(4%) - Kanto, Johto
@@ -105,8 +105,8 @@
 - Feebas(15%)
 - Luvdisc(1%)
 #### Vermilion Bay
-- Goldeen, Seaking - Everywhere
-- Clampearl, Huntail, Gorebyss
+- Goldeen (40%), Seaking (40%) - Everywhere
+- Clampearl (20%), Huntail (Trade-Only), Gorebyss (Trade-Only)
 ## Cave
 - Mawile
 - Lickitung, Lickilicky - Kanto, Johto
