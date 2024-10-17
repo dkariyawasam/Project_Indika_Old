@@ -166,12 +166,12 @@
 - Phanphy (30%), Donphan (10%)
 - Poochyena (15%), Mightyena (5%)
 #### Route 22
-- Spearow (15%), Fearow (5%) - Kanto, Johto
-- Ekans (40%), Arbok (10%) - Kanto, Johto
+- Spearow (30%), Fearow (20%) - Kanto, Johto
+- Ekans (30%), Arbok (20%) - Kanto, Johto
 #### Route 23
-- Rhyhorn (80%), Rhydon (20%), Rhyperior (Trade-Only) - Kanto, Johto
-- Kangaskhan - *Kanto Exclusive*
-- Baltoy, Claydol
+- Rhyhorn (30%), Rhydon (20%), Rhyperior (Trade-Only) - Kanto, Johto
+- Kangaskhan (35%) - *Kanto Exclusive*
+- Baltoy (10%), Claydol (5%)
 ----
 ## Urban
 - Gulpin, Swalot
