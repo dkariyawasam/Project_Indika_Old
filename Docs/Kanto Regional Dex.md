@@ -108,33 +108,34 @@
 - Goldeen (40%), Seaking (40%) - Everywhere
 - Clampearl (20%), Huntail (Trade-Only), Gorebyss (Trade-Only)
 ## Cave
-- Mawile
-- Lickitung, Lickilicky - Kanto, Johto
-- Wynaut, Wobbuffet
-#### Mt Moon
-- Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
-- Cleffa (2%), Clefairy (10%), Clefable (1% Item Evolution) - *Kanto Exclusive*
+#### Mt Moon 1
+- Zubat (46%), Golbat (19%), Crobat (0% Friendship Evolution) - Everywhere
+- Cleffa (1%), Clefairy (30%), Clefable (4% Item Evolution) - *Kanto Exclusive*
+#### Mt Moon -1
+- Zubat (70%), Golbat (28%), Crobat (0% Friendship Evolution) - Everywhere
+- Primal Omanyte (1%), Primal Kabuto (1%)
 #### Diglett Cave -1F
-- Zubat (20%), Golbat (10%), Crobat (0% Friendship Evolution) - Everywhere
-- Diglett (20%), Dugtrio (10%) - *Kanto Exclusive*, Alola
-- Sandshrew (10%), Sandslash (5%) - Kanto, Johto, Alola
-- Paras (15%), Parasect (10%) - Kanto, Johto
+- Zubat (35%), Golbat (10%), Crobat (0% Friendship Evolution) - Everywhere
+- Diglett (30%), Dugtrio (10%) - *Kanto Exclusive*, Alola
+- Paras (10%), Parasect (5%) - Kanto, Johto
 #### Diglett Cave -2F
-- Zubat (10%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
-- Diglett (10%), Dugtrio (20%) - *Kanto Exclusive*, Alola
-- Sandshrew (5%), Sandslash (10%)
-- Paras (5%), Parasect (10%)
-- Sableye (5%)
-- Mime Jr. (1%), Mr. Mime (4%)
+- Zubat (10%), Golbat (35), Crobat (0% Friendship Evolution) - Everywhere
+- Diglett (10%), Dugtrio (30%) - *Kanto Exclusive*, Alola
+- Mime Jr. (1%), Mr. Mime (14%)
 #### Rock Tunnel
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
 - Onix, Steelix (0% Trade-Only) - Kanto, Johto
+- Sandshrew (5%), Sandslash (10%)
 #### Victory Road
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
+- Mawile
 - Larvitar, Pupitar, Tyranitar - Kanto, Johto
 #### Cerulean Cave
 - Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
+- Wynaut, Wobbuffet
+- Lickitung, Lickilicky - Kanto, Johto
 #### Seafoam Island
+- Sableye (5%)
 - Sneasel (20%), Weavile (1% Item Evolution) - Kanto, Johto
 - Smoochum, Jynx - Johto, Sinnoh, Kalos, Alola, Galar
 ----
