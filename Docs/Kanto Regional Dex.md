@@ -122,22 +122,33 @@
 - Zubat (10%), Golbat (35), Crobat (0% Friendship Evolution) - Everywhere
 - Diglett (10%), Dugtrio (30%) - *Kanto Exclusive*, Alola
 - Mime Jr. (1%), Mr. Mime (14%)
-#### Rock Tunnel
-- Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
-- Onix, Steelix (0% Trade-Only) - Kanto, Johto
-- Sandshrew (5%), Sandslash (10%)
-#### Victory Road
-- Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
-- Mawile
-- Larvitar, Pupitar, Tyranitar - Kanto, Johto
-#### Cerulean Cave
-- Zubat (60%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
-- Wynaut, Wobbuffet
-- Lickitung, Lickilicky - Kanto, Johto
+#### Rock Tunnel 1F
+- Zubat (30%), Golbat (10%), Crobat (0% Friendship Evolution) - Everywhere
+- Onix (30%), Steelix (0% Trade-Only) - Kanto, Johto
+- Sandshrew (20%), Sandslash (10%)
+#### Rock Tunnel -1F
+- Zubat (10%), Golbat (30%), Crobat (0% Friendship Evolution) - Everywhere
+- Onix (30%), Steelix (0% Trade-Only) - Kanto, Johto
+- Sandshrew (10%), Sandslash (20%)
+#### Victory Road 1F
+- Zubat (45%), Golbat (25%), Crobat (0% Friendship Evolution) - Everywhere
+- Larvitar (15%), Pupitar (10%), Tyranitar (5%) - Kanto, Johto
+#### Victory Road 2F
+- Zubat (45%), Golbat (25%), Crobat (0% Friendship Evolution) - Everywhere
+- Mawile (30%)
+#### Cerulean Cave 1F
+- Zubat (30%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
+- Wynaut (1%), Wobbuffet (24%)
+- Lickitung (20%), Lickilicky (5%)- Kanto, Johto
+#### Cerulean Cave 2F
+- Zubat (30%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
+- Wynaut (1%), Wobbuffet (24%)
+- Lickitung (20%), Lickilicky (4%)- Kanto, Johto
+- Primal Aerodactyl (1%)
 #### Seafoam Island
-- Sableye (5%)
-- Sneasel (20%), Weavile (1% Item Evolution) - Kanto, Johto
-- Smoochum, Jynx - Johto, Sinnoh, Kalos, Alola, Galar
+- Sableye (30%)
+- Sneasel (36%), Weavile (4% Item Evolution) - Kanto, Johto
+- Smoochum (1%), Jynx (29%)- Johto, Sinnoh, Kalos, Alola, Galar
 ----
 ## Mountain
 #### Route 03
