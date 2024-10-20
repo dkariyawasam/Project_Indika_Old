@@ -6,7 +6,7 @@
 
 #### Route 08
 - Buneary (60%) Lopunny (0% Friendship Evolution) - *Kanto Exclusive*
-- Vulpix (16%), Ninetales (4% Item Evolution) - Kanto, Johto, Alola
+- Vulpix (16%), Ninetales (4% Item Evolution) - Kanto, Johto
 - Drowzee (10%), Hypno (10%) - Kanto, Johto
 
  #### Route 25
@@ -56,7 +56,7 @@
 - Krabby (30%), Kingler (20%) - Kanto, Johto
 - Psyduck (30%), Golduck (20%) - Kanto, Johto
 #### Route 12
-- Slowpoke (30%), Slowbro (20%), Slowking (0% Trade-Only) - Kanto, Johto, Galar
+- Slowpoke (30%), Slowbro (20%), Slowking (0% Trade-Only) - Kanto, Johto
 - Shellder (46%), Cloyster (4% Item Evolution) - Kanto, Johto
 #### Route 20
 - Seel(30%), Dewgong(20%) - Kanto, Johto
@@ -113,14 +113,14 @@
 - Cleffa (1%), Clefairy (30%), Clefable (4% Item Evolution) - *Kanto Exclusive*
 #### Mt Moon -1
 - Zubat (70%), Golbat (28%), Crobat (0% Friendship Evolution) - Everywhere
-- Primal Omanyte (1%), Primal Kabuto (1%)
+- Amunyte (1%), Kinkabuto (1%)
 #### Diglett Cave -1F
 - Zubat (35%), Golbat (10%), Crobat (0% Friendship Evolution) - Everywhere
-- Diglett (30%), Dugtrio (10%) - *Kanto Exclusive*, Alola
+- Diglett (30%), Dugtrio (10%) - *Kanto Exclusive*
 - Paras (10%), Parasect (5%) - Kanto, Johto
 #### Diglett Cave -2F
 - Zubat (10%), Golbat (35), Crobat (0% Friendship Evolution) - Everywhere
-- Diglett (10%), Dugtrio (30%) - *Kanto Exclusive*, Alola
+- Diglett (10%), Dugtrio (30%) - *Kanto Exclusive*
 - Mime Jr. (1%), Mr. Mime (14%)
 #### Rock Tunnel 1F
 - Zubat (30%), Golbat (10%), Crobat (0% Friendship Evolution) - Everywhere
@@ -148,33 +148,33 @@
 #### Seafoam Island
 - Sableye (30%)
 - Sneasel (36%), Weavile (4% Item Evolution) - Kanto, Johto
-- Smoochum (1%), Jynx (29%)- Johto, Sinnoh, Kalos, Alola, Galar
+- Smoochum (1%), Jynx (29%)- Kanto, Johto
 ----
 ## Mountain
 #### Route 03
-- Cubone (40%), Marowak (10%) - Kanto, Johto, Alola
+- Cubone (40%), Marowak (10%) - Kanto, Johto
 - Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto
 #### Route 04
 - Mankey (40%), Primeape (10%), Annihilape (0% Move Learn Alpha) - Kanto, Johto
 - Igglybuff (4%), Jigglypuff (30%), Wigglytuff (1% Item Evolution) - Kanto, Johto
 #### Route 09
 - Machop (40%), Machoke (10%), Machamp (Trade-Only) - Everywhere
-- Geodude (40%), Graveller (10%), Golem (0% Gym Trade-Only) - Kanto, Johto, Alola
+- Geodude (40%), Graveller (10%), Golem (0% Gym Trade-Only) - Kanto, Johto
 #### Cinnabar Vulcano
 - Slugma, Magcargo - *Kanto Exclusive*
 - Magby, Magmar, Magmortar (0% Gym Trade-Only) - Kanto, Johto
 ----
 ## Rough Terrain
 #### Route 13
-- Ponyta (30%), Rapidash (10%) - *Kanto Exclusive*, Galar
+- Ponyta (30%), Rapidash (10%) - *Kanto Exclusive*
 - Phanphy(30%), Donphan (10%)
 - Houndour (15%), Houndoom (5%) - Kanto, Johto
 #### Route  14
-- Ponyta (30%), Rapidash (10%) - *Kanto Exclusive*, Galar
+- Ponyta (30%), Rapidash (10%) - *Kanto Exclusive*
 - Phanphy (30%), Donphan (10%)
 - Growlithe (16%), Arcanine (4%) - Kanto, Johto
 #### Route 15
-- Ponyta (30%), Rapidash (10%) - *Kanto Exclusive*, Galar
+- Ponyta (30%), Rapidash (10%) - *Kanto Exclusive*
 - Phanphy (30%), Donphan (10%)
 - Poochyena (15%), Mightyena (5%)
 #### Route 22
@@ -189,8 +189,8 @@
 - Gulpin, Swalot
 #### Vermilion City
 - Mime Jr. (1%), Mr. Mime (4%)
-- Meowth (80%), Persian (20%) - Kanto, Johto, Alola, Galar
-- Rattata (20%), Raticate (10%) - Kanto, Johto, Alola
+- Meowth (80%), Persian (20%) - Kanto, Johto
+- Rattata (20%), Raticate (10%) - Kanto, Johto
 #### Route 7
 - Abra (40%), Kadabra (10%), Alakazam (0% Gym Trade-Only) - Everywhere
 #### Route 16
@@ -201,38 +201,22 @@
 #### Power Plant
 - Voltorb, Electrode - *Kanto Exclusive*
 - Magnemite, Magneton, Magnezone - Kanto, Johto
-- Grimer, Muk - *Kanto Exclusive*, Alola
+- Grimer, Muk - *Kanto Exclusive*
 - Elekid (20%), Electabuzz (10%), Electivire (0% Gym Trade-Only) - *Kanto Exclusive*
 #### Pokemon Tower
 - Gastly, Haunter, Gengar (Trade-Only) - Kanto, Johto
 - Misdreavus, Mismagius
 #### Pokemon Mansion
 - Ditto (10%) - Kanto, Johto
-- Koffing (60%), Weezing (20%) - Kanto, Johto, Galar
+- Koffing (60%), Weezing (20%) - Kanto, Johto
 ----
 ## Rare
 - Omanyte, Omastar - *Kanto Exclusive*
 - Kabuto, Kabutops - *Kanto Exclusive*
 - Aerodactyl - *Kanto Exclusive*
-- Articuno - *Kanto Exclusive*, Galar 
-- Zapdos - *Kanto Exclusive*, Galar
-- Moltres - *Kanto Exclusive*, Galar
+- Articuno - *Kanto Exclusive* 
+- Zapdos - *Kanto Exclusive*
+- Moltres - *Kanto Exclusive*
 - Porygon, Porgyon 2 (Trade-Only), Porygon Z (Trade-Only) - *Kanto Exclusive*
 - Mewtwo - *Kanto Exclusive*
 - Mew - n/a
-----
-Not Native to Kanto
-- Bulbasaur, Ivysaur, Venusar - Alola
-- Squirtle, Wartortle, Blastoise - Alola
-- Charmander, Charmeleon, Charizard - Alola
-- Farfetch'd - *Johto Exclusive*
-
-- Scyther, Scizor - Sinnoh, Kalos, Alola, Galar
-- Pinsir - Sinnoh, Unova, Kalos, Alola, Galar
-- Lapras - Sinnoh, Unova, Kalos, Alola, Galar
-- Eevee, Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon - Unova, Kalos, Alola, Galar
-- Munchlax, Snorlax - Sinnoh, Alola, Galar
-- Tyrogue, Hitmonlee, Hitmonchan, Hitmontop - Sinnoh, Unova, Galar
-- Tauros - *Johto Exclusive*
-- Dratini, Dragonair, Dragonite - *Johto Exclusive*
-- Togepi, Togetic, Togekiss - Sinnoh, Unova, Galar
