@@ -5,7 +5,7 @@
 - Hoppip (20%), Skiploom (15%), Jumpluff (5%) - Kanto, Johto
 
 #### Route 08
-- Buneary(60%) Lopunny(0% Friendship Evolution)
+- Buneary(60%) Lopunny(0% Friendship Evolution) - *Kanto Exclusive*
 - Vulpix (16%), Ninetales (4% Item Evolution) - Kanto, Johto, Alola
 - Drowzee (10%), Hypno (10%) - Kanto, Johto
 
