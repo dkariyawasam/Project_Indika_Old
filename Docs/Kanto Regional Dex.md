@@ -5,12 +5,12 @@
 - Hoppip (20%), Skiploom (15%), Jumpluff (5%) - Kanto, Johto
 
 #### Route 08
-- Buneary(60%) Lopunny (0% Friendship Evolution) - *Kanto Exclusive*
+- Buneary (60%) Lopunny (0% Friendship Evolution) - *Kanto Exclusive*
 - Vulpix (16%), Ninetales (4% Item Evolution) - Kanto, Johto, Alola
 - Drowzee (10%), Hypno (10%) - Kanto, Johto
 
  #### Route 25
-- Aipom(40%), Ambipom(20%) - Kanto, Johto
+- Aipom (40%), Ambipom(20%) - Kanto, Johto
 - Nidoranf (10%), Nidorina (6%), Nidoqueen (4% Item Evolution) - Kanto, Johto
 - Nidoranm (10%), Nidorino (6%), Nidoking (4% Item Evolution) - Kanto, Johto
 
@@ -19,7 +19,7 @@
 #### Route 02
 - Caterpie (30%), Metapod (20%), Butterfree (10%) - Kanto, Johto
 - Hoothoot (14%), Noctowl (6%) - Kanto, Johto
-- Pichu (1%), Pikachu (15%), Raichu (4% Item Evolution) - *Kanto Exclusive*, Alola
+- Pichu (1%), Pikachu (15%), Raichu (4% Item Evolution) - *Kanto Exclusive*
 
 #### Route 05
 - Ledyba (30%), Ledian (10%) - Kanto, Johto
@@ -27,10 +27,10 @@
 - Pidgey (15%), Pidgeotto (4%), Pidgeot (2%) - Kanto, Johto
 
 #### Route 11
-- Wurmple (20%), Silcoon (10%), Cascoon (10%), Beautifly (5%), Dusktox (5%)
+- Wurmple (20%), Silcoon (10%), Cascoon (10%), Beautifly (5%), Dusktox (5%) - *Kanto Exclusive*
 - Pineco (20%), Forretress (10%) - Kanto, Johto
-- Heracross (5%)
-- Teddiursa (10%), Ursaring (5%)
+- Heracross (5%) - Kanto, Johto
+- Teddiursa (10%), Ursaring (5%) - Kanto, Johto
 
 #### Fucshia Forest
 - Weedle (25%), Kakuna (10%), Beedrill (5%) - Kanto, Johto
