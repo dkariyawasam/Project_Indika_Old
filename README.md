@@ -37,7 +37,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Extend Diglett's Cave
 - [ ] Add Cinnabar Volcano to Cinnabar Island
 
-## Team Rocket Todo List v0.3
+## Team Rocket Todo List v0.6
 - [x] Remove Team Rocket's presence in Mt Moon
 - [ ] Repurpose Team Rocket Hideout to host a tournament with Coin gambling
 - [ ] Change Nugget Bridge Rocket Grunt to be a generic thief
