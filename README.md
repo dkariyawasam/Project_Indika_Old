@@ -41,7 +41,6 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Remove Team Rocket's presence in Mt Moon
 - [ ] Repurpose Team Rocket Hideout to host a tournament with Coin gambling
 - [ ] Change Nugget Bridge Rocket Grunt to be a generic thief
-- [ ] Remove Team Rocket's presence from Pokemon Mansion
 - [ ] Remove Team Rocket's presence from Pokemon Tower
 - [x] Remove Team Rocket's presence from Celadon City
 
