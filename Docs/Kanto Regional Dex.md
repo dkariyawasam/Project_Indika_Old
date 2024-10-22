@@ -186,33 +186,44 @@
 - Baltoy (10%), Claydol (5%)
 ----
 ## Urban
-- Gulpin, Swalot
-#### Vermilion City
-- Mime Jr. (1%), Mr. Mime (4%)
-- Meowth (80%), Persian (20%) - Kanto, Johto
-- Rattata (20%), Raticate (10%) - Kanto, Johto
 #### Route 7
-- Abra (40%), Kadabra (10%), Alakazam (0% Gym Trade-Only) - Everywhere
+- Rattata (50%), Raticate (20%) - Kanto, Johto
+- Abra (20%), Kadabra (10%), Alakazam (0% Gym Trade-Only) - Everywhere
 #### Route 16
+- Rattata (75%), Raticate (20%) - Kanto, Johto
+- Happiny (1%), Chansey (4%), Blissey (Friendship) - *Kanto Exclusive*
 #### Route 17
+- Rattata (40%), Raticate (10%) - Kanto, Johto
 - Doduo (40%), Dodrio (10%) - *Kanto Exclusive*
 #### Route 18
-- Happiny (4%), Chansey (96%), Blissey (Friendship) - *Kanto Exclusive*
+- Rattata (75%), Raticate (20%) - Kanto, Johto
+- Happiny (1%), Chansey (4%), Blissey (Friendship) - *Kanto Exclusive*
+#### Vermilion City
+- Rattata (30%), Raticate (10%) - Kanto, Johto
+- Meowth (25%), Persian (10%) - Kanto, Johto
+- Mime Jr. (1%), Mr. Mime (24%)
+### Fuschia City
+- Rattata (30%), Raticate (10%) - Kanto, Johto
+- Meowth (25%), Persian (10%) - Kanto, Johto
+- Gulpin (20%), Swalot (5%)
 #### Power Plant
-- Voltorb, Electrode - *Kanto Exclusive*
-- Magnemite, Magneton, Magnezone - Kanto, Johto
-- Grimer, Muk - *Kanto Exclusive*
-- Elekid (20%), Electabuzz (10%), Electivire (0% Gym Trade-Only) - *Kanto Exclusive*
+- Voltorb (34%), Electrode (15%) - *Kanto Exclusive*
+- Magnemite (21%), Magneton (15%), Magnezone (4%)- Kanto, Johto
+- Elekid (1%), Electabuzz (10%), Electivire (0% Gym Trade-Only) - *Kanto Exclusive*
 #### Pokemon Tower
-- Gastly, Haunter, Gengar (Trade-Only) - Kanto, Johto
-- Misdreavus, Mismagius
+- Gastly (30%), Haunter (20%), Gengar (Trade-Only) - Kanto, Johto
+- Misdreavus (20%), Mismagius (10%)
+- Cubone (15%), Marowak (5%), Osscythe (0% Alpha )- Kanto, Johto
 #### Pokemon Mansion
-- Ditto (10%) - Kanto, Johto
-- Koffing (60%), Weezing (20%) - Kanto, Johto
+- Grimer (30%), Muk (16%) - *Kanto Exclusive*
+- Koffing (30%), Weezing (20%) - Kanto, Johto
+- Ditto (4%) - Kanto, Johto
 ----
 ## Rare
 - Omanyte, Omastar - *Kanto Exclusive*
+- Omato, Omatops
 - Kabuto, Kabutops - *Kanto Exclusive*
+- Kabustar, Kabunyte
 - Aerodactyl - *Kanto Exclusive*
 - Articuno - *Kanto Exclusive* 
 - Zapdos - *Kanto Exclusive*
