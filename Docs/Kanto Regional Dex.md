@@ -153,13 +153,13 @@
 ## Mountain
 #### Route 03
 - Cubone (40%), Marowak (10%) - Kanto, Johto
-- Igglybuff (4%), Jigglypuff (30%), Wigglytuff (16%) - Kanto, Johto
+- Igglybuff (1%), Jigglypuff (45%), Wigglytuff (4%) - Kanto, Johto
 #### Route 04
-- Mankey (40%), Primeape (10%), Annihilape (0% Move Learn Alpha) - Kanto, Johto
-- Igglybuff (4%), Jigglypuff (30%), Wigglytuff (1% Item Evolution) - Kanto, Johto
+- Geodude (40%), Graveller (10%), Golem (0% Gym Trade-Only) - Kanto, Johto
+- Igglybuff (1%), Jigglypuff (45%), Wigglytuff (4% Item Evolution) - Kanto, Johto
 #### Route 09
 - Machop (40%), Machoke (10%), Machamp (Trade-Only) - Everywhere
-- Geodude (40%), Graveller (10%), Golem (0% Gym Trade-Only) - Kanto, Johto
+- Mankey (40%), Primeape (10%), Annihilape (0% Move Learn Alpha) - Kanto, Johto
 #### Cinnabar Vulcano
 - Slugma, Magcargo - *Kanto Exclusive*
 - Magby, Magmar, Magmortar (0% Gym Trade-Only) - Kanto, Johto
