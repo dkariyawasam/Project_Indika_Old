@@ -24,6 +24,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Remove Saffron City guards lemonade
 - [x] Remove Victory Road Strength
 - [x] Remove Lavander Snorlax OW
+- [ ] Remove need for Silph Scope
 
 ## Navigation Todo List v0.9
 - [x] Add Seagull Ship connecting Pallet Town, Cinnabar Island, and Fuschia City
@@ -35,7 +36,8 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Connect Route 03 to Route 04
 - [x] Allow access to Mt Moon from Route 04
 - [x] Extend Diglett's Cave
-- [ ] Add Cinnabar Volcano to Cinnabar Island
+- [x] Add Cinnabar Volcano to Cinnabar Island
+- [ ] Add Fuchsia Forest
 
 ## Team Rocket Todo List v0.6
 - [x] Remove Team Rocket's presence in Mt Moon
