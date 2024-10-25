@@ -208,7 +208,7 @@
 - Gulpin (20%), Swalot (5%)
 #### Power Plant
 - Voltorb (34%), Electrode (15%) - *Kanto Exclusive*
-- Magnemite (21%), Magneton (15%), Magnezone (4%)- Kanto, Johto
+- Magnemite (25%), Magneton (15%), Magnezone (4%)- Kanto, Johto
 - Elekid (1%), Electabuzz (10%), Electivire (0% Gym Trade-Only) - *Kanto Exclusive*
 #### Pokemon Tower
 - Gastly (30%), Haunter (20%), Gengar (Trade-Only) - Kanto, Johto
