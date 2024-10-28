@@ -5,7 +5,7 @@
 Osscythe is a dual type Ground/Ghost Pokémon introduced in Pokémon: Kanto Expedtions.
 It evolves from Marowak when leveled up while knowing Rage.
 
-Ability: Super Luck
+Ability: Intimidate
 
 ## Game locations
 The Pokémon Tower in Lavander Town
