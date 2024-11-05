@@ -161,8 +161,8 @@
 - Machop (40%), Machoke (10%), Machamp (Trade-Only) - Everywhere
 - Mankey (40%), Primeape (10%), Annihilape (0% Move Learn Alpha) - Kanto, Johto
 #### Cinnabar Vulcano
-- Slugma, Magcargo - *Kanto Exclusive*
-- Magby, Magmar, Magmortar (0% Gym Trade-Only) - Kanto, Johto
+- Slugma (40%), Magcargo (20%) - *Kanto Exclusive*
+- Magby (1%), Magmar (39%), Magmortar (0% Gym Trade-Only) - Kanto, Johto
 ----
 ## Rough Terrain
 #### Route 13
