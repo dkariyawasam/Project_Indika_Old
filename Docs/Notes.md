@@ -62,3 +62,21 @@ special 0x17B - Plays the Seagull animation
 |8|03 08 15 07(Cinnabar Island)|03 28 0C 2D (Route 21)|
 |9|02 3B 08 05|n/a|
 |10|02 3A 08 05|n/a|
+
+![image](https://github.com/user-attachments/assets/eb28918e-9f92-43b7-84c5-2b99ea0d87ac)
+
+- Bytes 1-4: Pointer to map footer offset
+- Bytes 5-8: Pointer to event offset
+- Bytes 9-12: Pointer to map script offset
+- Bytes 13-16: Pointer to connection offset
+- Bytes 17-18: Music in reverse hex form.
+- Byte 19: Map footer #. Used for setmapfooter command, which changes the map to another. You should probably leave it be unless you're adding a new map.
+- Byte 20: ??
+- Byte 21: Defines what map name the map belongs to. (Thanks to Jambo51 for clearing this up)
+- Byte 22: Cave type
+- Byte 23: Weather type
+- Byte 24: Similar to byte 28. The trainer battle background may or may not change depending on the value chosen.
+- Byte 25: Set to 01 to be able to ride a bicycle on the map.
+- Byte 26: Changes the "Show name on entering" value that is visible in simple header mode. 06, 07 allow you to run on the map, 05, 08 do not.
+- Byte 27: Species floor number. Above-ground floors count up from 01, where 01 is "F1." Below-ground (basement) floor count down from FF, where FF is "BF1."
+- Byte 28: Species a battle background that will override the trainer battle background AND wild battle background. Leave at 00 if you do not want this. You can choose from 00-09.
