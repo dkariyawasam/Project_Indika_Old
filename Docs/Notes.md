@@ -63,6 +63,7 @@ special 0x17B - Plays the Seagull animation
 |9|02 3B 08 05|n/a|
 |10|02 3A 08 05|n/a|
 
+#### Map Header
 ![image](https://github.com/user-attachments/assets/eb28918e-9f92-43b7-84c5-2b99ea0d87ac)
 
 - Bytes 1-4: Pointer to map footer offset
