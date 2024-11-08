@@ -38,11 +38,11 @@
 - Teddiursa (10%), Ursaring (5%) - Kanto, Johto
 
 #### Fucshia Forest
-- Weedle (25%), Kakuna (10%), Beedrill (5%) - Kanto, Johto
-- Combee, Vespiquen
-- Murkrow (30%), Honchkrow (1% Item Evolution) - *Kanto Exclusive*
-- Natu, Xatu
-- Slakoth, Vigoroth, Slaking
+- Weedle (20%), Kakuna (10%), Beedrill (5%) - Kanto, Johto
+- Combee (20%), Vespiquen (5%)
+- Murkrow (10%), Honchkrow (4% Item Evolution) - *Kanto Exclusive*
+- Natu (10%), Xatu (1%)
+- Slakoth (10%), Vigoroth (4%), Slaking (1%)
 
 #### Viridian Forest
 - Bellsprout (20%), Weepinbell (5%), Victreebel (1% Item Evolution) - Kanto, Johto
