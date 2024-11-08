@@ -231,3 +231,10 @@
 - Porygon, Porgyon 2 (Trade-Only), Porygon Z (Trade-Only) - *Kanto Exclusive*
 - Mewtwo - *Kanto Exclusive*
 - Mew - n/a
+
+## Found through surf, headbutt and swarms
+- Seedot, Nuzleaf, Shiftry
+- Shroomish, Breloom
+- Starly, Staravia, Staraptor
+- Kicketot, Kricketune
+- Wingull, Pelipper
