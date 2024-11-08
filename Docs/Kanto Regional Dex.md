@@ -21,6 +21,11 @@
 - Hoothoot (14%), Noctowl (6%) - Kanto, Johto
 - Pichu (1%), Pikachu (15%), Raichu (4% Item Evolution) - *Kanto Exclusive*
 
+#### Route 02 - Extended
+- Caterpie (30%), Metapod (20%), Butterfree (10%) - Kanto, Johto
+- Seedot (10%), Nuzleaf (6%), Shiftry (4%)
+- Hoothoot (14%), Noctowl (6%) - Kanto, Johto
+
 #### Route 05
 - Ledyba (30%), Ledian (10%) - Kanto, Johto
 - Exeggcute (35%), Exeggutor (4%) - Kanto, Johto
@@ -158,14 +163,17 @@
 ----
 ## Mountain
 #### Route 03
-- Cubone (40%), Marowak (10%) - Kanto, Johto
-- Igglybuff (1%), Jigglypuff (45%), Wigglytuff (4%) - Kanto, Johto
+- Starly (20%), Staravia (10%), Staraptor (5%)
+- Cubone (20%), Marowak (10%) - Kanto, Johto
+- Igglybuff (1%), Jigglypuff (30%), Wigglytuff (4%) - Kanto, Johto
 #### Route 04
-- Geodude (40%), Graveller (10%), Golem (0% Gym Trade-Only) - Kanto, Johto
-- Igglybuff (1%), Jigglypuff (45%), Wigglytuff (4% Item Evolution) - Kanto, Johto
+- Starly (20%), Staravia (10%), Staraptor (5%)
+- Geodude (20%), Graveller (10%), Golem (0% Gym Trade-Only) - Kanto, Johto
+- Igglybuff (1%), Jigglypuff (30%), Wigglytuff (4% Item Evolution) - Kanto, Johto
 #### Route 09
-- Machop (40%), Machoke (10%), Machamp (Trade-Only) - Everywhere
-- Mankey (40%), Primeape (10%), Annihilape (0% Move Learn Alpha) - Kanto, Johto
+- Starly (20%), Staravia (10%), Staraptor (5%)
+- Machop (20%), Machoke (10%), Machamp (Trade-Only) - Everywhere
+- Mankey (25%), Primeape (10%), Annihilape (0% Move Learn Alpha) - Kanto, Johto
 #### Cinnabar Vulcano
 - Slugma (40%), Magcargo (20%) - *Kanto Exclusive*
 - Magby (1%), Magmar (39%), Magmortar (0% Gym Trade-Only) - Kanto, Johto
@@ -184,8 +192,9 @@
 - Phanphy (30%), Donphan (10%)
 - Poochyena (15%), Mightyena (5%)
 #### Route 22
-- Spearow (30%), Fearow (20%) - Kanto, Johto
-- Ekans (30%), Arbok (20%) - Kanto, Johto
+- Kicketot (40%), Kricketune (20%)
+- Spearow (15%), Fearow (5%) - Kanto, Johto
+- Ekans (15%), Arbok (5%) - Kanto, Johto
 #### Route 23
 - Rhyhorn (30%), Rhydon (20%), Rhyperior (Trade-Only) - Kanto, Johto
 - Kangaskhan (35%) - *Kanto Exclusive*
@@ -241,8 +250,3 @@
 - Porygon, Porgyon 2 (Trade-Only), Porygon Z (Trade-Only) - *Kanto Exclusive*
 - Mewtwo - *Kanto Exclusive*
 - Mew - n/a
-
-## Found through surf, headbutt and swarms
-- Seedot, Nuzleaf, Shiftry
-- Starly, Staravia, Staraptor
-- Kicketot, Kricketune
