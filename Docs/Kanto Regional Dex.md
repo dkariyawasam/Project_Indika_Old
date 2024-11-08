@@ -58,9 +58,15 @@
 #### Route 12
 - Slowpoke (30%), Slowbro (20%), Slowking (0% Trade-Only) - Kanto, Johto
 - Shellder (46%), Cloyster (4% Item Evolution) - Kanto, Johto
-#### Route 20
+#### Route 19 - Fuschia Beach
+- Staryu (46%), Starmie (4%)
+- Wingull (30%), Pelipper (20%)
+#### Route 20 - Seafoam Beach
 - Seel(30%), Dewgong(20%) - Kanto, Johto
 - Corsola(50%) - Everywhere
+#### Route 21 - Pallet Beach
+- Staryu (46%), Starmie (4%)
+- Wingull (30%), Pelipper (20%)
 #### Route 24
 - Staryu (46%), Starmie (4% Item Evolution) - Everywhere
 - Qwilfish(50%) - Kanto, Johto
@@ -78,7 +84,7 @@
 #### Route 21 - Pallet/Cinnabar
 - Staryu (90%), Starmie (4% Item Evolution) - Everywhere
 - Milotic(6%)
-#### Route 21 Extended  Cycling Road/Route 21
+#### Route 21 Extended - Cycling Road/Route 21
 - Seel(60%), Dewgong(10%) - Kanto, Johto
 - Milotic(30%)
 #### Vermilion Bay
@@ -201,7 +207,11 @@
 #### Vermilion City
 - Rattata (30%), Raticate (10%) - Kanto, Johto
 - Meowth (25%), Persian (10%) - Kanto, Johto
-- Mime Jr. (1%), Mr. Mime (24%)
+- Wingull (20%), Pelipper (5%)
+### Celadon City
+- Rattata (30%), Raticate (10%) - Kanto, Johto
+- Meowth (25%), Persian (10%) - Kanto, Johto
+- Shroomish (20%), Breloom (5%)
 ### Fuschia City
 - Rattata (30%), Raticate (10%) - Kanto, Johto
 - Meowth (25%), Persian (10%) - Kanto, Johto
@@ -234,7 +244,5 @@
 
 ## Found through surf, headbutt and swarms
 - Seedot, Nuzleaf, Shiftry
-- Shroomish, Breloom
 - Starly, Staravia, Staraptor
 - Kicketot, Kricketune
-- Wingull, Pelipper
