@@ -208,11 +208,11 @@
 - Rattata (30%), Raticate (10%) - Kanto, Johto
 - Meowth (25%), Persian (10%) - Kanto, Johto
 - Wingull (20%), Pelipper (5%)
-### Celadon City
+#### Celadon City
 - Rattata (30%), Raticate (10%) - Kanto, Johto
 - Meowth (25%), Persian (10%) - Kanto, Johto
 - Shroomish (20%), Breloom (5%)
-### Fuschia City
+#### Fuschia City
 - Rattata (30%), Raticate (10%) - Kanto, Johto
 - Meowth (25%), Persian (10%) - Kanto, Johto
 - Gulpin (20%), Swalot (5%)
