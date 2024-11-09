@@ -1,0 +1,43 @@
+//---------------
+#dynamic 0x740000
+#org @SailorFuchsia2Seafoam
+lock
+faceplayer
+preparemsg @MSGGoSeafoam
+callstd 0x5
+compare LASTRESULT 0x1
+if 0x1 goto @Seafoam
+goto 0x8742C61
+
+//---------------
+#org @Seafoam
+msgbox 0x8742CB5 MSG_KEEPOPEN
+goto @SetSail
+
+//---------------
+#org 0x742C61
+msgbox 0x8742CF2 MSG_NORMAL //"Alright, do come talk to me\nwhen ..."
+release
+end
+
+//---------------
+#org @SetSail
+closeonkeypress
+fadescreen 0x1
+setvar 0x8006 0x3
+special 0x17B
+waitstate
+end
+
+
+//---------
+// Strings
+//---------
+#org @MSGGoSeafoam
+= Ahoy, there!\nI can take you to SEAFOAM ISLANDS.\pShall we go?
+
+#org 0x742CB5
+= Okay, everything's in order.\pWe'll be departing immediately.
+
+#org 0x742CF2
+= Alright, do come talk to me\nwhen you do.
