@@ -9,6 +9,8 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - The wild encounter pool is from classic and remake Kanto found in FRLG and HGSS
 - Trade/Trade-with-item/Friendship evolution Pokemon cannot be found in the wild but will be given out by Gym Leaders and special trainers.
 - Alpha Pokemon: Legendary and Move-learn evolution Pokemon cannot be found as wild encounters but will appear as unique overworld encounters
+- Pokemon League: is 4 rounds of double battles from a randomised pool of Gym Leaders, Elite Four, and Aces. After which you face the Rival.
+- Rocket League: is held at Team Rocket's HQ and is 8 rounds of single battles from a randomised pool of Rocket Grunts, Rocket Admins, and Aces. After Which you face Giovanni.    
 
 ## Screenshots
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/2575aa6b-bcc9-4ad4-86d6-56389584f88d)
