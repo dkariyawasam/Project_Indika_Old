@@ -52,9 +52,9 @@ special 0x17B - Plays the Seagull animation
 |Entry|Default|Edited|
 |-----|-------|------|
 |0|03 05 17 20|n/a|
-|1|20 04 08 05|n/a|
-|2|21 04 08 05|n/a|
-|3|26 00 08 05|n/a|
+|1|20 04 08 05|03 00 08 10 (Pallet Town|
+|2|21 04 08 05|03 25 0D 0D (Route 19 South of Fuchsia City|
+|3|26 00 08 05 (Three Isle Port)|03 26 49 0E (Seafoam Island)|
 |4|23 05 08 05|n/a|
 |5|24 02 08 05|n/a|
 |6|25 02 08 05|n/a|
