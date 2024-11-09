@@ -26,7 +26,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Remove Lavander Snorlax OW
 - [ ] Remove need for Silph Scope
 
-## Navigation Todo List v0.9
+## Navigation Todo List v1
 - [x] Add Seagull Ship connecting Pallet Town, Cinnabar Island, and Fuschia City
 - [x] Extend Route 02 to connect to Celadon City
 - [x] Extend Route 25 to connect to Route 09
@@ -37,7 +37,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Allow access to Mt Moon from Route 04
 - [x] Extend Diglett's Cave
 - [x] Add Cinnabar Volcano to Cinnabar Island
-- [ ] Add Fuchsia Forest
+- [x] Add Fuchsia Forest
 
 ## Team Rocket Todo List v0.6
 - [x] Remove Team Rocket's presence in Mt Moon
@@ -46,7 +46,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Remove Team Rocket's presence from Pokemon Tower
 - [x] Remove Team Rocket's presence from Celadon City
 
-## Alpha Overworlds Todo List v0.2
+## Alpha Overworlds Todo List v0.3
 - [x] Add Tangrowth to Viridian Forest
 - [ ] Add mention about Tangrowth's theme
 - [x] Add Mime Sr. to Diglett Cave
@@ -55,7 +55,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [ ] Change Hole-in-the-wall NPC dialogue to an angered Primeape invasion
 - [ ] Add Osscythe to Pokemon Tower
 - [ ] Add mention of a cubone being snatched from a Marowak mother in Rocket Hideout
-- [ ] Move Moltres to Cinnabar Volcano
+- [x] Move Moltres to Cinnabar Volcano
 - [ ] Add mention of Moltres reactivating Cinnabar Volcano.
 
 ## Gym Leaders Todo List v0.8
