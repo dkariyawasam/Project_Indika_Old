@@ -19,31 +19,6 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/2575aa6b-bcc9-4ad4-86d6-56389584f88d)
 
 
-## Roadblock Todo List v1.0
-- [x] Remove Oak's Parcel fetch
-- [x] Remove Viridian City Oldman Tutorial
-- [x] Remove all Cut Trees
-- [x] Remove need for flash in Rock Tunnel
-- [x] Remove Pewter City Gym Challenge Kid
-- [x] Remove Cerulean City Police and Rocket Grunt
-- [x] Remove Saffron City guards lemonade
-- [x] Remove Victory Road Strength
-- [x] Remove Lavander Snorlax OW
-- [ ] Remove need for Silph Scope
-
-## Navigation Todo List v1
-- [x] Add Seagull Ship connecting Pallet Town, Cinnabar Island, and Fuschia City
-- [x] Extend Route 02 to connect to Celadon City
-- [x] Extend Route 25 to connect to Route 09
-- [x] Connect horizontal and vertical Underground Tunnels
-- [x] Connect Route 21 to Cycling Road
-- [x] Connect Vermillion City to Route 15
-- [x] Connect Route 03 to Route 04
-- [x] Allow access to Mt Moon from Route 04
-- [x] Extend Diglett's Cave
-- [x] Add Cinnabar Volcano to Cinnabar Island
-- [x] Add Fuchsia Forest
-
 ## Team Rocket Todo List v0.6
 - [x] Remove Team Rocket's presence in Mt Moon
 - [ ] Repurpose Team Rocket Hideout to host a tournament with Coin gambling
