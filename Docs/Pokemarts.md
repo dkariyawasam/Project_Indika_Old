@@ -344,6 +344,22 @@
 |Up-Grade|0xDA|
 |Heart Scale|0x6F|
 
+## Indigo Plateau
+|Item|Value|
+|---------|----|
+|Hyper Potion|0x15|
+|Max Potion|0x14|
+|Full Heal|0x17|
+|Full Restore|0x13|
+|Revive|0x18|
+|X Attack|4B|
+|X Defense|4C|
+|X Special|4F|
+|X Speed|4D|
+|X Accuracy|4E|
+|Dire Hit|4A|
+|Guard Spec.|49|
+
 ## Thunder Badge Unlocked
 |Item|Value|
 |---------|----|
