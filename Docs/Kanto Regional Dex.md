@@ -10,7 +10,7 @@
 - Drowzee (10%), Hypno (10%) - Kanto, Johto
 
  #### Route 25
-- Aipom (40%), Ambipom(20%) - Kanto, Johto
+- Aipom (40%), Ambipom (20%) - Kanto, Johto
 - Nidoranf (10%), Nidorina (6%), Nidoqueen (4% Item Evolution) - Kanto, Johto
 - Nidoranm (10%), Nidorino (6%), Nidoking (4% Item Evolution) - Kanto, Johto
 
@@ -49,78 +49,78 @@
 - Oddish (20%), Gloom (10%), Vileplume (4% Item Evolution), Bellossom (1% Item Evolution) - Kanto, Johto
 - Spinarak (10%), Ariados (5%) - Kanto, Johto
 - Venonat (10%), Venomoth (4%) - Kanto, Johto
-- Tangela (10%), Tangrowth  Move Learn Alpha) - Kanto, Johto
+- Tangela (10%), Tangrowth Move Learn Alpha) - Kanto, Johto
 
 
 ----
 ## Water's Edge
 #### Route 06
-- Wooper(30%), Quagsire(20%)
+- Wooper (30%), Quagsire (20%)
 - Poliwag (26%), Poliwhirl (20%), Poliwrath (4% Item Evolution), Politoed (0% Gym Trade Evolution) - Kanto, Johto
 #### Route 10
 - Krabby (30%), Kingler (20%) - Kanto, Johto
 - Psyduck (30%), Golduck (20%) - Kanto, Johto
 #### Route 12
-- Slowpoke (30%), Slowbro (20%), Slowking  (0% Ace Trade Evolution) - Kanto, Johto
+- Slowpoke (30%), Slowbro (20%), Slowking (0% Ace Trade Evolution) - Kanto, Johto
 - Shellder (46%), Cloyster (4% Item Evolution) - Kanto, Johto
 #### Route 19 - Fuschia Beach
 - Staryu (46%), Starmie (4% Item Evolution)
 - Wingull (30%), Pelipper (20%)
 #### Route 20 - Seafoam Beach
-- Seel(30%), Dewgong(20%) - Kanto, Johto
-- Corsola(50%) - Everywhere
+- Seel (30%), Dewgong (20%) - Kanto, Johto
+- Corsola (50%) - Everywhere
 #### Route 21 - Pallet Beach
 - Staryu (46%), Starmie (4% Item Evolution)
 - Wingull (30%), Pelipper (20%)
 #### Route 24
 - Staryu (46%), Starmie (4% Item Evolution) - Everywhere
-- Qwilfish(50%) - Kanto, Johto
+- Qwilfish (50%) - Kanto, Johto
 -----
 ## Water
 #### Route 19 - Fuchsia/Seafoam
-- Tentacool(60%), Tentacruel(5%) - Kanto, Johto
+- Tentacool (60%), Tentacruel (5%) - Kanto, Johto
 - Staryu (31%), Starmie (4% Item Evolution) - Everywhere
 #### Route 20 - Cinnabar/Seafoam Island
-- Corsola(90%) - Everywhere
-- Gyarados(10%) - Kanto, Johto
+- Corsola (90%) - Everywhere
+- Gyarados (10%) - Kanto, Johto
 #### Route 20 Extended - Seafoam Island/Cycling Road
-- Seel(30%), Dewgong(20%) - Kanto, Johto
-- Gyarados(1%) - Kanto, Johto
+- Seel (30%), Dewgong (20%) - Kanto, Johto
+- Gyarados (1%) - Kanto, Johto
 #### Route 21 - Pallet/Cinnabar
 - Staryu (90%), Starmie (4% Item Evolution) - Everywhere
-- Milotic(6%)
+- Milotic (6%)
 #### Route 21 Extended - Cycling Road/Route 21
-- Seel(60%), Dewgong(10%) - Kanto, Johto
-- Milotic(30%)
+- Seel (60%), Dewgong (10%) - Kanto, Johto
+- Milotic (30%)
 #### Vermilion Bay
 - Chinchou (5%), Lanturn (1%)- Kanto, Johto
 - Shellder (30%), Cloyster (4% Item Evolution) - Kanto, Johto
-- Qwilfish(60%) - Kanto, Johto
+- Qwilfish (60%) - Kanto, Johto
 ## Fishing
 #### Route 19
-- Chinchou(15%), Lanturn(4%) - Kanto, Johto
-- Horsea(41%), Seadra(40%), Kingdra (0% Ace Trade Evolution) - Everywhere
+- Chinchou (15%), Lanturn (4%) - Kanto, Johto
+- Horsea (41%), Seadra (40%), Kingdra (0% Ace Trade Evolution) - Everywhere
 #### Route 20 Seafoam Island
-- Magikarp(40%)
-- Feebas(15%)
-- Relicanth(1%)- *Kanto Exclusive*
-- Goldeen(40%), Seaking(4%) - Everywhere
+- Magikarp (40%)
+- Feebas (15%)
+- Relicanth (1%)- *Kanto Exclusive*
+- Goldeen (40%), Seaking (4%) - Everywhere
 #### Route 21
-- Goldeen(40%), Seaking(4%) - Everywhere
-- Magikarp(40%)
-- Feebas(15%)
-- Luvdisc(1%)
+- Goldeen (40%), Seaking (4%) - Everywhere
+- Magikarp (40%)
+- Feebas (15%)
+- Luvdisc (1%)
 #### Route 21 Extended Cycling Road/Route21
-- Goldeen(40%), Seaking(4%) - Everywhere
-- Magikarp(40%)
-- Feebas(15%)
-- Luvdisc(1%)
+- Goldeen (40%), Seaking (4%) - Everywhere
+- Magikarp (40%)
+- Feebas (15%)
+- Luvdisc (1%)
 #### Vermilion Bay
 - Goldeen (40%), Seaking (40%) - Everywhere
 - Clampearl (20%), Huntail (0% Ace Trade Evolution), Gorebyss (0% Ace Trade Evolution)
 ## Cave
 #### Mt Moon 1
-- Zubat (46%), Golbat (19%), Crobat  Friendship Evolution) - Everywhere
+- Zubat (46%), Golbat (19%), Crobat Friendship Evolution) - Everywhere
 - Cleffa (1%), Clefairy (30%), Clefable (4% Item Evolution) - *Kanto Exclusive*
 #### Mt Moon -1
 - Zubat (70%), Golbat (28%), Crobat (0% Friendship Evolution) - Everywhere
@@ -183,7 +183,7 @@
 - Ponyta (30%), Rapidash (10%) - *Kanto Exclusive*
 - Phanphy(30%), Donphan (10%)
 - Houndour (15%), Houndoom (5%) - Kanto, Johto
-#### Route  14
+#### Route 14
 - Ponyta (30%), Rapidash (10%) - *Kanto Exclusive*
 - Phanphy (30%), Donphan (10%)
 - Growlithe (16%), Arcanine (4% Item Evolution) - Kanto, Johto
