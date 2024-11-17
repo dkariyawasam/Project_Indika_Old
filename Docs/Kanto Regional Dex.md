@@ -51,7 +51,6 @@
 - Venonat (10%), Venomoth (4%) - Kanto, Johto
 - Tangela (10%), Tangrowth Move Learn Alpha) - Kanto, Johto
 
-
 ----
 ## Water's Edge
 #### Route 06
@@ -75,6 +74,7 @@
 #### Route 24
 - Staryu (46%), Starmie (4% Item Evolution) - Everywhere
 - Qwilfish (50%) - Kanto, Johto
+
 -----
 ## Water
 #### Route 19 - Fuchsia/Seafoam
@@ -160,6 +160,7 @@
 - Sableye (30%)
 - Sneasel (36%), Weavile (4% Item Evolution) - Kanto, Johto
 - Smoochum (1%), Jynx (29%)- Kanto, Johto
+
 ----
 ## Mountain
 #### Route 03
@@ -177,6 +178,7 @@
 #### Cinnabar Vulcano
 - Slugma (40%), Magcargo (20%) - *Kanto Exclusive*
 - Magby (1%), Magmar (39%), Magmortar (0% Gym Trade Evolution) - Kanto, Johto
+
 ----
 ## Rough Terrain
 #### Route 13
@@ -199,6 +201,7 @@
 - Rhyhorn (30%), Rhydon (20%), Rhyperior (0% Ace Trade Evolution) - Kanto, Johto
 - Kangaskhan (35%) - *Kanto Exclusive*
 - Baltoy (10%), Claydol (5%)
+
 ----
 ## Urban
 #### Route 7
@@ -237,6 +240,7 @@
 - Grimer (30%), Muk (16%) - *Kanto Exclusive*
 - Koffing (30%), Weezing (20%) - Kanto, Johto
 - Ditto (4%) - Kanto, Johto
+
 ----
 ## Rare
 - Omanyte, Omastar - *Kanto Exclusive*
