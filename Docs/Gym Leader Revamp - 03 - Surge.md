@@ -1,4 +1,6 @@
 ## Lt Surge
+- Trainer Class: Officer
+
 Surge is a veteran soldier from the Pokemon war, he holds the title of Lieutenant and comes from Unova.
 
 - On first entering the gym, Surge is unavailable.
