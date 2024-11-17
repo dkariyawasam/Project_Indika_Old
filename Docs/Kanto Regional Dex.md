@@ -118,6 +118,8 @@
 #### Vermilion Bay
 - Goldeen (40%), Seaking (40%) - Everywhere
 - Clampearl (20%), Huntail (0% Ace Trade Evolution), Gorebyss (0% Ace Trade Evolution)
+
+----
 ## Cave
 #### Mt Moon 1
 - Zubat (46%), Golbat (19%), Crobat (0% Friendship Evolution) - Everywhere
