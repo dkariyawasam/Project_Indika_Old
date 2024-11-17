@@ -1,4 +1,6 @@
 ## Koga
+- Trainer Class: Ninja Boy
+
 Koga is a ninja from Johto.
 
 challenge 1 - 0/2 evolved: lv 13 ekans, lv 17 grimer
