@@ -1,4 +1,6 @@
 ## Misty
+- Trainer Class: Swimmer
+
 Misty is a pro swimmer and a mermaid diver.
 
 challenge 1 - 0/2 evolved: lv 13 staryu, lv 17 chinchou
