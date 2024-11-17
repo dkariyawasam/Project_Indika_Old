@@ -1,4 +1,6 @@
 ## Erika
+- Trainer Class: Kimono Girl
+
 Erika is a kimono girl, she likes to tend to her garden. 
 Erika's ace is Roselia and not Victribel anymore since it's more akin to her flowery theme.
 
