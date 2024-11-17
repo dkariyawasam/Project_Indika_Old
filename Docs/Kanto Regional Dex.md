@@ -120,7 +120,7 @@
 - Clampearl (20%), Huntail (0% Ace Trade Evolution), Gorebyss (0% Ace Trade Evolution)
 ## Cave
 #### Mt Moon 1
-- Zubat (46%), Golbat (19%), Crobat Friendship Evolution) - Everywhere
+- Zubat (46%), Golbat (19%), Crobat (0% Friendship Evolution) - Everywhere
 - Cleffa (1%), Clefairy (30%), Clefable (4% Item Evolution) - *Kanto Exclusive*
 #### Mt Moon -1
 - Zubat (70%), Golbat (28%), Crobat (0% Friendship Evolution) - Everywhere
@@ -206,13 +206,13 @@
 - Abra (20%), Kadabra (10%), Alakazam (0% Gym Trade Evolution) - Everywhere
 #### Route 16
 - Rattata (75%), Raticate (20%) - Kanto, Johto
-- Happiny (1%), Chansey (4%), Blissey (Friendship) - *Kanto Exclusive*
+- Happiny (1%), Chansey (4%), Blissey (0% Friendship Evolution) - *Kanto Exclusive*
 #### Route 17
 - Rattata (40%), Raticate (10%) - Kanto, Johto
 - Doduo (40%), Dodrio (10%) - *Kanto Exclusive*
 #### Route 18
 - Rattata (75%), Raticate (20%) - Kanto, Johto
-- Happiny (1%), Chansey (4%), Blissey (Friendship) - *Kanto Exclusive*
+- Happiny (1%), Chansey (4%), Blissey (0% Friendship Evolution) - *Kanto Exclusive*
 #### Vermilion City
 - Rattata (30%), Raticate (10%) - Kanto, Johto
 - Meowth (25%), Persian (10%) - Kanto, Johto
