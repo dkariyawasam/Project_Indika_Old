@@ -1,4 +1,6 @@
 ## Sabrina
+- Trainer Class: Psychic
+
 Sabrina is a psychic.
 
 challenge 1 - 0/2 evolved: lv 13 smoochum, lv 17 ralts
