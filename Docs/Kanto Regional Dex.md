@@ -23,12 +23,12 @@
 
 #### Route 02 - Extended
 - Caterpie (30%), Metapod (20%), Butterfree (10%) - Kanto, Johto
-- Seedot (10%), Nuzleaf (6%), Shiftry (4%)
+- Seedot (10%), Nuzleaf (6%), Shiftry (4% Item Evolution)
 - Hoothoot (14%), Noctowl (6%) - Kanto, Johto
 
 #### Route 05
 - Ledyba (30%), Ledian (10%) - Kanto, Johto
-- Exeggcute (35%), Exeggutor (4%) - Kanto, Johto
+- Exeggcute (35%), Exeggutor (4% Item Evolution) - Kanto, Johto
 - Pidgey (15%), Pidgeotto (4%), Pidgeot (2%) - Kanto, Johto
 
 #### Route 11
@@ -46,31 +46,31 @@
 
 #### Viridian Forest
 - Bellsprout (20%), Weepinbell (5%), Victreebel (1% Item Evolution) - Kanto, Johto
-- Oddish (20%), Gloom (10%), Vileplume (4% Stone Evolution), Bellossom (1% Item Evolution) - Kanto, Johto
+- Oddish (20%), Gloom (10%), Vileplume (4% Item Evolution), Bellossom (1% Item Evolution) - Kanto, Johto
 - Spinarak (10%), Ariados (5%) - Kanto, Johto
 - Venonat (10%), Venomoth (4%) - Kanto, Johto
-- Tangela (10%), Tangrowth (0% Move Learn Alpha) - Kanto, Johto
+- Tangela (10%), Tangrowth  Move Learn Alpha) - Kanto, Johto
 
 
 ----
 ## Water's Edge
 #### Route 06
 - Wooper(30%), Quagsire(20%)
-- Poliwag (26%), Poliwhirl (20%), Poliwrath (4% Item Evolution), Politoed (Trade-Only) - Kanto, Johto
+- Poliwag (26%), Poliwhirl (20%), Poliwrath (4% Item Evolution), Politoed (0% Gym Trade Evolution) - Kanto, Johto
 #### Route 10
 - Krabby (30%), Kingler (20%) - Kanto, Johto
 - Psyduck (30%), Golduck (20%) - Kanto, Johto
 #### Route 12
-- Slowpoke (30%), Slowbro (20%), Slowking (0% Trade-Only) - Kanto, Johto
+- Slowpoke (30%), Slowbro (20%), Slowking  (0% Ace Trade Evolution) - Kanto, Johto
 - Shellder (46%), Cloyster (4% Item Evolution) - Kanto, Johto
 #### Route 19 - Fuschia Beach
-- Staryu (46%), Starmie (4%)
+- Staryu (46%), Starmie (4% Item Evolution)
 - Wingull (30%), Pelipper (20%)
 #### Route 20 - Seafoam Beach
 - Seel(30%), Dewgong(20%) - Kanto, Johto
 - Corsola(50%) - Everywhere
 #### Route 21 - Pallet Beach
-- Staryu (46%), Starmie (4%)
+- Staryu (46%), Starmie (4% Item Evolution)
 - Wingull (30%), Pelipper (20%)
 #### Route 24
 - Staryu (46%), Starmie (4% Item Evolution) - Everywhere
@@ -99,7 +99,7 @@
 ## Fishing
 #### Route 19
 - Chinchou(15%), Lanturn(4%) - Kanto, Johto
-- Horsea(41%), Seadra(40%), Kingdra (Trade-Only) - Everywhere
+- Horsea(41%), Seadra(40%), Kingdra (0% Ace Trade Evolution) - Everywhere
 #### Route 20 Seafoam Island
 - Magikarp(40%)
 - Feebas(15%)
@@ -117,10 +117,10 @@
 - Luvdisc(1%)
 #### Vermilion Bay
 - Goldeen (40%), Seaking (40%) - Everywhere
-- Clampearl (20%), Huntail (Trade-Only), Gorebyss (Trade-Only)
+- Clampearl (20%), Huntail (0% Ace Trade Evolution), Gorebyss (0% Ace Trade Evolution)
 ## Cave
 #### Mt Moon 1
-- Zubat (46%), Golbat (19%), Crobat (0% Friendship Evolution) - Everywhere
+- Zubat (46%), Golbat (19%), Crobat  Friendship Evolution) - Everywhere
 - Cleffa (1%), Clefairy (30%), Clefable (4% Item Evolution) - *Kanto Exclusive*
 #### Mt Moon -1
 - Zubat (70%), Golbat (28%), Crobat (0% Friendship Evolution) - Everywhere
@@ -135,11 +135,11 @@
 - Mime Jr. (1%), Mr. Mime (14%)
 #### Rock Tunnel 1F
 - Zubat (30%), Golbat (10%), Crobat (0% Friendship Evolution) - Everywhere
-- Onix (30%), Steelix (0% Trade-Only) - Kanto, Johto
+- Onix (30%), Steelix (0% Ace Trade Evolution) - Kanto, Johto
 - Sandshrew (20%), Sandslash (10%)
 #### Rock Tunnel -1F
 - Zubat (10%), Golbat (30%), Crobat (0% Friendship Evolution) - Everywhere
-- Onix (30%), Steelix (0% Trade-Only) - Kanto, Johto
+- Onix (30%), Steelix (0% Ace Trade Evolution) - Kanto, Johto
 - Sandshrew (10%), Sandslash (20%)
 #### Victory Road 1F
 - Zubat (45%), Golbat (25%), Crobat (0% Friendship Evolution) - Everywhere
@@ -165,18 +165,18 @@
 #### Route 03
 - Starly (20%), Staravia (10%), Staraptor (5%)
 - Cubone (20%), Marowak (10%) - Kanto, Johto
-- Igglybuff (1%), Jigglypuff (30%), Wigglytuff (4%) - Kanto, Johto
+- Igglybuff (1%), Jigglypuff (30%), Wigglytuff (4% Item Evolution) - Kanto, Johto
 #### Route 04
 - Starly (20%), Staravia (10%), Staraptor (5%)
-- Geodude (20%), Graveller (10%), Golem (0% Gym Trade-Only) - Kanto, Johto
+- Geodude (20%), Graveller (10%), Golem (0% Gym Trade Evolution) - Kanto, Johto
 - Igglybuff (1%), Jigglypuff (30%), Wigglytuff (4% Item Evolution) - Kanto, Johto
 #### Route 09
 - Starly (20%), Staravia (10%), Staraptor (5%)
-- Machop (20%), Machoke (10%), Machamp (Trade-Only) - Everywhere
+- Machop (20%), Machoke (10%), Machamp (0% Ace Trade Evolution) - Everywhere
 - Mankey (25%), Primeape (10%), Annihilape (0% Move Learn Alpha) - Kanto, Johto
 #### Cinnabar Vulcano
 - Slugma (40%), Magcargo (20%) - *Kanto Exclusive*
-- Magby (1%), Magmar (39%), Magmortar (0% Gym Trade-Only) - Kanto, Johto
+- Magby (1%), Magmar (39%), Magmortar (0% Gym Trade Evolution) - Kanto, Johto
 ----
 ## Rough Terrain
 #### Route 13
@@ -186,7 +186,7 @@
 #### Route  14
 - Ponyta (30%), Rapidash (10%) - *Kanto Exclusive*
 - Phanphy (30%), Donphan (10%)
-- Growlithe (16%), Arcanine (4%) - Kanto, Johto
+- Growlithe (16%), Arcanine (4% Item Evolution) - Kanto, Johto
 #### Route 15
 - Ponyta (30%), Rapidash (10%) - *Kanto Exclusive*
 - Phanphy (30%), Donphan (10%)
@@ -196,14 +196,14 @@
 - Spearow (15%), Fearow (5%) - Kanto, Johto
 - Ekans (15%), Arbok (5%) - Kanto, Johto
 #### Route 23
-- Rhyhorn (30%), Rhydon (20%), Rhyperior (Trade-Only) - Kanto, Johto
+- Rhyhorn (30%), Rhydon (20%), Rhyperior (0% Ace Trade Evolution) - Kanto, Johto
 - Kangaskhan (35%) - *Kanto Exclusive*
 - Baltoy (10%), Claydol (5%)
 ----
 ## Urban
 #### Route 7
 - Rattata (50%), Raticate (20%) - Kanto, Johto
-- Abra (20%), Kadabra (10%), Alakazam (0% Gym Trade-Only) - Everywhere
+- Abra (20%), Kadabra (10%), Alakazam (0% Gym Trade Evolution) - Everywhere
 #### Route 16
 - Rattata (75%), Raticate (20%) - Kanto, Johto
 - Happiny (1%), Chansey (4%), Blissey (Friendship) - *Kanto Exclusive*
@@ -227,10 +227,10 @@
 - Gulpin (20%), Swalot (5%)
 #### Power Plant
 - Voltorb (34%), Electrode (15%) - *Kanto Exclusive*
-- Magnemite (25%), Magneton (15%), Magnezone (4%)- Kanto, Johto
-- Elekid (1%), Electabuzz (10%), Electivire (0% Gym Trade-Only) - *Kanto Exclusive*
+- Magnemite (25%), Magneton (15%), Magnezone (4% Item Evolution)- Kanto, Johto
+- Elekid (1%), Electabuzz (10%), Electivire (0% Gym Trade Evolution) - *Kanto Exclusive*
 #### Pokemon Tower
-- Gastly (30%), Haunter (20%), Gengar (Trade-Only) - Kanto, Johto
+- Gastly (30%), Haunter (20%), Gengar (0% Ace Trade Evolution) - Kanto, Johto
 - Misdreavus (20%), Mismagius (10%)
 - Cubone (15%), Marowak (5%), Osscythe (0% Alpha )- Kanto, Johto
 #### Pokemon Mansion
@@ -247,6 +247,6 @@
 - Articuno - *Kanto Exclusive* 
 - Zapdos - *Kanto Exclusive*
 - Moltres - *Kanto Exclusive*
-- Porygon, Porgyon 2 (Trade-Only), Porygon Z (Trade-Only) - *Kanto Exclusive*
+- Porygon, Porgyon 2 (0% Gym Trade Evolution), Porygon Z (0% Gym Trade Evolution) - *Kanto Exclusive*
 - Mewtwo - *Kanto Exclusive*
 - Mew - n/a
