@@ -81,3 +81,9 @@ special 0x17B - Plays the Seagull animation
 - Byte 26: Changes the "Show name on entering" value that is visible in simple header mode. 06, 07 allow you to run on the map, 05, 08 do not.
 - Byte 27: Species floor number. Above-ground floors count up from 01, where 01 is "F1." Below-ground (basement) floor count down from FF, where FF is "BF1."
 - Byte 28: Species a battle background that will override the trainer battle background AND wild battle background. Leave at 00 if you do not want this. You can choose from 00-09.
+
+#### Silph Scope Requirement
+
+To change the key item requirement in the Pokemon Tower for ghost type pokemon and the marowak mother, go to 
+- Marowak: 0x7F94C
+- Wild Pokemon: 0x7F6F8
