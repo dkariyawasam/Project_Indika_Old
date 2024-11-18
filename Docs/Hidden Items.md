@@ -5,4 +5,4 @@
 - Route 2 EXT - Leafstone ID 02
 - Route 2 - Thunderstone ID 03
 - Route 1 - Sun Stone ID 04
-- Route 4 - Moonstone ID 72
+- Route 4 - Moonstone ID 05
