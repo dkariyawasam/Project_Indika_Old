@@ -6,3 +6,6 @@
 - Route 2 - Thunderstone ID 03
 - Route 1 - Sun Stone ID 04
 - Route 4 - Moonstone ID 05
+
+
+54 OCCUPIED
