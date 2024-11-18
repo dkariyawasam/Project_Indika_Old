@@ -49,7 +49,7 @@
 - Oddish (20%), Gloom (10%), Vileplume (4% Item Evolution), Bellossom (1% Item Evolution) - Kanto, Johto
 - Spinarak (10%), Ariados (5%) - Kanto, Johto
 - Venonat (10%), Venomoth (4%) - Kanto, Johto
-- Tangela (10%), Tangrowth Move Learn Alpha) - Kanto, Johto
+- Tangela (10%), Tangrowth (0% Move Learn Alpha) - Kanto, Johto
 
 ----
 ## Water's Edge
