@@ -179,7 +179,7 @@
 - Mankey (25%), Primeape (10%), Annihilape (0% Move Learn Alpha) - Kanto, Johto
 #### Cinnabar Vulcano
 - Slugma (40%), Magcargo (20%) - *Kanto Exclusive*
-- Magby (1%), Magmar (39%), Magmortar (0% Gym Trade Evolution) - Kanto, Johto
+- Magby (1%), Magmar (39%), Magmortar (0% Ace Trade Evolution) - Kanto, Johto
 
 ----
 ## Rough Terrain
@@ -208,7 +208,7 @@
 ## Urban
 #### Route 7
 - Rattata (50%), Raticate (20%) - Kanto, Johto
-- Abra (20%), Kadabra (10%), Alakazam (0% Gym Trade Evolution) - Everywhere
+- Abra (20%), Kadabra (10%), Alakazam (0% Ace Trade Evolution) - Everywhere
 #### Route 16
 - Rattata (75%), Raticate (20%) - Kanto, Johto
 - Happiny (1%), Chansey (4%), Blissey (0% Friendship Evolution) - *Kanto Exclusive*
