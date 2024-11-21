@@ -2,9 +2,28 @@
 
 Aces are Elite Class type specialist trainers who all offer a trade upon defeating them. The Pokemon they'll trade is an item-holding trade evolution.
 
-- Bethany, Fairy-Type Specialist:
-- Dee, Psychic-Type Specialist (Trades Kadabra for a Haunter): Hypno, Alakazam, Exeggutor, Xatu, Slowbro, Slowking, Starmie, Wobbuffet, Jynx, Claydol 
-- Fil, Fire-Type Specialist:
-- Jake, Dark-Type Specialist:
-- Jayce, Water-Type Specialist:
-- Malene, Grass-Type Specialist:
+### Ruinmanic
+- Slowpoke with King's Rock
+
+### Deep Diving Couple, Tutu & Escalade 
+- Clampearl with Deep Sea Tooth
+- Clampearl with Deep Sea Scale
+
+----
+### Dragon-Type Ace: 
+- Kingdra with a Dragon Scale
+
+### Fighting-Type Ace: 
+- Machoke
+
+### Fire-Type Ace:
+- Magmar with Magmarizer
+
+### Ground-Type Ace:
+- Rhydon with Protector
+
+### Dee, Psychic-Type Ace: Hypno, Alakazam, Exeggutor, Xatu, Starmie, Wobbuffet, Jynx, Claydol
+- Kadabra
+
+### Ghost-Type Ace
+- Haunter
