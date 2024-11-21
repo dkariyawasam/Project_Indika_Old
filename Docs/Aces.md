@@ -22,7 +22,7 @@ Aces are Elite Class type specialist trainers who all offer a trade upon defeati
 ### Ground-Type Ace:
 - Rhydon with Protector
 
-### Dee, Psychic-Type Ace: Hypno, Alakazam, Exeggutor, Xatu, Starmie, Wobbuffet, Jynx, Claydol
+### Dee, Psychic-Type Ace: Alakazam, Exeggutor, Xatu, Starmie, Jynx, Claydol
 - Kadabra
 
 ### Ghost-Type Ace
