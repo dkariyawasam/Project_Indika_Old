@@ -19,7 +19,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/e9665a17-631e-415b-9971-9129644ac9f8)
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/2ee82a58-526a-4633-b734-5a46b5a1398e)
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/81b40040-27c2-4f01-ab93-47dd46468bbe)
-![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/7ee524cd-7d7b-4a98-9703-ecad9f0a416f)
+![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/e7664d1a-ae2a-4d4f-aaaa-0abbdbbc8be4)
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/9a7bb18a-6405-49b0-ae33-4fad679aafe3)
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/5dff053c-3464-4359-a899-922a771df9a0)
 
