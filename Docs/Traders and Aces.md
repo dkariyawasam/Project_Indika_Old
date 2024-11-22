@@ -1,4 +1,4 @@
-# Aces
+# Traders & Aces
 
 Aces are Elite Class type specialist trainers who all offer a trade upon defeating them. The Pokemon they'll trade is an item-holding trade evolution.
 
