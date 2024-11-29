@@ -24,6 +24,7 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/5dff053c-3464-4359-a899-922a771df9a0)
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/a6776494-12cd-486d-a770-396d38c5b9ac)
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/87c991b0-64e2-4911-b47b-e485fee3408c)
+![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/3494c941-6876-4afd-9d6d-2663a414cff4)
 
 ## Team Rocket Todo List v0.6
 - [x] Remove Team Rocket's presence in Mt Moon
