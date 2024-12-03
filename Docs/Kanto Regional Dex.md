@@ -134,7 +134,7 @@
 #### Diglett Cave -2F
 - Zubat (10%), Golbat (35), Crobat (0% Friendship Evolution) - Everywhere
 - Diglett (10%), Dugtrio (30%) - *Kanto Exclusive*
-- Mime Jr. (1%), Mr. Mime (14%)
+- Mime Jr. (1%), Mr. Mime (14%), Mime Sr (0% Move Learn Evolution Alpha)
 #### Rock Tunnel 1F
 - Zubat (30%), Golbat (10%), Crobat (0% Friendship Evolution) - Everywhere
 - Onix (30%), Steelix (0% Ace Trade Evolution) - Kanto, Johto
