@@ -49,7 +49,7 @@
 - Oddish (20%), Gloom (10%), Vileplume (4% Item Evolution), Bellossom (1% Item Evolution) - Kanto, Johto
 - Spinarak (10%), Ariados (5%) - Kanto, Johto
 - Venonat (10%), Venomoth (4%) - Kanto, Johto
-- Tangela (10%), Tangrowth (0% Move Learn Alpha) - Kanto, Johto
+- Tangela (10%), Tangrowth (0% Move Learn Evolution Alpha) - Kanto, Johto
 
 ----
 ## Water's Edge
@@ -157,7 +157,7 @@
 - Zubat (30%), Golbat (20%), Crobat (0% Friendship Evolution) - Everywhere
 - Wynaut (1%), Wobbuffet (24%)
 - Lickitung (20%), Lickilicky (4%)- Kanto, Johto
-- Primal Aerodactyl (1%)
+- Aeropteryx (1%)
 #### Seafoam Island
 - Sableye (30%)
 - Sneasel (36%), Weavile (4% Item Evolution) - Kanto, Johto
@@ -176,7 +176,7 @@
 #### Route 09
 - Starly (20%), Staravia (10%), Staraptor (5%)
 - Machop (20%), Machoke (10%), Machamp (0% Ace Trade Evolution) - Everywhere
-- Mankey (25%), Primeape (10%), Annihilape (0% Move Learn Alpha) - Kanto, Johto
+- Mankey (25%), Primeape (10%), Annihilape (0% Move Learn Evolution Alpha) - Kanto, Johto
 #### Cinnabar Vulcano
 - Slugma (40%), Magcargo (20%) - *Kanto Exclusive*
 - Magby (1%), Magmar (39%), Magmortar (0% Ace Trade Evolution) - Kanto, Johto
@@ -237,7 +237,7 @@
 #### Pokemon Tower
 - Gastly (30%), Haunter (20%), Gengar (0% Ace Trade Evolution) - Kanto, Johto
 - Misdreavus (20%), Mismagius (10%)
-- Cubone (15%), Marowak (5%), Osscythe (0% Alpha )- Kanto, Johto
+- Cubone (15%), Marowak (5%), Osscythe (0% Move Learn Evolution Alpha)- Kanto, Johto
 #### Pokemon Mansion
 - Grimer (30%), Muk (16%) - *Kanto Exclusive*
 - Koffing (30%), Weezing (20%) - Kanto, Johto
