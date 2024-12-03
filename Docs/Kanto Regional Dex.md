@@ -237,7 +237,7 @@
 #### Pokemon Tower
 - Gastly (30%), Haunter (20%), Gengar (0% Ace Trade Evolution) - Kanto, Johto
 - Misdreavus (20%), Mismagius (10%)
-- Cubone (15%), Marowak (5%), Osscythe (0% Move Learn Evolution Alpha)- Kanto, Johto
+- Cubone (15%), Marowak (5%), Osscythe (0% Move Learn Evolution Alpha) - Kanto, Johto
 #### Pokemon Mansion
 - Grimer (30%), Muk (16%) - *Kanto Exclusive*
 - Koffing (30%), Weezing (20%) - Kanto, Johto
