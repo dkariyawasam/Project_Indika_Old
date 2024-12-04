@@ -10,7 +10,7 @@
 - Drowzee (10%), Hypno (10%) - Kanto, Johto
 
  #### Route 25
-- Aipom (40%), Ambipom (20%) - Kanto, Johto
+- Aipom (40%), Ambipom (20% Move Learn Evolution) - Kanto, Johto
 - Nidoranf (10%), Nidorina (6%), Nidoqueen (4% Item Evolution) - Kanto, Johto
 - Nidoranm (10%), Nidorino (6%), Nidoking (4% Item Evolution) - Kanto, Johto
 
