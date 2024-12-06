@@ -87,3 +87,16 @@ special 0x17B - Plays the Seagull animation
 To change the key item requirement in the Pokemon Tower for ghost type pokemon and the marowak mother, go to 
 - Marowak: 0x7F94C
 - Wild Pokemon: 0x7F6F8
+
+#### Habitats
+Habitat Table - 0x452C4C
+- D4 27 45 08 - 09 00 00 00 = GRASSLAND 9 entries (was 27) 0x4527D4 to 0x452818
+- AC 28 45 08 - 16 00 00 00 = FOREST 22 entries (was 26) 0x45281C to 0x4528C8
+- 7C 29 45 08 - 0B 00 00 00 = WATER'S EDGE 11 entries (was 16) 0x4528CC to 0x452920
+- FC 29 45 08 - 09 00 00 00 = SEA 9 entries (was 16) 0x452924 to 0x452968
+- 7C 2A 45 08 - 11 00 00 00 = CAVE 17 entries (was 10) 0x45296C to 0x4529F0
+
+- CC 2A 45 08 - 08 00 00 00 = MOUNTAIN 8 entries (was 17)
+- 54 2B 45 08 - 0B 00 00 00 = ROUGH TERRAIN 11 entries (stayed 11)
+- AC 2B 45 08 - 11 00 00 00 = URBAN 17 entries (was 12)
+- 0C 2C 45 08 - 08 00 00 00 = RARE 8 entries (stayed 8)
