@@ -41,18 +41,6 @@ Experience an all-new Kanto as a field researcher for Professor Oak as you uncov
 - [x] Remove Team Rocket's presence from Pokemon Tower
 - [x] Remove Team Rocket's presence from Celadon City
 
-## Alpha Overworlds Todo List v0.3
-- [x] Add Tangrowth to Viridian Forest
-- [ ] Add mention about Tangrowth's theme
-- [x] Add Mime Sr. to Diglett Cave
-- [ ] Add mention of a Mr Mime fleeing from a Mime Pokemaniac
-- [ ] Add Annihilape to Mt Moon
-- [ ] Change Hole-in-the-wall NPC dialogue to an angered Primeape invasion
-- [ ] Add Osscythe to Pokemon Tower
-- [ ] Add mention of a cubone being snatched from a Marowak mother in Rocket Hideout
-- [x] Move Moltres to Cinnabar Volcano
-- [ ] Add mention of Moltres reactivating Cinnabar Volcano.
-
 ## Gym Leaders Todo List v0.8
 - [x] Find Brock in Mt Moon looking for fossils
 - [x] Add 7 variations of Brock's challenge
