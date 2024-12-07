@@ -167,7 +167,7 @@
 ## Mountain
 #### Route 03
 - Starly (20%), Staravia (10%), Staraptor (5%)
-- Cubone (20%), Marowak (10%) - Kanto, Johto
+- Machop (20%), Machoke (10%) - Kanto, Johto
 - Igglybuff (1%), Jigglypuff (30%), Wigglytuff (4% Item Evolution) - Kanto, Johto
 #### Route 04
 - Starly (20%), Staravia (10%), Staraptor (5%)
@@ -175,8 +175,7 @@
 - Igglybuff (1%), Jigglypuff (30%), Wigglytuff (4% Item Evolution) - Kanto, Johto
 #### Route 09
 - Starly (20%), Staravia (10%), Staraptor (5%)
-- Machop (20%), Machoke (10%), Machamp (0% Ace Trade Evolution) - Everywhere
-- Mankey (25%), Primeape (10%), Annihilape (0% Move Learn Evolution Alpha) - Kanto, Johto
+- Mankey (45%), Primeape (20%), Annihilape (0% Move Learn Evolution Alpha) - Kanto, Johto
 #### Cinnabar Vulcano
 - Slugma (40%), Magcargo (20%) - *Kanto Exclusive*
 - Magby (1%), Magmar (39%), Magmortar (0% Ace Trade Evolution) - Kanto, Johto
