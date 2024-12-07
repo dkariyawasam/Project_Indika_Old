@@ -1,0 +1,25 @@
+//---------------
+#dynamic 0x740000
+
+#org @AlphaAnnihilape
+lock
+faceplayer
+checksound
+cry 0x138 0x1
+waitcry
+msgbox @MSGBattlecry MSG_KEEPOPEN
+playsong 0x0 0x1
+wildbattle2 0x138 0x32 0x0 0x1
+jumpram
+nop
+waitstate
+setflag 0x243
+release
+end
+
+
+//---------
+// Strings
+//---------
+#org @MSGBattlecry
+= LAYEHHH!
