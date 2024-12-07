@@ -1,4 +1,6 @@
-# Pokemon Expeditions: Kanto
+
+![Untitled-5](https://github.com/user-attachments/assets/365532da-c28b-4d47-8da4-81355865629c)
+
 
 Experience an all-new Kanto as a field researcher for Professor Oak as you uncover the mysteries of evolution and the bonds between Pokemon and trainers.
 
