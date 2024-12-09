@@ -29,4 +29,4 @@ Aces are Elite Class type specialist trainers who all offer a trade upon defeati
 - Haunter
 
 ### Steel-Type Ace
-- Onix
+- Onix with Metal Coat
