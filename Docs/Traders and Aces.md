@@ -27,3 +27,6 @@ Aces are Elite Class type specialist trainers who all offer a trade upon defeati
 
 ### Ghost-Type Ace
 - Haunter
+
+### Steel-Type Ace
+- Onix
