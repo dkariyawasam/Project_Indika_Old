@@ -194,7 +194,6 @@ end
 
 
 #org 0x1A6B76
-cleartrainerflag 0x8E
 return
 
 
