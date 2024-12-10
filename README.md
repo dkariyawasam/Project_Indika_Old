@@ -1,10 +1,6 @@
 
 ![Untitled-5](https://github.com/user-attachments/assets/ec1ea34b-3b61-4dfa-974b-b8d3d573c13e)
 
-
-
-Experience an all-new Kanto as a field researcher for Professor Oak as you uncover the mysteries of evolution and the bonds between Pokemon and trainers.
-
 ## Features
 
 - Scalable Gym leaders: Gym leaders 1-7 scale in difficulty depending on the order you challenge them in.
