@@ -1,0 +1,50 @@
+//---------------
+#dynamic 0x740000
+#org @PokeMartCeladonCity
+lock
+faceplayer
+special 0x187
+compare LASTRESULT 0x2
+if 0x1 goto @End
+preparemsg @MSGGreeting
+waitmsg
+checkflag 0x231
+if 0x1 goto @VitaminsAdded
+pokemart @MRTCeladon
+msgbox @MSGGoodbye MSG_KEEPOPEN
+release
+end
+
+//---------------
+#org @End
+end
+
+//-----------------------------------------------------------------------
+#org @VitaminsAdded
+pokemart @MRTCeladonThunder
+release
+
+
+//---------
+// Strings
+//---------
+#org @MSGGreeting
+= Hi, there!\nMay I help you?
+
+#org @MSGGoodbye
+= Please come again!
+
+//-----------
+// MartItems
+//-----------
+#org @MRTCeladon
+#raw word 0x0
+
+#org @MRTCeladonThunder
+#raw word 0x3F
+#raw word 0x40
+#raw word 0x41
+#raw word 0x42
+#raw word 0x43
+#raw word 0x46
+#raw word 0x0
