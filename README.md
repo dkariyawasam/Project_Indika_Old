@@ -34,13 +34,6 @@
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/dfc9c7a2-c128-49fa-a84b-bd358b1725ad)
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/592ff463-0bb9-4d4d-a36c-74946024fa6d)
 
-## Team Rocket Todo List v0.6
-- [x] Remove Team Rocket's presence in Mt Moon
-- [ ] Repurpose Team Rocket Hideout to host a tournament with Coin gambling
-- [ ] Change Nugget Bridge Rocket Grunt to be a generic thief
-- [x] Remove Team Rocket's presence from Pokemon Tower
-- [x] Remove Team Rocket's presence from Celadon City
-
 ## Gym Leaders Todo List v0.8
 - [x] Find Brock in Mt Moon looking for fossils
 - [x] Add 7 variations of Brock's challenge
