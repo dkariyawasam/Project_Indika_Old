@@ -1,7 +1,7 @@
 ## Blaine
 - Trainer Class: Scientist
 
-Blaine is a researcher and good friends with Mr Fuji.
+Blaine is a Kantonian researcher and good friends with Mr Fuji.
 
 challenge 1 - 0/2 evolved: lv 13 growlithe, lv 17 houndour
 
