@@ -2,7 +2,7 @@
 - Trainer Class: Ruin Maniac
 
 Brock is a a fossil enthusiast from Kanto, he often goes to Mt Moon and Mt Silver in search of fossils. 
-Brock's ace is Aerodactyl instead of Onix since when fully evolved it becomes Steelix who's not Rock type.
+Brock's ace is Aerodactyl.
 
 - On first entering the gym, Brock is unavailable.
 - The gym aide heads over to you and tells you Brock is in Mt Moon fossil hunting.
