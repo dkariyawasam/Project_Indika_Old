@@ -1,7 +1,8 @@
 ## Misty
 - Trainer Class: Swimmer
 
-Misty is a pro swimmer and a mermaid diver.
+Misty is a pro swimmer and a mermaid diver from Kanto.
+Misty's ace is Kingdra.
 
 challenge 1 - 0/2 evolved: lv 13 staryu, lv 17 chinchou
 
