@@ -244,6 +244,9 @@
 
 ----
 ## Rare
+- Budew, Roselia, Roserade - Johto Exlusive, Gym
+- Ralts, Kirilia, Gardevoir, Gallade - Johto Exclusive, Gym
+- Tynamo, Eelektrik, Eelektross - Unova Exclusive, Gym
 - Omanyte, Omastar - *Kanto Exclusive*
 - Omato, Omatops
 - Kabuto, Kabutops - *Kanto Exclusive*
