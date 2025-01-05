@@ -1,7 +1,7 @@
-Archer
+Dee
 
 Trainer Class: Ace
-Psychic-Type Specialist: 
+Psychic-Type Specialist 
 
 Team: Alakazam, Exeggutor, Xatu, Starmie, Jynx, Claydol
 
