@@ -1,7 +1,7 @@
 ## Sabrina
 - Trainer Class: Psychic
-
-Sabrina is a psychic.
+- 
+Sabrina is a psychic from Kanto.
 
 challenge 1 - 0/2 evolved: lv 13 smoochum, lv 17 ralts
 
