@@ -1,0 +1,3 @@
+Archer
+
+Trainer Class: Admin
