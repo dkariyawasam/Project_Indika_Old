@@ -10,8 +10,8 @@
 - Alpha Pokemon: Legendary and Move-learn evolution Pokemon cannot be found as wild encounters but will appear as unique overworld encounters
 - Primeval Pokemon: Are the Pseudo-legendary of Kanto and, while extremely rare, they can appear in the wild.
 - Fossil Pokemon: can be revived at the Cinnabar Lab as approximations of the original primeval counterparts.
-- Pokemon League: is 4 rounds of double battles from a randomised pool of Gym Leaders, Elite Four, and Aces. After which you face the Rival.
-- Rocket League: is held at Team Rocket's HQ and is 8 rounds of single battles from a randomised pool of Rocket Grunts, Rocket Admins, and Aces. After Which you face Giovanni.    
+- Pokemon League: is 4 rounds of double battles from a randomised pool of Gym Leaders and Elite Four. After which you face the Rival.
+- Rocket League: is held at Team Rocket's HQ and is 8 rounds of single battles from a randomised pool of Rocket Aces and Rocket Admins. After Which you face Giovanni.    
 
 
 ## Screenshots
