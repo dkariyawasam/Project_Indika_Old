@@ -1,3 +1,3 @@
 Archer
 
-Trainer Class: Admin
+Trainer Class: Admin Dark Type Specialist
