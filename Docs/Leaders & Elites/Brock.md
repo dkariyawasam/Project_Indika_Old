@@ -25,5 +25,6 @@ challenge 5 - 2/5 evolved: lv 32 omanyte, lv 32 kabuto, lv 35 shuckle, lv 38 gra
 challenge 6 - 4/5 evolved: lv 38 graveller, lv 38 larvitar, lv 40 omastar, lv 40 kabutops, lv 44 shuckle
 
 challenge 7 - 6/6 evolved: lv 44 shuckle, lv 45 golem, lv 45 pupitar, lv 45 omastar, lv 45 kabutops, lv 46 aerodactyl
-
+----
+Replaced Shuckle with the Relicanth you traded him.
 elite 4 -  6/6 evolved: lv 45 golem, lv 50 relicath, lv 50 omastar, lv 50 kabutops, lv 50 aerodactyl, lv 55 tyranitar
