@@ -207,7 +207,7 @@
 ## Urban
 #### Route 7
 - Rattata (50%), Raticate (20%) - Kanto, Johto
-- Abra (20%), Kadabra (10%), Alakazam (0% Ace Trade Evolution) - Everywhere
+- Abra (20%), Kadabra (10%), Abraxas (0% Friendship Evolution), Alakazam (0% Ace Trade Evolution) - Everywhere
 #### Route 16
 - Rattata (75%), Raticate (20%) - Kanto, Johto
 - Happiny (1%), Chansey (4%), Blissey (0% Friendship Evolution) - *Kanto Exclusive*
@@ -245,7 +245,6 @@
 ----
 ## Rare
 - Budew, Roselia, Roserade - Johto Exlusive, Gym
-- Ralts, Kirilia, Gardevoir, Gallade - Johto Exclusive, Gym
 - Tynamo, Eelektrik, Eelektross - Unova Exclusive, Gym
 - Omanyte, Omastar - *Kanto Exclusive*
 - Omato, Omatops
