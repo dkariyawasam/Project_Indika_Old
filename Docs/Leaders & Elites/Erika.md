@@ -2,7 +2,7 @@
 - Trainer Class: Kimono Girl
 
 Erika is a kimono girl from Johto, she likes to tend to her garden. 
-Erika's ace is Roselia akin to her flowery theme.
+Erika's ace is Leafeon keeping with the Kimono Girl tradition of having an Eeveelution.
 
 challenge 1 - 0/2 evolved: lv 14 sunkern, lv 16 hoppip
 
