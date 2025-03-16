@@ -16,4 +16,9 @@ challenge 5 - 2/5 evolved: lv 31 horsea, lv 32 psyduck, lv 34 poliwhirl, lv 36 l
 
 challenge 6 - 4/5 evolved: lv 38 staryu, lv 39 golduck, lv 40 poliwhirl, lv 41 tentacruel, lv 42 lanturn
 
-challenge 7 - 6/6 evolved: lv 41 tentacruel, lv 42 lanturn, lv 45 golduck, lv lv 45 politoad, lv 46 starmie, lv 47 kingdra
+challenge 7 - 6/6 evolved: lv 41 tentacruel, lv 42 lanturn, lv 45 golduck, lv 45 politoad, lv 46 starmie, lv 47 kingdra
+
+----
+Replaced Golduck with the Gyarados you traded her.
+
+Pokemon League - 6/6 evolved: lv 50 Lanturn, lv 50 Politoed, lv 50 Tentacruel, lv 50 Gyarados, lv 50 Starmie, lv 50 Kingdra
