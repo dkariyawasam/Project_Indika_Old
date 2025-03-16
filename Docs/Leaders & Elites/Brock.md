@@ -28,4 +28,5 @@ challenge 7 - 6/6 evolved: lv 44 shuckle, lv 45 Aerodactyl, lv 45 pupitar, lv 45
 
 ----
 Replaced Shuckle with the Relicanth you traded him.
+
 elite 4 -  6/6 evolved: lv 45 golem, lv 50 relicath, lv 50 omastar, lv 50 kabutops, lv 50 aerodactyl, lv 55 Tyranitar
