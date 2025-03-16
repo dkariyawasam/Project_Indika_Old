@@ -27,5 +27,6 @@ challenge 6 - 4/5 evolved: lv 36 magneton, lv 36 electrode, lv 40 electabuzz, lv
 challenge 7 - 6/6 evolved: lv 41 electrode, lv 45 plusle, lv 45 minun, lv 45 electivire, lv 45 magnezone, lv 49 eelectross
 
 ----
+Replaced Electrode with the Raichu you traded him.
 
 Pokemon League - 6/6 evolved: lv 50 raichu, lv 50 plusle, lv 50 minun, lv 50 electivire, lv 50 magnezone, lv 50 eelectross
