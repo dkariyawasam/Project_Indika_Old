@@ -2,7 +2,7 @@
 - Trainer Class: Ruin Maniac
 
 Brock is a a fossil enthusiast from Kanto, he often goes to Mt Moon and Mt Silver in search of fossils. 
-Brock's ace is Aerodactyl.
+Brock's ace is Tyranitar.
 
 - On first entering the gym, Brock is unavailable.
 - The gym aide heads over to you and tells you Brock is in Mt Moon fossil hunting.
@@ -24,7 +24,8 @@ challenge 5 - 2/5 evolved: lv 32 omanyte, lv 32 kabuto, lv 35 shuckle, lv 38 gra
 
 challenge 6 - 4/5 evolved: lv 38 graveller, lv 38 larvitar, lv 40 omastar, lv 40 kabutops, lv 44 shuckle
 
-challenge 7 - 6/6 evolved: lv 44 shuckle, lv 45 golem, lv 45 pupitar, lv 45 omastar, lv 45 kabutops, lv 46 aerodactyl
+challenge 7 - 6/6 evolved: lv 44 shuckle, lv 45 Aerodactyl, lv 45 pupitar, lv 45 omastar, lv 45 kabutops, lv 46 Golem
+
 ----
 Replaced Shuckle with the Relicanth you traded him.
-elite 4 -  6/6 evolved: lv 45 golem, lv 50 relicath, lv 50 omastar, lv 50 kabutops, lv 50 aerodactyl, lv 55 tyranitar
+elite 4 -  6/6 evolved: lv 45 golem, lv 50 relicath, lv 50 omastar, lv 50 kabutops, lv 50 aerodactyl, lv 55 Tyranitar
