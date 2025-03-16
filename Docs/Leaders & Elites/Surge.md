@@ -1,7 +1,7 @@
 ## Lt Surge
 - Trainer Class: Officer
 
-Surge is a veteran soldier from the Pokemon war, he holds the title of Lieutenant and comes from Unova.
+Surge is a veteran soldier from the Pokemon war, he holds the title of Lieutenant and comes from Unova. Surge's Ace is Eelectross
 
 - On first entering the gym, Surge is unavailable.
 - The gym aide heads over to you and tells you Surge is at the Diglett Cave training.
@@ -26,4 +26,6 @@ challenge 6 - 4/5 evolved: lv 36 magneton, lv 36 electrode, lv 40 electabuzz, lv
 
 challenge 7 - 6/6 evolved: lv 41 electrode, lv 45 plusle, lv 45 minun, lv 45 electivire, lv 45 magnezone, lv 49 eelectross
 
-elite 4 - 6/6 evolved: lv 50 raichu, lv 50 plusle, lv 50 minun, lv 50 electivire, lv 50 magnezone, lv 50 eelectross
+----
+
+Pokemon League - 6/6 evolved: lv 50 raichu, lv 50 plusle, lv 50 minun, lv 50 electivire, lv 50 magnezone, lv 50 eelectross
