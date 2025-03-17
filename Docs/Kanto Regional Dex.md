@@ -130,7 +130,7 @@
 #### Diglett Cave -1F
 - Zubat (35%), Golbat (10%), Crobat (0% Friendship Evolution) - Everywhere
 - Diglett (30%), Dugtrio (10%) - *Kanto Exclusive*
-- Paras (10%), Parasect (5%) - Kanto, Johto
+- Paras (10%), Parasect (5%), Parasectic (0% Friendship Evolution) - Kanto, Johto
 #### Diglett Cave -2F
 - Zubat (10%), Golbat (35), Crobat (0% Friendship Evolution) - Everywhere
 - Diglett (10%), Dugtrio (30%) - *Kanto Exclusive*
@@ -244,7 +244,7 @@
 
 ----
 ## Rare
-- Budew, Roselia, Roserade - Johto Exlusive, Gym
+- Eevee, Leafeon - Johto Exlusive, Gym
 - Tynamo, Eelektrik, Eelektross - Unova Exclusive, Gym
 - Omanyte, Omastar - *Kanto Exclusive*
 - Omato, Omatops
