@@ -28,7 +28,7 @@
 
 #### Route 05
 - Ledyba (30%), Ledian (10%) - Kanto, Johto
-- Exeggcute (35%), Exeggutor (4% Item Evolution) - Kanto, Johto
+- Exeggcute (35%), Indigo Exeggutor (4% Item Evolution) - Kanto, Johto
 - Pidgey (15%), Pidgeotto (4%), Pidgeot (2%) - Kanto, Johto
 
 #### Route 11
