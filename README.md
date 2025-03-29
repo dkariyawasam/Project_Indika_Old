@@ -34,16 +34,3 @@
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/dfc9c7a2-c128-49fa-a84b-bd358b1725ad)
 ![Pokemon_Fire_Red_U_1 0](https://github.com/user-attachments/assets/592ff463-0bb9-4d4d-a36c-74946024fa6d)
 
-## Gym Leaders Todo List v0.8
-- [x] Find Brock in Mt Moon looking for fossils
-- [x] Add 7 variations of Brock's challenge
-- [x] Add Relicanth/Graveller trade after Brock's defeat
-- [x] Allow access to Cinnabar Lab through Boulder badge
-- [x] Find Misty in Power Plant reactivating it after a blackout
-- [x] Add 7 variatrions of Misty's challenge
-- [x] Add Gyrados/Poliwhirl natural item trade after Misty's defeat
-- [ ] Allow access to Lapras Paiger to surf in overworld
-- [x] Find Surge in Diglett's Cave training
-- [x] Add 7 variations of Surge's challenge
-- [x] Add Raichu/Electabuzz human item trade after Surge's defeat
-- [ ] Allow access to Vitamins in every Pokemart
