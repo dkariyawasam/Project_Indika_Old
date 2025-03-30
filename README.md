@@ -11,7 +11,7 @@
 - Primeval Pokemon: Are the Pseudo-legendary of Kanto and, while extremely rare, they can appear in the wild.
 - Fossil Pokemon: can be revived at the Cinnabar Lab as approximations of the original primeval counterparts.
 - Pokemon League: is 4 rounds of double battles from a randomised pool of Gym Leaders and Elite Four. After which you face the Rival.
-- Rocket League: is held at Team Rocket's HQ and is 8 rounds of single battles from a randomised pool of Rocket Aces and Rocket Admins. After Which you face Giovanni.    
+- Rocket League: is held at Team Rocket's HQ and is 4 rounds of single battles from a randomised pool of Rocket Aces and Rocket Admins. After Which you face Giovanni.    
 
 
 ## Screenshots
