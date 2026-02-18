@@ -1,4 +1,5 @@
 Magikarp (Deep Form)
-Type: Water/Dragon
-Location:
-Has Fire type moves
+
+- Type: Water/Dragon
+- Location:
+- Has Fire type moves
