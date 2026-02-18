@@ -46,6 +46,8 @@ Used Flags:
 
 special 0x17B - Plays the Seagull animation
 
+when adding new messages to existing npcs, compile the message and replace the offset in the original npc.
+
 ## HEX editing
 
 0x46AEFC to 0x46AF24 - 11 entries the Seagull warps to 
