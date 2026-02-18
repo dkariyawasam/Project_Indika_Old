@@ -2,6 +2,8 @@
 - Trainer Class: Psychic
 - 
 Sabrina is a psychic from Kanto.
+She gives the player a pokemon that evolve with friendship at night
+
 
 challenge 1 - 0/2 evolved: lv 13 smoochum, lv 17 ralts
 
