@@ -1,0 +1,20 @@
+//---------------
+#dynamic 0x740000
+
+#org @PokemaniacChaplin
+trainerbattle 0x0 0xDE 0x0 @MSGStartBattle @MSGEndBattle
+msgbox @MSGDefeated MSG_NORMAL //
+end
+
+
+//---------
+// Strings
+//---------
+#org @MSGStartBattle
+= All the MR. MIME have disappeared\nfrom the area!\l
+
+#org @MSGEndBattle
+= I would've won had you challenged\nme with my full team of MR. MIME.\l
+
+#org @MSGDefeated
+= They have gone into DIGLETT CAVE\nand erected barriers all around\ljust to avoid training.
