@@ -1,0 +1,5 @@
+//---------------
+#dynamic 0x740000
+
+#org @NPCRumourOsscythe3B
+= Kyoo!
