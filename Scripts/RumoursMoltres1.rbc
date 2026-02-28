@@ -1,0 +1,5 @@
+//---------------
+#dynamic 0x740000
+
+#org @NPCRumoursMoltres1
+= Legend says this volcano was\nshaped by the avatar of fire\litself.
