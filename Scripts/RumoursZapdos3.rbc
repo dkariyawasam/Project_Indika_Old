@@ -1,0 +1,5 @@
+//---------------
+#dynamic 0x740000
+
+#org @NPCRumoursZapdos3
+= Don't go any further!\pThe currents are raging and seems\nto have come alive!
